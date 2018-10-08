@@ -1,5 +1,7 @@
 package reflection.View;
-import com.company.Controller.Controller;
+
+
+import reflection.Controller.Controller;
 
 public class Main {
 

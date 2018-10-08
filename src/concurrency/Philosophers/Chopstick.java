@@ -1,3 +1,6 @@
+package concurrency.Philosophers;
+
+
 class Chopstick {
 
     public boolean used;

@@ -1,3 +1,4 @@
+package concurrency.Philosophers;
 
 class Log {
 

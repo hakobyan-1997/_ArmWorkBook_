@@ -1,3 +1,6 @@
+package concurrency.Philosophers;
+
+
 class Philosopher extends Thread {
     private Chopstick leftChopistick;
     private Chopstick rightChopistick;
