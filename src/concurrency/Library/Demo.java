@@ -1,8 +1,8 @@
-package lib;
+package concurrency.Library;
 
-import lib.Book.Genre;
-import lib.Magazine.Category;
-import lib.Textbook.Theme;
+import concurrency.Library.Book.Genre;
+import concurrency.Library.Magazine.Category;
+import concurrency.Library.Textbook.Theme;
 
 public class Demo {
 

@@ -1,4 +1,4 @@
-package gasstation;
+package concurrency.GasStationTest;
 
 import java.time.LocalDateTime;
 

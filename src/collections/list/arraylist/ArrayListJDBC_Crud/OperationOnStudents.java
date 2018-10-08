@@ -1,4 +1,4 @@
-import java.util.Scanner;
+package collections.list.arraylist.ArrayListJDBC_Crud;
 
 //import java.util.ArrayList;
 
@@ -10,3 +10,4 @@ public class OperationOnStudents {
 
 
     }
+}

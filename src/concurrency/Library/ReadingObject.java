@@ -1,4 +1,4 @@
-package lib;
+package concurrency.Library;
 
 public abstract class ReadingObject implements Comparable<ReadingObject> {
 

@@ -1,4 +1,4 @@
-package gasstation;
+package concurrency.GasStationTest;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
@@ -43,11 +43,11 @@ public class DBManager {
 	
 	//db table
 	/*
-	 “station_loadings” 
-	  ­ kolonka_id ­ numColumn 
-	  ­ fuel_type ­  typeFuel
-	  ­ fuel_quantity ­ amount
-	  ­ loading_time ­  date  
+	 ï¿½station_loadingsï¿½ï¿½
+	 ï¿½ï¿½ kolonka_idï¿½ï¿½ï¿½numColumnï¿½
+	  ï¿½ fuel_typeï¿½ï¿½ï¿½ï¿½typeFuel
+	  ï¿½ fuel_quantityï¿½ï¿½ï¿½amount
+	  ï¿½ loading_timeï¿½ï¿½ï¿½ dateï¿½ 
 	 */
 	
 	public void insertIntoDB(TypeFuel fuel, int amount, int numCol, LocalDateTime date) {

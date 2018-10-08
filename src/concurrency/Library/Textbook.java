@@ -1,4 +1,4 @@
-package lib;
+package concurrency.Library;
 
 public class Textbook extends ReadingObject {
 	public enum Theme implements IGroupType{

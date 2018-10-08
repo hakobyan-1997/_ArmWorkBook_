@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d023873d-49b2-4858-a16d-16e4f525d4de" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/collections/list/arraylist/ArrayListJDBC_Crud/OperationOnStudents.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collections/list/arraylist/ArrayListJDBC_Crud/ServiceClassUsingArrayLists.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collections/list/arraylist/ArrayListJDBC_Crud/ServiceClassUsingJDBC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collections/list/arraylist/ArrayListJDBC_Crud/Student.java" afterDir="false" />
+    <list default="true" id="d023873d-49b2-4858-a16d-16e4f525d4de" name="Default Changelist" comment="//Commit">
       <change afterPath="$PROJECT_DIR$/src/concurrency/GasStationTest/bin/gasstation/Car$TypeFuel.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/concurrency/GasStationTest/bin/gasstation/Car.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/concurrency/GasStationTest/bin/gasstation/Cashier.class" afterDir="false" />
@@ -15,13 +11,6 @@
       <change afterPath="$PROJECT_DIR$/src/concurrency/GasStationTest/bin/gasstation/Gasstation$Reporter.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/concurrency/GasStationTest/bin/gasstation/Gasstation.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/concurrency/GasStationTest/bin/gasstation/Loading.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/concurrency/GasStationTest/src/gasstation/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/concurrency/GasStationTest/src/gasstation/Cashier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/concurrency/GasStationTest/src/gasstation/DBManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/concurrency/GasStationTest/src/gasstation/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/concurrency/GasStationTest/src/gasstation/FuelBoy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/concurrency/GasStationTest/src/gasstation/Gasstation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/concurrency/GasStationTest/src/gasstation/Loading.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/concurrency/Library/bin/lib/Book$Genre.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/concurrency/Library/bin/lib/Book.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/concurrency/Library/bin/lib/BookChecker.class" afterDir="false" />
@@ -35,19 +24,6 @@
       <change afterPath="$PROJECT_DIR$/src/concurrency/Library/bin/lib/ReadingObject.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/concurrency/Library/bin/lib/Textbook$Theme.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/concurrency/Library/bin/lib/Textbook.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/concurrency/Library/src/lib/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/concurrency/Library/src/lib/BookChecker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/concurrency/Library/src/lib/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/concurrency/Library/src/lib/IGroupType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/concurrency/Library/src/lib/Library.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/concurrency/Library/src/lib/Magazine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/concurrency/Library/src/lib/Reader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/concurrency/Library/src/lib/ReadingObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/concurrency/Library/src/lib/Textbook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/concurrency/Philosophers/Chopstick.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/concurrency/Philosophers/Dine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/concurrency/Philosophers/Log.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/concurrency/Philosophers/Philosopher.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/concurrency/Warehouse/bin/wh/Client.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/concurrency/Warehouse/bin/wh/Demo.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/concurrency/Warehouse/bin/wh/Product$TypeProduct.class" afterDir="false" />
@@ -55,16 +31,12 @@
       <change afterPath="$PROJECT_DIR$/src/concurrency/Warehouse/bin/wh/Shop.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/concurrency/Warehouse/bin/wh/Supplier.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/concurrency/Warehouse/bin/wh/Warehouse.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/concurrency/Warehouse/src/wh/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/concurrency/Warehouse/src/wh/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/concurrency/Warehouse/src/wh/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/concurrency/Warehouse/src/wh/Shop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/concurrency/Warehouse/src/wh/Supplier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/concurrency/Warehouse/src/wh/Warehouse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/list/arraylist/ArrayListJDBC_Crud/OperationOnStudents.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collections/list/arraylist/ArrayListJDBC_Crud/OperationOnStudents.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/concurrency/a.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exceptions/a.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/interface/loto/Games.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/interfacee/loto/Games.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/interface/loto/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/interfacee/loto/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/interface/loto/Random_Number.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/interfacee/loto/Random_Number.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -119,32 +91,69 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="221" />
+          <entry key="java" value="225" />
           <entry key="txt" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="221" />
+          <entry key="JAVA" value="225" />
           <entry key="PLAIN_TEXT" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="188" />
-          <entry key="txt" value="85" />
+          <entry key="java" value="265" />
+          <entry key="txt" value="91" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="188" />
-          <entry key="PLAIN_TEXT" value="85" />
+          <entry key="JAVA" value="265" />
+          <entry key="PLAIN_TEXT" value="91" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/oop/interfacee/loto/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="128">
+              <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/oop/interfacee/loto/Random_Number.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="64">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/collections/list/arraylist/ArrayListJDBC_Crud/OperationOnStudents.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="208">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/oop/interfacee/loto/Games.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1104">
+              <caret line="69" column="54" selection-start-line="69" selection-start-column="54" selection-end-line="69" selection-end-column="54" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -154,18 +163,11 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src/exceptions/ExceptionMarket" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/collections/list/linkedlist/Task_24.java" />
-        <option value="$PROJECT_DIR$/src/collections/list/linkedlist/Task_25.java" />
-        <option value="$PROJECT_DIR$/src/collections/list/linkedlist/Task_26.java" />
-        <option value="$PROJECT_DIR$/src/collections/set/hashset/Task_16.java" />
-        <option value="$PROJECT_DIR$/src/collections/set/hashset/Task_12.java" />
-        <option value="$PROJECT_DIR$/src/collections/set/treeset/Task_15.java" />
-        <option value="$PROJECT_DIR$/src/collections/set/hashset/Task_6.java" />
         <option value="$PROJECT_DIR$/src/collections/map/hashmap/Task_6.java" />
         <option value="$PROJECT_DIR$/src/collections/map/treemap/Task_6.java" />
         <option value="$PROJECT_DIR$/src/collections/list/arraylist/Task_1.java" />
@@ -210,6 +212,13 @@
         <option value="$PROJECT_DIR$/src/exceptions/ExceptionMarket/entity/cashiers/NiceCashier.java" />
         <option value="$PROJECT_DIR$/src/exceptions/ExceptionMarket/entity/cashiers/NormalCashier.java" />
         <option value="$PROJECT_DIR$/src/exceptions/ExceptionMarket/entity/customers/AbstractCustomer.java" />
+        <option value="$PROJECT_DIR$/src/loto/Main.java" />
+        <option value="$PROJECT_DIR$/src/oop/interface/loto/Games.java" />
+        <option value="$PROJECT_DIR$/src/collections/list/arraylist/ArrayListJDBC_Crud/OperationOnStudents.java" />
+        <option value="$PROJECT_DIR$/src/oop/interface/loto/Main.java" />
+        <option value="$PROJECT_DIR$/src/oop/interfacee/loto/Random_Number.java" />
+        <option value="$PROJECT_DIR$/src/oop/interfacee/loto/Games.java" />
+        <option value="$PROJECT_DIR$/src/oop/interfacee/loto/Main.java" />
       </list>
     </option>
   </component>
@@ -223,6 +232,26 @@
     <option name="x" value="-7" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Probable bugsJava</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>WrongPackageStatement</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -259,16 +288,7 @@
             </path>
             <path>
               <item name="_ArmWorkBook_" type="b2602c69:ProjectViewProjectNode" />
-              <item name="_ArmWorkBook_" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="oop" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="_ArmWorkBook_" type="b2602c69:ProjectViewProjectNode" />
-              <item name="_ArmWorkBook_" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="oop" type="462c0819:PsiDirectoryNode" />
-              <item name="interface" type="462c0819:PsiDirectoryNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
             </path>
           </expand>
           <select />
@@ -280,7 +300,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539005363546" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539006329179" />
     <property name="last.edited.regexp" value="&#10;" />
   </component>
   <component name="RecentsManager">
@@ -309,20 +329,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Task_2">
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oop.inheritance.level_2.task7.Main" />
-      <module name="ArmWorkBook" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="oop.inheritance.level_2.task7.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="oop.inheritance.level_2.task13.Main" />
       <module name="ArmWorkBook" />
@@ -349,12 +356,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="ArmWorkBook" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oop.inheritance.level_2.task8.Main" />
+      <option name="MAIN_CLASS_NAME" value="oop.interfacee.loto.Main" />
       <module name="ArmWorkBook" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oop.inheritance.level_2.task8.*" />
+          <option name="PATTERN" value="oop.interfacee.loto.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -376,19 +390,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main" />
-      <item itemvalue="Application.Main (1)" />
       <item itemvalue="Application.Main (2)" />
       <item itemvalue="Application.Main (3)" />
       <item itemvalue="Application.Task_2" />
+      <item itemvalue="Application.Main (4)" />
+      <item itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Task_2" />
         <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -410,7 +424,7 @@
       <workItem from="1536747758751" duration="51000" />
       <workItem from="1536747835894" duration="1092000" />
       <workItem from="1536946030869" duration="140000" />
-      <workItem from="1539000764209" duration="4906000" />
+      <workItem from="1539000764209" duration="5458000" />
     </task>
     <task id="LOCAL-00001" summary="added collection part">
       <created>1539002293205</created>
@@ -475,16 +489,23 @@
       <option name="project" value="LOCAL" />
       <updated>1539005096342</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="//Interface Loto game">
+      <created>1539005725577</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1539005725578</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35281000" />
+    <option name="totallyTimeSpent" value="35833000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15778251" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15778251" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -501,9 +522,9 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49946696" visible="true" weight="0.3449024" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49946696" weight="0.15509762" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50053304" side_tool="true" weight="0.13774404" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.3286334" />
+      <window_info active="true" anchor="bottom" id="Messages" order="11" visible="true" weight="0.3286334" />
       <window_info anchor="right" id="Mongo Explorer" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -526,37 +547,10 @@
     <MESSAGE value="added collection part" />
     <MESSAGE value="//TODO add files" />
     <MESSAGE value="//Interface Loto game" />
-    <option name="LAST_COMMIT_MESSAGE" value="//Interface Loto game" />
+    <MESSAGE value="//Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="//Commit" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/collections/map/treemap/book_tasks/Task_8.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/collections/map/treemap/book_tasks/Task_9.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/collections/map/treemap/book_tasks/Task_10.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/collections/set/hashset/book_tasks/Task_1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/collections/set/hashset/book_tasks/Task_2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="32">
@@ -851,6 +845,34 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="32">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/collections/list/arraylist/ArrayListJDBC_Crud/OperationOnStudents.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oop/interfacee/loto/Games.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1104">
+          <caret line="69" column="54" selection-start-line="69" selection-start-column="54" selection-end-line="69" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oop/interfacee/loto/Random_Number.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oop/interfacee/loto/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
         </state>
       </provider>
     </entry>

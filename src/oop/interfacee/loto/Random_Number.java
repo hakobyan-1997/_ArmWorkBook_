@@ -1,4 +1,4 @@
-package loto;
+package oop.interfacee.loto;
 
 import java.util.Random;
 

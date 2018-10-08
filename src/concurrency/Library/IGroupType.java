@@ -1,4 +1,4 @@
-package lib;
+package concurrency.Library;
 
 public interface IGroupType {
 

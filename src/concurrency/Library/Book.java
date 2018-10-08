@@ -1,4 +1,4 @@
-package lib;
+package concurrency.Library;
 public class Book extends ReadingObject {
 
 	enum Genre implements IGroupType{

@@ -1,10 +1,10 @@
-package lib;
+package concurrency.Library;
 
 import java.util.HashMap;
 import java.util.Map.Entry;
 import java.util.TreeSet;
 
-import lib.ReadingObject.TypeReading;
+import concurrency.Library.ReadingObject.TypeReading;
 
 public class Library {
 
