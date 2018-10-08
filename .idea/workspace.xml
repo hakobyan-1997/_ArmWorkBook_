@@ -2,14 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d023873d-49b2-4858-a16d-16e4f525d4de" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/concurrency/a.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/design_patterns/a.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exceptions/a.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/file_io/a.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generics/a.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java8/a.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reflection/a.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/regular_expression/a.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/interface/loto/Games.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/interface/loto/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/interface/loto/Random_Number.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -65,39 +60,44 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="203" />
+          <entry key="java" value="204" />
           <entry key="txt" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="203" />
+          <entry key="JAVA" value="204" />
           <entry key="PLAIN_TEXT" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="java" value="162" />
-          <entry key="txt" value="31" />
+          <entry key="txt" value="60" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JAVA" value="162" />
-          <entry key="PLAIN_TEXT" value="31" />
+          <entry key="PLAIN_TEXT" value="60" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/collections/set/treeset/book_tasks/Task_4.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="80">
               <caret line="5" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://D:/Teacher/JavaPro/src/loto/Random_Number.java">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -205,13 +205,34 @@
               <item name="_ArmWorkBook_" type="b2602c69:ProjectViewProjectNode" />
               <item name="_ArmWorkBook_" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="basic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="_ArmWorkBook_" type="b2602c69:ProjectViewProjectNode" />
+              <item name="_ArmWorkBook_" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="collections" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="_ArmWorkBook_" type="b2602c69:ProjectViewProjectNode" />
               <item name="_ArmWorkBook_" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="java8" type="462c0819:PsiDirectoryNode" />
+              <item name="oop" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="_ArmWorkBook_" type="b2602c69:ProjectViewProjectNode" />
+              <item name="_ArmWorkBook_" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="oop" type="462c0819:PsiDirectoryNode" />
+              <item name="interface" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="_ArmWorkBook_" type="b2602c69:ProjectViewProjectNode" />
+              <item name="_ArmWorkBook_" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="oop" type="462c0819:PsiDirectoryNode" />
+              <item name="interface" type="462c0819:PsiDirectoryNode" />
+              <item name="loto" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -223,7 +244,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539004591585" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539005068872" />
     <property name="last.edited.regexp" value="&#10;" />
   </component>
   <component name="RecentsManager">
@@ -353,7 +374,7 @@
       <workItem from="1536747758751" duration="51000" />
       <workItem from="1536747835894" duration="1092000" />
       <workItem from="1536946030869" duration="140000" />
-      <workItem from="1539000764209" duration="3896000" />
+      <workItem from="1539000764209" duration="4298000" />
     </task>
     <task id="LOCAL-00001" summary="added collection part">
       <created>1539002293205</created>
@@ -404,17 +425,23 @@
       <option name="project" value="LOCAL" />
       <updated>1539004580535</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="//TODO add files">
+      <created>1539004689375</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1539004689375</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34271000" />
+    <option name="totallyTimeSpent" value="34673000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15778251" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15778251" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -431,8 +458,8 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.49946696" visible="true" weight="0.13774404" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50053304" side_tool="true" visible="true" weight="0.13774404" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49946696" visible="true" weight="0.3449024" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50053304" side_tool="true" weight="0.13774404" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32968238" />
       <window_info anchor="right" id="Mongo Explorer" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -454,16 +481,10 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added collection part" />
-    <option name="LAST_COMMIT_MESSAGE" value="added collection part" />
+    <MESSAGE value="//TODO add files" />
+    <option name="LAST_COMMIT_MESSAGE" value="//TODO add files" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/collections/list/linkedlist/book_tasks/Task_10.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/collections/map/hashmap/book_tasks/Task_1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="32">
@@ -781,6 +802,9 @@
           <caret line="5" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://D:/Teacher/JavaPro/src/loto/Random_Number.java">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
