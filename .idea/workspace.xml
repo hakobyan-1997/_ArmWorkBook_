@@ -2,20 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d023873d-49b2-4858-a16d-16e4f525d4de" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/oop/aggregation/Company.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/aggregation/EmpRole.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/aggregation/Employee.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oop/aggregation/Aggregation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/aggregation/Aggregation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/reflection/Controller/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/reflection/Controller/Controller.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/reflection/Example.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/reflection/Example.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/reflection/MethodsByReflection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/reflection/MethodsByReflection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/reflection/Model/Human.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/reflection/Model/Human.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/reflection/Model/Information.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/reflection/Model/Information.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/reflection/Model/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/reflection/Model/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/reflection/UserPass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/reflection/UserPass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/reflection/View/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/reflection/View/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/regular_expression/a.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/list/linkedlist/book_tasks/Task_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collections/list/linkedlist/book_tasks/Task_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/list/linkedlist/book_tasks/Task_10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collections/list/linkedlist/book_tasks/Task_10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/list/linkedlist/book_tasks/Task_11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collections/list/linkedlist/book_tasks/Task_11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/list/linkedlist/book_tasks/Task_12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collections/list/linkedlist/book_tasks/Task_12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/list/linkedlist/book_tasks/Task_13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collections/list/linkedlist/book_tasks/Task_13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/list/linkedlist/book_tasks/Task_14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collections/list/linkedlist/book_tasks/Task_14.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/list/linkedlist/book_tasks/Task_15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collections/list/linkedlist/book_tasks/Task_15.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/list/linkedlist/book_tasks/Task_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collections/list/linkedlist/book_tasks/Task_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/list/linkedlist/book_tasks/Task_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collections/list/linkedlist/book_tasks/Task_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/list/linkedlist/book_tasks/Task_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collections/list/linkedlist/book_tasks/Task_4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/list/linkedlist/book_tasks/Task_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collections/list/linkedlist/book_tasks/Task_5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/list/linkedlist/book_tasks/Task_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collections/list/linkedlist/book_tasks/Task_6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/list/linkedlist/book_tasks/Task_7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collections/list/linkedlist/book_tasks/Task_7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/list/linkedlist/book_tasks/Task_8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collections/list/linkedlist/book_tasks/Task_8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/list/linkedlist/book_tasks/Task_9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collections/list/linkedlist/book_tasks/Task_9.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -64,13 +66,15 @@
     <session id="727072855">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.2" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="348" />
+          <entry key="java" value="365" />
           <entry key="properties" value="6" />
           <entry key="txt" value="10" />
           <entry key="xml" value="3" />
@@ -78,7 +82,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="348" />
+          <entry key="JAVA" value="365" />
           <entry key="PLAIN_TEXT" value="10" />
           <entry key="Properties" value="6" />
           <entry key="XML" value="3" />
@@ -86,13 +90,13 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="411" />
+          <entry key="java" value="420" />
           <entry key="txt" value="91" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="411" />
+          <entry key="JAVA" value="420" />
           <entry key="PLAIN_TEXT" value="91" />
         </counts>
       </usages-collector>
@@ -101,86 +105,120 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/reflection/Example.java">
+        <entry file="file://$PROJECT_DIR$/src/collections/list/linkedlist/book_tasks/Task_7.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="32">
-              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/reflection/Model/Student.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="25" selection-start-column="25" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/reflection/Controller/Controller.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-3270">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            <state relative-caret-position="256">
+              <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#235#243#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/reflection/MethodsByReflection.java">
+        <entry file="file://$PROJECT_DIR$/src/collections/list/linkedlist/book_tasks/Task_8.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="368">
-              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+            <state relative-caret-position="256">
+              <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+              <folding>
+                <element signature="e#235#243#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/generics/arraylist_example/Qartez.java">
+        <entry file="file://$PROJECT_DIR$/src/collections/list/linkedlist/book_tasks/Task_9.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="656">
-              <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
+            <state relative-caret-position="400">
+              <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+              <folding>
+                <element signature="e#207#215#0" expanded="true" />
+                <element signature="e#575#583#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/collections/list/linkedlist/book_tasks/Task_10.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="384">
+              <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+              <folding>
+                <element signature="e#206#214#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/collections/list/linkedlist/book_tasks/Task_11.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="336">
+              <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+              <folding>
+                <element signature="e#206#214#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/collections/list/linkedlist/book_tasks/Task_12.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="320">
+              <caret line="20" column="61" selection-start-line="20" selection-start-column="61" selection-end-line="20" selection-end-column="61" />
+              <folding>
+                <element signature="e#207#215#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/collections/list/linkedlist/book_tasks/Task_13.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="368">
+              <caret line="25" column="61" selection-start-line="25" selection-start-column="61" selection-end-line="25" selection-end-column="61" />
+              <folding>
+                <element signature="e#205#213#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/collections/list/linkedlist/book_tasks/Task_14.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="336">
+              <caret line="21" column="61" selection-start-line="21" selection-start-column="61" selection-end-line="21" selection-end-column="61" />
+              <folding>
+                <element signature="e#205#213#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/collections/list/linkedlist/book_tasks/Task_15.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="320">
+              <caret line="20" column="72" selection-start-line="20" selection-start-column="72" selection-end-line="20" selection-end-column="72" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#207#215#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/oop/aggregation/Aggregation.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-183">
-              <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/oop/aggregation/Employee.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/oop/aggregation/EmpRole.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/oop/aggregation/Company.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="64">
-              <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/reflection/UserPass.java">
+        <entry file="file://$PROJECT_DIR$/src/collections/list/linkedlist/book_tasks/Task_16.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="32">
-              <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -200,21 +238,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/java8/lambda/Lambda3.java" />
-        <option value="$PROJECT_DIR$/src/java8/lambda/Lambda2.java" />
-        <option value="$PROJECT_DIR$/src/java8/stream/Streams1.java" />
-        <option value="$PROJECT_DIR$/src/java8/stream/Streams2.java" />
-        <option value="$PROJECT_DIR$/src/java8/stream/Streams3.java" />
-        <option value="$PROJECT_DIR$/src/java8/stream/Streams4.java" />
-        <option value="$PROJECT_DIR$/src/java8/stream/Streams5.java" />
-        <option value="$PROJECT_DIR$/src/java8/stream/Streams6.java" />
-        <option value="$PROJECT_DIR$/src/java8/stream/Streams8.java" />
-        <option value="$PROJECT_DIR$/src/java8/stream/Streams9.java" />
-        <option value="$PROJECT_DIR$/src/java8/stream/Streams10.java" />
-        <option value="$PROJECT_DIR$/src/java8/stream/Streams11.java" />
-        <option value="$PROJECT_DIR$/src/java8/stream/Streams12.java" />
-        <option value="$PROJECT_DIR$/src/java8/stream/Streams13.java" />
-        <option value="$PROJECT_DIR$/src/java8/stream/Streams7.java" />
         <option value="$PROJECT_DIR$/src/exceptions/Exception_Market/Main.java" />
         <option value="$PROJECT_DIR$/src/exceptions/Exception_Market/entity/Shop.java" />
         <option value="$PROJECT_DIR$/src/exceptions/Exception_Market/entity/Customer.java" />
@@ -251,6 +274,21 @@
         <option value="$PROJECT_DIR$/src/oop/aggregation/EmpRole.java" />
         <option value="$PROJECT_DIR$/src/oop/aggregation/Employee.java" />
         <option value="$PROJECT_DIR$/src/oop/aggregation/Aggregation.java" />
+        <option value="$PROJECT_DIR$/src/collections/list/linkedlist/book_tasks/Task_1.java" />
+        <option value="$PROJECT_DIR$/src/collections/list/linkedlist/book_tasks/Task_2.java" />
+        <option value="$PROJECT_DIR$/src/collections/list/linkedlist/book_tasks/Task_3.java" />
+        <option value="$PROJECT_DIR$/src/collections/list/linkedlist/book_tasks/Task_4.java" />
+        <option value="$PROJECT_DIR$/src/collections/list/linkedlist/book_tasks/Task_5.java" />
+        <option value="$PROJECT_DIR$/src/collections/list/linkedlist/book_tasks/Task_6.java" />
+        <option value="$PROJECT_DIR$/src/collections/list/linkedlist/book_tasks/Task_7.java" />
+        <option value="$PROJECT_DIR$/src/collections/list/linkedlist/book_tasks/Task_8.java" />
+        <option value="$PROJECT_DIR$/src/collections/list/linkedlist/book_tasks/Task_9.java" />
+        <option value="$PROJECT_DIR$/src/collections/list/linkedlist/book_tasks/Task_10.java" />
+        <option value="$PROJECT_DIR$/src/collections/list/linkedlist/book_tasks/Task_11.java" />
+        <option value="$PROJECT_DIR$/src/collections/list/linkedlist/book_tasks/Task_12.java" />
+        <option value="$PROJECT_DIR$/src/collections/list/linkedlist/book_tasks/Task_13.java" />
+        <option value="$PROJECT_DIR$/src/collections/list/linkedlist/book_tasks/Task_14.java" />
+        <option value="$PROJECT_DIR$/src/collections/list/linkedlist/book_tasks/Task_15.java" />
       </list>
     </option>
   </component>
@@ -260,7 +298,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="x" value="-7" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
@@ -293,7 +331,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -310,27 +347,31 @@
               <item name="_ArmWorkBook_" type="b2602c69:ProjectViewProjectNode" />
               <item name="_ArmWorkBook_" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="exceptions" type="462c0819:PsiDirectoryNode" />
+              <item name="collections" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="_ArmWorkBook_" type="b2602c69:ProjectViewProjectNode" />
               <item name="_ArmWorkBook_" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="exceptions" type="462c0819:PsiDirectoryNode" />
-              <item name="ExceptionLoginPass" type="462c0819:PsiDirectoryNode" />
+              <item name="collections" type="462c0819:PsiDirectoryNode" />
+              <item name="list" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="_ArmWorkBook_" type="b2602c69:ProjectViewProjectNode" />
               <item name="_ArmWorkBook_" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="oop" type="462c0819:PsiDirectoryNode" />
+              <item name="collections" type="462c0819:PsiDirectoryNode" />
+              <item name="list" type="462c0819:PsiDirectoryNode" />
+              <item name="linkedlist" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="_ArmWorkBook_" type="b2602c69:ProjectViewProjectNode" />
               <item name="_ArmWorkBook_" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="oop" type="462c0819:PsiDirectoryNode" />
-              <item name="aggregation" type="462c0819:PsiDirectoryNode" />
+              <item name="collections" type="462c0819:PsiDirectoryNode" />
+              <item name="list" type="462c0819:PsiDirectoryNode" />
+              <item name="linkedlist" type="462c0819:PsiDirectoryNode" />
+              <item name="book_tasks" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="_ArmWorkBook_" type="b2602c69:ProjectViewProjectNode" />
@@ -341,12 +382,13 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539010741846" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539012526611" />
     <property name="last.edited.regexp" value="&#10;" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
@@ -474,7 +516,8 @@
       <workItem from="1536747758751" duration="51000" />
       <workItem from="1536747835894" duration="1092000" />
       <workItem from="1536946030869" duration="140000" />
-      <workItem from="1539000764209" duration="9950000" />
+      <workItem from="1539000764209" duration="10287000" />
+      <workItem from="1539012108342" duration="255000" />
     </task>
     <task id="LOCAL-00001" summary="added collection part">
       <created>1539002293205</created>
@@ -574,11 +617,32 @@
       <option name="project" value="LOCAL" />
       <updated>1539009581916</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="//Commit">
+      <created>1539010736865</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1539010736865</updated>
+    </task>
+    <task id="LOCAL-00016" summary="//Commit">
+      <created>1539010749081</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1539010749081</updated>
+    </task>
+    <task id="LOCAL-00017" summary="//Commit">
+      <created>1539010755176</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1539010755176</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40325000" />
+    <option name="totallyTimeSpent" value="40917000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -590,10 +654,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-7" y="0" width="974" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15778251" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3238512" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -610,10 +674,9 @@
       <window_info anchor="bottom" id="TODO" order="6" weight="0.329718" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.329718" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49946696" visible="true" weight="0.38286334" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49946696" visible="true" weight="0.38663745" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50053304" side_tool="true" weight="0.13774404" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.28741866" />
-      <window_info anchor="right" id="Mongo Explorer" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -623,6 +686,7 @@
       <window_info anchor="right" id="Theme Preview" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Maven Projects" order="8" />
+      <window_info anchor="right" id="Mongo Explorer" order="9" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -655,228 +719,26 @@
     <option name="LAST_COMMIT_MESSAGE" value="//Commit" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/java8/stream/Streams2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="16">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java8/stream/Streams3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="16">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java8/stream/Streams4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="16">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java8/stream/Streams5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="16">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java8/stream/Streams6.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java8/stream/Streams8.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="16">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java8/stream/Streams9.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="16">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java8/stream/Streams10.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="16">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java8/stream/Streams11.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="16">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java8/stream/Streams12.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java8/stream/Streams13.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="16">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java8/stream/Streams7.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="16">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/basic/arrays/Ex68_87/Task_68.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/exceptions/Exception_Market/Main.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/exceptions/Exception_Market/entity/Shop.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/exceptions/Exception_Market/entity/Customer.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/exceptions/Exception_Market/entity/CashierStrategy.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/exceptions/Exception_Market/entity/Cashier.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/exceptions/Exception_Market/entity/strategies/FriendlyStrategy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/exceptions/Exception_Market/entity/strategies/CommonStrategy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/exceptions/Exception_Market/entity/strategies/AngryStrategy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/exceptions/Exception_Market/entity/exceptions/TapeIsEnded.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/exceptions/Exception_Market/entity/exceptions/RegisterIsBroken.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/exceptions/Exception_Market/entity/exceptions/RegisterExceptions.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/exceptions/Exception_Market/entity/exceptions/CashierHasNoChange.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/exceptions/Exception_Market/entity/errors/FireInTheShop.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/exceptions/Exception_Market/entity/errors/ShopRobbery.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/exceptions/Exception_Market/entity/customers/AbstractCustomer.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/exceptions/Exception_Market/entity/customers/CustomerWithCreditCard.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/exceptions/Exception_Market/entity/customers/NormalCustomer.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/exceptions/Exception_Market/entity/customers/SlowlyCustomer.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/exceptions/Exception_Market/entity/cashiers/StrangeCashier.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/exceptions/Exception_Market/entity/cashiers/NormalCashier.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/exceptions/Exception_Market/entity/cashiers/AbstractCashier.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="11" column="41" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/exceptions/Exception_Market/entity/cashiers/NiceCashier.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/exceptions/Exception_Market/Application.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="433">
-          <caret line="47" column="49" lean-forward="true" selection-start-line="47" selection-start-column="49" selection-end-line="47" selection-end-column="49" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/exceptions/Exception_Market/entity/Register.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="35" column="21" lean-forward="true" selection-start-line="35" selection-start-column="21" selection-end-line="35" selection-end-column="21" />
-          <folding>
-            <element signature="e#345#346#0" expanded="true" />
-            <element signature="e#383#384#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/exceptions/Exception_Market/entity/Cashier.java" />
+    <entry file="file://$PROJECT_DIR$/src/exceptions/Exception_Market/entity/strategies/FriendlyStrategy.java" />
+    <entry file="file://$PROJECT_DIR$/src/exceptions/Exception_Market/entity/strategies/CommonStrategy.java" />
+    <entry file="file://$PROJECT_DIR$/src/exceptions/Exception_Market/entity/strategies/AngryStrategy.java" />
+    <entry file="file://$PROJECT_DIR$/src/exceptions/Exception_Market/entity/exceptions/TapeIsEnded.java" />
+    <entry file="file://$PROJECT_DIR$/src/exceptions/Exception_Market/entity/exceptions/RegisterIsBroken.java" />
+    <entry file="file://$PROJECT_DIR$/src/exceptions/Exception_Market/entity/exceptions/RegisterExceptions.java" />
+    <entry file="file://$PROJECT_DIR$/src/exceptions/Exception_Market/entity/exceptions/CashierHasNoChange.java" />
+    <entry file="file://$PROJECT_DIR$/src/exceptions/Exception_Market/entity/errors/FireInTheShop.java" />
+    <entry file="file://$PROJECT_DIR$/src/exceptions/Exception_Market/entity/errors/ShopRobbery.java" />
+    <entry file="file://$PROJECT_DIR$/src/exceptions/Exception_Market/entity/customers/AbstractCustomer.java" />
+    <entry file="file://$PROJECT_DIR$/src/exceptions/Exception_Market/entity/customers/CustomerWithCreditCard.java" />
+    <entry file="file://$PROJECT_DIR$/src/exceptions/Exception_Market/entity/customers/NormalCustomer.java" />
+    <entry file="file://$PROJECT_DIR$/src/exceptions/Exception_Market/entity/customers/SlowlyCustomer.java" />
+    <entry file="file://$PROJECT_DIR$/src/exceptions/Exception_Market/entity/cashiers/StrangeCashier.java" />
+    <entry file="file://$PROJECT_DIR$/src/exceptions/Exception_Market/entity/cashiers/NormalCashier.java" />
+    <entry file="file://$PROJECT_DIR$/src/exceptions/Exception_Market/entity/cashiers/AbstractCashier.java" />
+    <entry file="file://$PROJECT_DIR$/src/exceptions/Exception_Market/entity/cashiers/NiceCashier.java" />
+    <entry file="file://$PROJECT_DIR$/src/exceptions/Exception_Market/Application.java" />
+    <entry file="file://$PROJECT_DIR$/src/exceptions/Exception_Market/entity/Register.java" />
     <entry file="file://$PROJECT_DIR$/src/exceptions/ExceptionLoginPass/pom.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -901,6 +763,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/reflection/Example.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/reflection/Model/Student.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -910,7 +779,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/reflection/Controller/Controller.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3270">
+        <state relative-caret-position="32">
           <caret line="2" selection-start-line="2" selection-end-line="2" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -918,10 +787,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/reflection/Example.java">
+    <entry file="file://$PROJECT_DIR$/src/reflection/MethodsByReflection.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        <state relative-caret-position="368">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/generics/arraylist_example/Qartez.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="656">
+          <caret line="45" selection-start-line="45" selection-end-line="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oop/aggregation/Employee.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oop/aggregation/EmpRole.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oop/aggregation/Company.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
         </state>
       </provider>
     </entry>
@@ -932,37 +821,182 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/reflection/MethodsByReflection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/generics/arraylist_example/Qartez.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="656">
-          <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/oop/aggregation/EmpRole.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/oop/aggregation/Employee.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/oop/aggregation/Company.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/oop/aggregation/Aggregation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-183">
+        <state relative-caret-position="16">
           <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/collections/list/linkedlist/book_tasks/Task_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="17" column="57" selection-start-line="17" selection-start-column="57" selection-end-line="17" selection-end-column="57" />
+          <folding>
+            <element signature="e#204#212#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/collections/list/linkedlist/book_tasks/Task_2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+          <folding>
+            <element signature="e#196#204#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/collections/list/linkedlist/book_tasks/Task_3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#205#213#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/collections/list/linkedlist/book_tasks/Task_4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#205#213#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/collections/list/linkedlist/book_tasks/Task_5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="18" column="56" selection-start-line="18" selection-start-column="56" selection-end-line="18" selection-end-column="56" />
+          <folding>
+            <element signature="e#227#235#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/collections/list/linkedlist/book_tasks/Task_6.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+          <folding>
+            <element signature="e#205#213#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/collections/list/linkedlist/book_tasks/Task_7.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+          <folding>
+            <element signature="e#235#243#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/collections/list/linkedlist/book_tasks/Task_8.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+          <folding>
+            <element signature="e#235#243#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/collections/list/linkedlist/book_tasks/Task_9.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+          <folding>
+            <element signature="e#207#215#0" expanded="true" />
+            <element signature="e#575#583#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/collections/list/linkedlist/book_tasks/Task_10.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+          <folding>
+            <element signature="e#206#214#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/collections/list/linkedlist/book_tasks/Task_11.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+          <folding>
+            <element signature="e#206#214#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/collections/list/linkedlist/book_tasks/Task_12.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="20" column="61" selection-start-line="20" selection-start-column="61" selection-end-line="20" selection-end-column="61" />
+          <folding>
+            <element signature="e#207#215#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/collections/list/linkedlist/book_tasks/Task_13.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="25" column="61" selection-start-line="25" selection-start-column="61" selection-end-line="25" selection-end-column="61" />
+          <folding>
+            <element signature="e#205#213#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/collections/list/linkedlist/book_tasks/Task_14.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="21" column="61" selection-start-line="21" selection-start-column="61" selection-end-line="21" selection-end-column="61" />
+          <folding>
+            <element signature="e#205#213#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/collections/list/linkedlist/book_tasks/Task_15.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="20" column="72" selection-start-line="20" selection-start-column="72" selection-end-line="20" selection-end-column="72" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#207#215#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/collections/list/linkedlist/book_tasks/Task_16.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="18" column="70" selection-start-line="18" selection-start-column="70" selection-end-line="18" selection-end-column="70" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#207#215#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/collections/list/linkedlist/book_tasks/Task_17.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
