@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d023873d-49b2-4858-a16d-16e4f525d4de" name="Default Changelist" comment="" />
+    <list default="true" id="d023873d-49b2-4858-a16d-16e4f525d4de" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collections/list/arraylist/Task_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collections/list/arraylist/Task_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collections/list/arraylist/Task_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/level_1/task5/Class2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/inheritance/level_1/task5/Class2.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -46,39 +53,129 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="727072855">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="122" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="122" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="97" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="97" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/oop/polymorphism/level_1/task1/Computer.java">
+        <entry file="file://$PROJECT_DIR$/src/collections/map/treemap/Task_4.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="22" column="58" selection-start-line="22" selection-start-column="58" selection-end-line="22" selection-end-column="58" />
+            <state relative-caret-position="48">
+              <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/collections/list/arraylist/Task_1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
               <folding>
-                <element signature="e#418#419#0" expanded="true" />
-                <element signature="e#481#482#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/collections/list/arraylist/Task_2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="368">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#208#216#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/oop/polymorphism/level_1/task1/ComputerInheritor.java">
+        <entry file="file://$PROJECT_DIR$/src/collections/list/arraylist/Task_4.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="18" column="4" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
+            <state relative-caret-position="352">
+              <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
               <folding>
-                <element signature="e#391#392#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#258#266#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/oop/polymorphism/level_1/task1/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/collections/list/arraylist/Task_3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="336">
+              <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#209#217#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/collections/list/arraylist/Task_6.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="80">
+              <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/collections/list/arraylist/Task_7.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="80">
+              <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/collections/list/arraylist/Task_8.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="80">
+              <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/collections/list/arraylist/Task_9.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="80">
+              <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -92,43 +189,12 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/oop/inheritance/level_2/task2/Main.java" />
-        <option value="$PROJECT_DIR$/src/oop/inheritance/level_2/task2/MyDate.java" />
-        <option value="$PROJECT_DIR$/src/oop/inheritance/level_2/task2/Worker.java" />
-        <option value="$PROJECT_DIR$/src/oop/inheritance/level_2/task3/Main.java" />
-        <option value="$PROJECT_DIR$/src/oop/inheritance/level_2/task3/MyDate.java" />
-        <option value="$PROJECT_DIR$/src/oop/inheritance/level_2/task3/Remedy.java" />
-        <option value="$PROJECT_DIR$/src/oop/inheritance/level_2/task3/RemedyList.java" />
-        <option value="$PROJECT_DIR$/src/oop/inheritance/level_2/task4/Main.java" />
-        <option value="$PROJECT_DIR$/src/oop/inheritance/level_2/task4/Time.java" />
-        <option value="$PROJECT_DIR$/src/oop/inheritance/level_2/task4/User.java" />
-        <option value="$PROJECT_DIR$/src/oop/inheritance/level_2/task4/UserList.java" />
-        <option value="$PROJECT_DIR$/src/oop/inheritance/level_2/task5/Lesson.java" />
-        <option value="$PROJECT_DIR$/src/oop/inheritance/level_2/task5/LessonList.java" />
-        <option value="$PROJECT_DIR$/src/oop/inheritance/level_2/task5/Main.java" />
-        <option value="$PROJECT_DIR$/src/oop/inheritance/level_2/task5/Time.java" />
-        <option value="$PROJECT_DIR$/src/oop/inheritance/level_2/task6/Book.java" />
-        <option value="$PROJECT_DIR$/src/oop/inheritance/level_2/task6/BookList.java" />
-        <option value="$PROJECT_DIR$/src/oop/inheritance/level_2/task6/Library.java" />
-        <option value="$PROJECT_DIR$/src/oop/inheritance/level_2/task6/Main.java" />
-        <option value="$PROJECT_DIR$/src/oop/inheritance/level_2/task7/Book.java" />
-        <option value="$PROJECT_DIR$/src/oop/inheritance/level_2/task7/BookList.java" />
-        <option value="$PROJECT_DIR$/src/oop/inheritance/level_2/task7/BookShop.java" />
-        <option value="$PROJECT_DIR$/src/oop/inheritance/level_2/task7/Main.java" />
-        <option value="$PROJECT_DIR$/src/oop/inheritance/level_2/task8/BirthYear.java" />
-        <option value="$PROJECT_DIR$/src/oop/inheritance/level_2/task8/Main.java" />
-        <option value="$PROJECT_DIR$/src/oop/inheritance/level_2/task8/Worker.java" />
-        <option value="$PROJECT_DIR$/src/oop/inheritance/level_2/task8/WorkerList.java" />
-        <option value="$PROJECT_DIR$/src/oop/inheritance/level_2/task2/WorkerList.java" />
-        <option value="$PROJECT_DIR$/src/oop/inheritance/level_2/task9/Main.java" />
-        <option value="$PROJECT_DIR$/src/oop/inheritance/level_2/task9/Worker.java" />
-        <option value="$PROJECT_DIR$/src/oop/inheritance/level_2/task9/WorkerList.java" />
-        <option value="$PROJECT_DIR$/src/oop/inheritance/level_2/task9/WorkerProfession.java" />
-        <option value="$PROJECT_DIR$/src/oop/inheritance/level_2/task10/Counter.java" />
-        <option value="$PROJECT_DIR$/src/oop/inheritance/level_2/task10/Main.java" />
         <option value="$PROJECT_DIR$/src/oop/inheritance/level_2/task10/Numbers.java" />
         <option value="$PROJECT_DIR$/src/oop/inheritance/level_2/task10/X.java" />
         <option value="$PROJECT_DIR$/src/oop/inheritance/level_2/task11/Counter.java" />
@@ -146,6 +212,40 @@
         <option value="$PROJECT_DIR$/src/oop/polymorphism/level_1/task1/Main.java" />
         <option value="$PROJECT_DIR$/src/oop/polymorphism/level_1/task1/Computer.java" />
         <option value="$PROJECT_DIR$/src/oop/polymorphism/level_1/task1/ComputerInheritor.java" />
+        <option value="$PROJECT_DIR$/src/oop/inheritance/level_1/task5/Class2.java" />
+        <option value="$PROJECT_DIR$/src/oop/inheritance/level_1/task8/Class2.java" />
+        <option value="$PROJECT_DIR$/src/collections/list/arraylist/Task_5.java" />
+        <option value="$PROJECT_DIR$/src/collections/list/arraylist/Task_12.java" />
+        <option value="$PROJECT_DIR$/src/collections/list/arraylist/Task_13.java" />
+        <option value="$PROJECT_DIR$/src/collections/list/arraylist/Task_14.java" />
+        <option value="$PROJECT_DIR$/src/collections/list/arraylist/Task_15.java" />
+        <option value="$PROJECT_DIR$/src/collections/list/arraylist/Task_16.java" />
+        <option value="$PROJECT_DIR$/src/collections/list/arraylist/Task_17.java" />
+        <option value="$PROJECT_DIR$/src/collections/list/arraylist/Task_18.java" />
+        <option value="$PROJECT_DIR$/src/collections/list/arraylist/Task_19.java" />
+        <option value="$PROJECT_DIR$/src/collections/list/arraylist/Task_20.java" />
+        <option value="$PROJECT_DIR$/src/collections/list/arraylist/Task_21.java" />
+        <option value="$PROJECT_DIR$/src/collections/list/arraylist/Task_22.java" />
+        <option value="$PROJECT_DIR$/src/collections/list/linkedlist/Task_18.java" />
+        <option value="$PROJECT_DIR$/src/collections/list/linkedlist/Task_23.java" />
+        <option value="$PROJECT_DIR$/src/collections/list/linkedlist/Task_24.java" />
+        <option value="$PROJECT_DIR$/src/collections/list/linkedlist/Task_25.java" />
+        <option value="$PROJECT_DIR$/src/collections/list/linkedlist/Task_26.java" />
+        <option value="$PROJECT_DIR$/src/collections/set/hashset/Task_16.java" />
+        <option value="$PROJECT_DIR$/src/collections/set/hashset/Task_12.java" />
+        <option value="$PROJECT_DIR$/src/collections/set/treeset/Task_15.java" />
+        <option value="$PROJECT_DIR$/src/collections/set/hashset/Task_6.java" />
+        <option value="$PROJECT_DIR$/src/collections/map/hashmap/Task_6.java" />
+        <option value="$PROJECT_DIR$/src/collections/map/treemap/Task_6.java" />
+        <option value="$PROJECT_DIR$/src/collections/list/arraylist/Task_6.java" />
+        <option value="$PROJECT_DIR$/src/collections/list/arraylist/Task_7.java" />
+        <option value="$PROJECT_DIR$/src/collections/list/arraylist/Task_8.java" />
+        <option value="$PROJECT_DIR$/src/collections/list/arraylist/Task_9.java" />
+        <option value="$PROJECT_DIR$/src/collections/list/arraylist/Task_1.java" />
+        <option value="$PROJECT_DIR$/src/collections/list/arraylist/Task_2.java" />
+        <option value="$PROJECT_DIR$/src/collections/list/arraylist/Task_3.java" />
+        <option value="$PROJECT_DIR$/src/collections/list/arraylist/Task_4.java" />
+        <option value="$PROJECT_DIR$/src/collections/list/arraylist/Task4.java" />
       </list>
     </option>
   </component>
@@ -156,9 +256,12 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-7" />
-    <option name="width" value="974" />
+    <option name="x" value="1267" />
+    <option name="width" value="660" />
     <option name="height" value="1047" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -166,79 +269,78 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="ArmWorkBook" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ArmWorkBook" type="462c0819:PsiDirectoryNode" />
+              <item name="_ArmWorkBook_" type="b2602c69:ProjectViewProjectNode" />
+              <item name="_ArmWorkBook_" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="ArmWorkBook" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ArmWorkBook" type="462c0819:PsiDirectoryNode" />
+              <item name="_ArmWorkBook_" type="b2602c69:ProjectViewProjectNode" />
+              <item name="_ArmWorkBook_" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="ArmWorkBook" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ArmWorkBook" type="462c0819:PsiDirectoryNode" />
+              <item name="_ArmWorkBook_" type="b2602c69:ProjectViewProjectNode" />
+              <item name="_ArmWorkBook_" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="basic" type="462c0819:PsiDirectoryNode" />
+              <item name="collections" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="ArmWorkBook" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ArmWorkBook" type="462c0819:PsiDirectoryNode" />
+              <item name="_ArmWorkBook_" type="b2602c69:ProjectViewProjectNode" />
+              <item name="_ArmWorkBook_" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="oop" type="462c0819:PsiDirectoryNode" />
+              <item name="collections" type="462c0819:PsiDirectoryNode" />
+              <item name="list" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="ArmWorkBook" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ArmWorkBook" type="462c0819:PsiDirectoryNode" />
+              <item name="_ArmWorkBook_" type="b2602c69:ProjectViewProjectNode" />
+              <item name="_ArmWorkBook_" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="oop" type="462c0819:PsiDirectoryNode" />
-              <item name="polymorphism" type="462c0819:PsiDirectoryNode" />
+              <item name="collections" type="462c0819:PsiDirectoryNode" />
+              <item name="list" type="462c0819:PsiDirectoryNode" />
+              <item name="arraylist" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="ArmWorkBook" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ArmWorkBook" type="462c0819:PsiDirectoryNode" />
+              <item name="_ArmWorkBook_" type="b2602c69:ProjectViewProjectNode" />
+              <item name="_ArmWorkBook_" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="oop" type="462c0819:PsiDirectoryNode" />
-              <item name="polymorphism" type="462c0819:PsiDirectoryNode" />
-              <item name="level_1" type="462c0819:PsiDirectoryNode" />
+              <item name="collections" type="462c0819:PsiDirectoryNode" />
+              <item name="map" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="ArmWorkBook" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ArmWorkBook" type="462c0819:PsiDirectoryNode" />
+              <item name="_ArmWorkBook_" type="b2602c69:ProjectViewProjectNode" />
+              <item name="_ArmWorkBook_" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="oop" type="462c0819:PsiDirectoryNode" />
-              <item name="polymorphism" type="462c0819:PsiDirectoryNode" />
-              <item name="level_1" type="462c0819:PsiDirectoryNode" />
-              <item name="task1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ArmWorkBook" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="collections" type="462c0819:PsiDirectoryNode" />
+              <item name="set" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536749069032" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539002197304" />
     <property name="last.edited.regexp" value="&#10;" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="collections.set.hashset" />
+      <recent name="collections.list.linkedlist" />
+      <recent name="collections.list.arraylist" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\root\Desktop\_ArmWorkBook_\src\collections\map\treemap" />
+      <recent name="C:\Users\root\Desktop\_ArmWorkBook_\src\collections\map\hashmap" />
+      <recent name="C:\Users\root\Desktop\_ArmWorkBook_\src\collections\set\hashset" />
+      <recent name="C:\Users\root\Desktop\_ArmWorkBook_\src\collections\list\linkedlist" />
       <recent name="C:\Users\root\Desktop\•Personal•\ArmWorkBook\src\oop\polymorphism\level_2" />
-      <recent name="C:\Users\root\Desktop\•Personal•\ArmWorkBook\src\oop\polymorphism" />
-      <recent name="C:\Users\root\Desktop\•Personal•\ArmWorkBook\src\oop\inheritance\level_2" />
-      <recent name="C:\Users\root\Desktop\•Personal•\ArmWorkBook\src\oop\inheritance\level_1" />
-      <recent name="C:\Users\root\Desktop\•Personal•\ArmWorkBook\src\oop\inheritance" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -253,7 +355,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (3)">
+  <component name="RunManager" selected="Application.Task_2">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="oop.inheritance.level_2.task7.Main" />
       <module name="ArmWorkBook" />
@@ -306,12 +408,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task_205" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic.strings.Ex184_205.Task_205" />
+    <configuration name="Task_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collections.list.arraylist.Task_2" />
       <module name="ArmWorkBook" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="basic.strings.Ex184_205.*" />
+          <option name="PATTERN" value="collections.list.arraylist.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -320,19 +422,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Task_205" />
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.Main (1)" />
       <item itemvalue="Application.Main (2)" />
       <item itemvalue="Application.Main (3)" />
+      <item itemvalue="Application.Task_2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Task_2" />
         <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Task_205" />
       </list>
     </recent_temporary>
   </component>
@@ -354,17 +456,17 @@
       <workItem from="1536747758751" duration="51000" />
       <workItem from="1536747835894" duration="1092000" />
       <workItem from="1536946030869" duration="140000" />
+      <workItem from="1539000764209" duration="1454000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30375000" />
+    <option name="totallyTimeSpent" value="31829000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15778251" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15778251" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -374,7 +476,7 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32968238" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49893162" weight="0.19956616" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49893162" visible="true" weight="0.19956616" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -384,6 +486,7 @@
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50106835" side_tool="true" weight="0.2015334" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32968238" />
+      <window_info anchor="right" id="Mongo Explorer" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -402,206 +505,218 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/oop/inheritance/level_2/task2/Main.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/oop/inheritance/level_2/task2/MyDate.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/oop/inheritance/level_2/task2/Worker.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/oop/inheritance/level_2/task3/Main.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/oop/inheritance/level_2/task3/MyDate.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/oop/inheritance/level_2/task3/Remedy.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/oop/inheritance/level_2/task3/RemedyList.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/oop/inheritance/level_2/task4/Main.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/oop/inheritance/level_2/task4/Time.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/oop/inheritance/level_2/task4/User.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/oop/inheritance/level_2/task4/UserList.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/oop/inheritance/level_2/task5/Lesson.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/oop/inheritance/level_2/task5/LessonList.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/oop/inheritance/level_2/task5/Main.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/oop/inheritance/level_2/task5/Time.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/oop/inheritance/level_2/task6/Book.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/oop/inheritance/level_2/task6/BookList.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/oop/inheritance/level_2/task6/Library.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/oop/inheritance/level_2/task6/Main.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/oop/inheritance/level_2/task7/BookList.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/oop/inheritance/level_2/task7/Book.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/oop/inheritance/level_2/task8/BirthYear.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/oop/inheritance/level_2/task8/WorkerList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/oop/inheritance/level_2/task8/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/oop/inheritance/level_2/task8/Worker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/oop/inheritance/level_2/task2/WorkerList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="592">
-          <caret line="38" column="40" lean-forward="true" selection-start-line="38" selection-start-column="40" selection-end-line="38" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/oop/inheritance/level_2/task7/BookShop.java">
+    <entry file="file://$PROJECT_DIR$/src/collections/list/linkedlist/Task_12.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="32">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/oop/inheritance/level_2/task7/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/collections/list/arraylist/Task_22.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="32">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/oop/inheritance/level_2/task9/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/collections/set/treeset/Task_4.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/oop/inheritance/level_2/task9/Worker.java">
+    <entry file="file://$PROJECT_DIR$/src/collections/set/treeset/Task_9.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/oop/inheritance/level_2/task9/WorkerList.java">
+    <entry file="file://$PROJECT_DIR$/src/collections/set/treeset/Task_11.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/oop/inheritance/level_2/task9/WorkerProfession.java">
+    <entry file="file://$PROJECT_DIR$/src/collections/set/treeset/Task_8.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/oop/inheritance/level_2/task10/Counter.java">
+    <entry file="file://$PROJECT_DIR$/src/collections/set/treeset/Task_3.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/oop/inheritance/level_2/task10/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/collections/set/treeset/Task_7.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/oop/inheritance/level_2/task10/Numbers.java">
+    <entry file="file://$PROJECT_DIR$/src/collections/set/treeset/Task_1.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/oop/inheritance/level_2/task10/X.java">
+    <entry file="file://$PROJECT_DIR$/src/collections/set/treeset/Task_5.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/collections/set/treeset/Task_6.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/collections/set/treeset/Task_16.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/collections/set/treeset/Task_15.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="26" column="1" lean-forward="true" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
+        <state relative-caret-position="32">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/oop/inheritance/level_2/task11/Counter.java">
+    <entry file="file://$PROJECT_DIR$/src/collections/set/hashset/Task_4.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/oop/inheritance/level_2/task11/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/collections/set/hashset/Task_9.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/oop/inheritance/level_2/task11/ProductionInfo.java">
+    <entry file="file://$PROJECT_DIR$/src/collections/set/hashset/Task_11.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/oop/inheritance/level_2/task12/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/collections/set/hashset/Task_8.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/oop/inheritance/level_2/task12/ProductionInfo.java">
+    <entry file="file://$PROJECT_DIR$/src/collections/set/hashset/Task_12.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/oop/inheritance/level_2/task12/SourCream.java">
+    <entry file="file://$PROJECT_DIR$/src/collections/set/hashset/Task_3.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/oop/inheritance/level_2/task12/SourCreamList.java">
+    <entry file="file://$PROJECT_DIR$/src/collections/set/hashset/Task_7.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/oop/inheritance/level_2/task13/RetingWorker.java">
+    <entry file="file://$PROJECT_DIR$/src/collections/set/hashset/Task_1.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/oop/inheritance/level_2/task13/Worker.java">
+    <entry file="file://$PROJECT_DIR$/src/collections/set/hashset/Task_5.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/oop/inheritance/level_2/task13/WorkerSalary.java">
+    <entry file="file://$PROJECT_DIR$/src/collections/set/hashset/Task_6.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/oop/inheritance/level_2/task13/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/collections/map/hashmap/Task_4.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/collections/map/hashmap/Task_9.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/collections/map/hashmap/Task_11.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/collections/map/hashmap/Task_8.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/collections/map/hashmap/Task_12.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/collections/map/hashmap/Task_3.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/collections/map/hashmap/Task_7.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/collections/map/hashmap/Task_1.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/collections/map/hashmap/Task_5.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/collections/map/hashmap/Task_6.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/collections/map/treemap/Task_9.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/collections/map/treemap/Task_11.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/collections/map/treemap/Task_8.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/collections/map/treemap/Task_12.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/collections/map/treemap/Task_3.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/collections/map/treemap/Task_7.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/collections/map/treemap/Task_1.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/collections/map/treemap/Task_5.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/collections/map/treemap/Task_6.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/collections/map/treemap/Task_4.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        <state relative-caret-position="48">
+          <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/oop/inheritance/level_2/task11/Product.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/oop/polymorphism/level_1/task1/Computer.java">
+    <entry file="file://$PROJECT_DIR$/src/collections/list/arraylist/Task_6.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="22" column="58" selection-start-line="22" selection-start-column="58" selection-end-line="22" selection-end-column="58" />
+        <state relative-caret-position="80">
+          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/collections/list/arraylist/Task_7.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/collections/list/arraylist/Task_8.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/collections/list/arraylist/Task_9.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/collections/list/arraylist/Task_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
           <folding>
-            <element signature="e#418#419#0" expanded="true" />
-            <element signature="e#481#482#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/oop/polymorphism/level_1/task1/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/collections/list/arraylist/Task_2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="368">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#208#216#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/oop/polymorphism/level_1/task1/ComputerInheritor.java">
+    <entry file="file://$PROJECT_DIR$/src/collections/list/arraylist/Task_3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="18" column="4" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
+        <state relative-caret-position="336">
+          <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
           <folding>
-            <element signature="e#378#379#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#209#217#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/collections/list/arraylist/Task_4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#258#266#0" expanded="true" />
           </folding>
         </state>
       </provider>
