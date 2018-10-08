@@ -1,9 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d023873d-49b2-4858-a16d-16e4f525d4de" name="Default Changelist" comment="added collection part">
+    <list default="true" id="d023873d-49b2-4858-a16d-16e4f525d4de" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/concurrency/a.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/design_patterns/a.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exceptions/a.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/file_io/a.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/generics/a.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java8/a.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reflection/a.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/regular_expression/a.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/collections/set/treeset/book_tasks/Task_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collections/set/treeset/book_tasks/Task_4.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -58,14 +65,14 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="202" />
-          <entry key="txt" value="1" />
+          <entry key="java" value="203" />
+          <entry key="txt" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="202" />
-          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="JAVA" value="203" />
+          <entry key="PLAIN_TEXT" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -200,6 +207,12 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="collections" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="_ArmWorkBook_" type="b2602c69:ProjectViewProjectNode" />
+              <item name="_ArmWorkBook_" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="java8" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -210,7 +223,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539004445195" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539004591585" />
     <property name="last.edited.regexp" value="&#10;" />
   </component>
   <component name="RecentsManager">
@@ -220,11 +233,11 @@
       <recent name="collections.list.arraylist" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\root\Desktop\_ArmWorkBook_\src\collections\map\treemap" />
-      <recent name="C:\Users\root\Desktop\_ArmWorkBook_\src\collections\map\hashmap" />
-      <recent name="C:\Users\root\Desktop\_ArmWorkBook_\src\collections\set\hashset" />
-      <recent name="C:\Users\root\Desktop\_ArmWorkBook_\src\collections\list\linkedlist" />
-      <recent name="C:\Users\root\Desktop\•Personal•\ArmWorkBook\src\oop\polymorphism\level_2" />
+      <recent name="C:\Users\root\Desktop\_ArmWorkBook_\src\regular_expression" />
+      <recent name="C:\Users\root\Desktop\_ArmWorkBook_\src\reflection" />
+      <recent name="C:\Users\root\Desktop\_ArmWorkBook_\src\concurrency" />
+      <recent name="C:\Users\root\Desktop\_ArmWorkBook_\src\design_patterns" />
+      <recent name="C:\Users\root\Desktop\_ArmWorkBook_\src\exceptions" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -340,7 +353,7 @@
       <workItem from="1536747758751" duration="51000" />
       <workItem from="1536747835894" duration="1092000" />
       <workItem from="1536946030869" duration="140000" />
-      <workItem from="1539000764209" duration="3587000" />
+      <workItem from="1539000764209" duration="3896000" />
     </task>
     <task id="LOCAL-00001" summary="added collection part">
       <created>1539002293205</created>
@@ -384,16 +397,24 @@
       <option name="project" value="LOCAL" />
       <updated>1539003825803</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="added collection part">
+      <created>1539004580535</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1539004580535</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33962000" />
+    <option name="totallyTimeSpent" value="34271000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="974" height="1047" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3238512" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15778251" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -410,8 +431,8 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.4989059" visible="true" weight="0.13910186" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5010941" side_tool="true" visible="true" weight="0.13910186" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.49946696" visible="true" weight="0.13774404" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50053304" side_tool="true" visible="true" weight="0.13774404" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32968238" />
       <window_info anchor="right" id="Mongo Explorer" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -436,69 +457,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="added collection part" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/collections/list/linkedlist/book_tasks/Task_1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/collections/list/linkedlist/book_tasks/Task_2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/collections/list/linkedlist/book_tasks/Task_3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/collections/list/linkedlist/book_tasks/Task_4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/collections/list/linkedlist/book_tasks/Task_5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/collections/list/linkedlist/book_tasks/Task_6.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/collections/list/linkedlist/book_tasks/Task_7.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/collections/list/linkedlist/book_tasks/Task_8.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/collections/list/linkedlist/book_tasks/Task_9.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/collections/list/linkedlist/book_tasks/Task_10.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="32">
@@ -785,6 +743,37 @@
           <caret column="6" lean-forward="true" selection-start-column="6" selection-end-column="6" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ocp_test/ocp/src/ocp/Platypus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java8/a.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/generics/a.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/file_io/a.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/exceptions/a.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/design_patterns/a.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/concurrency/a.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/reflection/a.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/regular_expression/a.txt">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/collections/set/treeset/book_tasks/Task_4.java">
       <provider selected="true" editor-type-id="text-editor">
