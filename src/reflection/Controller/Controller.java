@@ -1,10 +1,13 @@
-package com.company.Controller;
+package reflection.Controller;
 
-import com.company.*;
-import com.company.Model.Human;
-import com.company.Model.Information;
-import com.company.Model.Student;
+
 import com.sun.corba.se.spi.activation.Server;
+import reflection.Example;
+import reflection.MethodsByReflection;
+import reflection.Model.Human;
+import reflection.Model.Information;
+import reflection.Model.Student;
+import reflection.UserPass;
 import sun.net.www.content.text.Generic;
 
 import java.io.File;

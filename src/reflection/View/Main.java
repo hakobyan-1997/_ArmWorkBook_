@@ -1,5 +1,4 @@
-package com.company.View;
-
+package reflection.View;
 import com.company.Controller.Controller;
 
 public class Main {

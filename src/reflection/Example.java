@@ -1,4 +1,4 @@
-package com.company;
+package reflection;
 
 public interface Example {
     String getSubClassName(Object o);

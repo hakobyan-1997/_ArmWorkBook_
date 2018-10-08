@@ -1,4 +1,4 @@
-package com.company.Model;
+package reflection.Model;
 
 import java.lang.reflect.Modifier;
 import java.util.ArrayList;

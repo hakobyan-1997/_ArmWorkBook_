@@ -1,4 +1,4 @@
-package com.company.Model;
+package reflection.Model;
 
 public class Student extends Human {
     private int cours;

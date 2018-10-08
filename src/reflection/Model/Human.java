@@ -1,4 +1,4 @@
-package com.company.Model;
+package reflection.Model;
 
 public class Human {
     private String name;

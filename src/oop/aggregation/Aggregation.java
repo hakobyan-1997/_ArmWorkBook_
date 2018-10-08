@@ -2,51 +2,6 @@ package oop.aggregation;
 
 import java.util.*;
 
-class Employee{
-  String firstName;
-  String lastName;
-  int empId;
-  String role;
-  public Employee(String fName, String lName, int empId, String role){
-    this.firstName = fName;
-    this.lastName = lName;
-    this.empId = empId;
-    this.role = role;
-  }
-}
-
-class EmpRole{
-  String name;
-  private List<Employee> empList;
-  EmpRole(String name,List<Employee> empList){
-    this.name = name;
-    this.empList = empList;
-  }
-  public List<Employee> getEmpList(){
-    return empList;
-  }
-}
-
-class Company{
-  String name;
-  private List<EmpRole> roleList;
-  public Company(String name,List<EmpRole> roleList){
-    this.name = name;
-    this.roleList = roleList;
-  }
-  public int getTotalEmployeeCount(){
-    int count = 0;
-    List<Employee> empList;
-    for(EmpRole empRole : roleList){
-      empList = empRole.getEmpList();
-      for(Employee e : empList){
-        count++;
-      }
-    }
-    return count;
-  }
-}
-
 class Aggregation{
   public static void main(String[] args){
     Employee e1 = new Employee("Shamlikhan","CP",1214,"Trainee");

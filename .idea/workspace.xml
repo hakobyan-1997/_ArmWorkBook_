@@ -2,688 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d023873d-49b2-4858-a16d-16e4f525d4de" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/Chopstick.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/Dine.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/Log.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/Philosopher.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/ServiceClassUsingArrayLists.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/ServiceClassUsingJDBC.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/Student.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/arrays/Ex108_117/Task_108.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/arrays/Ex108_117/Task_109.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/arrays/Ex108_117/Task_110.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/arrays/Ex108_117/Task_111.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/arrays/Ex108_117/Task_112.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/arrays/Ex108_117/Task_113.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/arrays/Ex108_117/Task_114.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/arrays/Ex108_117/Task_115.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/arrays/Ex108_117/Task_116.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/arrays/Ex108_117/Task_117.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/arrays/Ex118_127/Task_118.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/arrays/Ex118_127/Task_119.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/arrays/Ex118_127/Task_120.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/arrays/Ex118_127/Task_121.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/arrays/Ex118_127/Task_122.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/arrays/Ex118_127/Task_123.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/arrays/Ex118_127/Task_124.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/arrays/Ex118_127/Task_125.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/arrays/Ex118_127/Task_126.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/arrays/Ex118_127/Task_127.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/arrays/Ex128_137/Task_128.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/arrays/Ex128_137/Task_129.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/arrays/Ex128_137/Task_130.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/arrays/Ex128_137/Task_131.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/arrays/Ex128_137/Task_132.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/arrays/Ex128_137/Task_133.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/arrays/Ex128_137/Task_134.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/arrays/Ex128_137/Task_135.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/arrays/Ex128_137/Task_136.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/arrays/Ex128_137/Task_137.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/arrays/Ex68_87/Task_68.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/arrays/Ex68_87/Task_69.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/arrays/Ex68_87/Task_70.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/arrays/Ex68_87/Task_71.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/arrays/Ex68_87/Task_72.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/arrays/Ex68_87/Task_73.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/arrays/Ex68_87/Task_74.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/arrays/Ex68_87/Task_75.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/arrays/Ex68_87/Task_76.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/arrays/Ex68_87/Task_77.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/arrays/Ex68_87/Task_78.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/arrays/Ex68_87/Task_79.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/arrays/Ex68_87/Task_80.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/arrays/Ex68_87/Task_81.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/arrays/Ex68_87/Task_82.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/arrays/Ex68_87/Task_83.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/arrays/Ex68_87/Task_84.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/arrays/Ex68_87/Task_85.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/arrays/Ex68_87/Task_86.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/arrays/Ex68_87/Task_87.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/arrays/Ex88_107/Task_100.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/arrays/Ex88_107/Task_101.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/arrays/Ex88_107/Task_102.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/arrays/Ex88_107/Task_103.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/arrays/Ex88_107/Task_104.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/arrays/Ex88_107/Task_105.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/arrays/Ex88_107/Task_106.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/arrays/Ex88_107/Task_107.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/arrays/Ex88_107/Task_88.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/arrays/Ex88_107/Task_89.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/arrays/Ex88_107/Task_90.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/arrays/Ex88_107/Task_91.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/arrays/Ex88_107/Task_92.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/arrays/Ex88_107/Task_93.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/arrays/Ex88_107/Task_94.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/arrays/Ex88_107/Task_95.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/arrays/Ex88_107/Task_96.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/arrays/Ex88_107/Task_97.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/arrays/Ex88_107/Task_98.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/arrays/Ex88_107/Task_99.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/control_statments/Ex11_20/Task_11.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/control_statments/Ex11_20/Task_12.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/control_statments/Ex11_20/Task_13.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/control_statments/Ex11_20/Task_14.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/control_statments/Ex11_20/Task_15.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/control_statments/Ex11_20/Task_16.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/control_statments/Ex11_20/Task_17.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/control_statments/Ex11_20/Task_18.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/control_statments/Ex11_20/Task_19.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/control_statments/Ex11_20/Task_20.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/control_statments/Ex1_10/Task_1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/control_statments/Ex1_10/Task_10.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/control_statments/Ex1_10/Task_2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/control_statments/Ex1_10/Task_3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/control_statments/Ex1_10/Task_4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/control_statments/Ex1_10/Task_5.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/control_statments/Ex1_10/Task_6.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/control_statments/Ex1_10/Task_7.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/control_statments/Ex1_10/Task_8.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/control_statments/Ex1_10/Task_9.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/control_statments/Ex21_30/Task_21.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/control_statments/Ex21_30/Task_22.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/control_statments/Ex21_30/Task_23.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/control_statments/Ex21_30/Task_24.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/control_statments/Ex21_30/Task_25.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/control_statments/Ex21_30/Task_26.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/control_statments/Ex21_30/Task_27.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/control_statments/Ex21_30/Task_28.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/control_statments/Ex21_30/Task_29.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/control_statments/Ex21_30/Task_30.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/control_statments/Ex31_40/Task_31.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/control_statments/Ex31_40/Task_32.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/control_statments/Ex31_40/Task_33.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/control_statments/Ex31_40/Task_34.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/control_statments/Ex31_40/Task_35.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/control_statments/Ex31_40/Task_36.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/control_statments/Ex31_40/Task_37.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/control_statments/Ex31_40/Task_38.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/control_statments/Ex31_40/Task_39.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/control_statments/Ex31_40/Task_40.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/loops/Ex41_56/Task_41.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/loops/Ex41_56/Task_42.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/loops/Ex41_56/Task_43.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/loops/Ex41_56/Task_44.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/loops/Ex41_56/Task_45.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/loops/Ex41_56/Task_46.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/loops/Ex41_56/Task_47.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/loops/Ex41_56/Task_48.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/loops/Ex41_56/Task_49.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/loops/Ex41_56/Task_50.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/loops/Ex41_56/Task_51.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/loops/Ex41_56/Task_52.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/loops/Ex41_56/Task_53.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/loops/Ex41_56/Task_54.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/loops/Ex41_56/Task_55.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/loops/Ex41_56/Task_56.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/loops/Ex57_66/Task_57.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/loops/Ex57_66/Task_58.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/loops/Ex57_66/Task_59.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/loops/Ex57_66/Task_60.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/loops/Ex57_66/Task_61.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/loops/Ex57_66/Task_62.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/loops/Ex57_66/Task_63.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/loops/Ex57_66/Task_64.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/loops/Ex57_66/Task_65.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/loops/Ex57_66/Task_66.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/strings/Ex138_155/Task_138.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/strings/Ex138_155/Task_139.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/strings/Ex138_155/Task_140.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/strings/Ex138_155/Task_141.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/strings/Ex138_155/Task_142.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/strings/Ex138_155/Task_143.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/strings/Ex138_155/Task_144.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/strings/Ex138_155/Task_145.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/strings/Ex138_155/Task_146.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/strings/Ex138_155/Task_147.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/strings/Ex138_155/Task_148.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/strings/Ex138_155/Task_149.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/strings/Ex138_155/Task_150.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/strings/Ex138_155/Task_151.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/strings/Ex138_155/Task_152.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/strings/Ex138_155/Task_153.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/strings/Ex138_155/Task_154.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/strings/Ex138_155/Task_155.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/strings/Ex156_183/Task_156.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/strings/Ex156_183/Task_157.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/strings/Ex156_183/Task_158.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/strings/Ex156_183/Task_159.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/strings/Ex156_183/Task_160.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/strings/Ex156_183/Task_161.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/strings/Ex156_183/Task_162.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/strings/Ex156_183/Task_163.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/strings/Ex156_183/Task_164.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/strings/Ex156_183/Task_165.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/strings/Ex156_183/Task_166.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/strings/Ex156_183/Task_167.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/strings/Ex156_183/Task_168.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/strings/Ex156_183/Task_169.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/strings/Ex156_183/Task_170.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/strings/Ex156_183/Task_171.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/strings/Ex156_183/Task_172.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/strings/Ex156_183/Task_173.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/strings/Ex156_183/Task_174.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/strings/Ex156_183/Task_175.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/strings/Ex156_183/Task_176.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/strings/Ex156_183/Task_177.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/strings/Ex156_183/Task_178.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/strings/Ex156_183/Task_179.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/strings/Ex156_183/Task_180.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/strings/Ex156_183/Task_181.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/strings/Ex156_183/Task_182.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/strings/Ex156_183/Task_183.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/strings/Ex184_205/Task_184.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/strings/Ex184_205/Task_185.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/strings/Ex184_205/Task_186.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/strings/Ex184_205/Task_187.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/strings/Ex184_205/Task_188.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/strings/Ex184_205/Task_189.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/strings/Ex184_205/Task_190.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/strings/Ex184_205/Task_191.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/strings/Ex184_205/Task_192.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/strings/Ex184_205/Task_193.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/strings/Ex184_205/Task_194.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/strings/Ex184_205/Task_195.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/strings/Ex184_205/Task_196.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/strings/Ex184_205/Task_197.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/strings/Ex184_205/Task_198.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/strings/Ex184_205/Task_199.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/strings/Ex184_205/Task_200.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/strings/Ex184_205/Task_201.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/strings/Ex184_205/Task_202.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/strings/Ex184_205/Task_203.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/strings/Ex184_205/Task_204.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/basic/strings/Ex184_205/Task_205.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/collections/list/arraylist/ArrayListJDBC_Crud/OperationOnStudents.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/collections/list/arraylist/book_tasks/Task_1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/collections/list/arraylist/book_tasks/Task_10.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/collections/list/arraylist/book_tasks/Task_11.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/collections/list/arraylist/book_tasks/Task_12.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/collections/list/arraylist/book_tasks/Task_13.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/collections/list/arraylist/book_tasks/Task_14.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/collections/list/arraylist/book_tasks/Task_15.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/collections/list/arraylist/book_tasks/Task_16.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/collections/list/arraylist/book_tasks/Task_17.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/collections/list/arraylist/book_tasks/Task_18.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/collections/list/arraylist/book_tasks/Task_19.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/collections/list/arraylist/book_tasks/Task_2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/collections/list/arraylist/book_tasks/Task_20.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/collections/list/arraylist/book_tasks/Task_21.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/collections/list/arraylist/book_tasks/Task_22.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/collections/list/arraylist/book_tasks/Task_3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/collections/list/arraylist/book_tasks/Task_4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/collections/list/arraylist/book_tasks/Task_5.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/collections/list/arraylist/book_tasks/Task_6.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/collections/list/arraylist/book_tasks/Task_7.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/collections/list/arraylist/book_tasks/Task_8.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/collections/list/arraylist/book_tasks/Task_9.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/collections/list/linkedlist/book_tasks/Task_1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/collections/list/linkedlist/book_tasks/Task_10.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/collections/list/linkedlist/book_tasks/Task_11.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/collections/list/linkedlist/book_tasks/Task_12.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/collections/list/linkedlist/book_tasks/Task_13.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/collections/list/linkedlist/book_tasks/Task_14.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/collections/list/linkedlist/book_tasks/Task_15.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/collections/list/linkedlist/book_tasks/Task_16.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/collections/list/linkedlist/book_tasks/Task_17.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/collections/list/linkedlist/book_tasks/Task_18.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/collections/list/linkedlist/book_tasks/Task_19.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/collections/list/linkedlist/book_tasks/Task_2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/collections/list/linkedlist/book_tasks/Task_20.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/collections/list/linkedlist/book_tasks/Task_21.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/collections/list/linkedlist/book_tasks/Task_22.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/collections/list/linkedlist/book_tasks/Task_23.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/collections/list/linkedlist/book_tasks/Task_24.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/collections/list/linkedlist/book_tasks/Task_25.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/collections/list/linkedlist/book_tasks/Task_26.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/collections/list/linkedlist/book_tasks/Task_3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/collections/list/linkedlist/book_tasks/Task_4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/collections/list/linkedlist/book_tasks/Task_5.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/collections/list/linkedlist/book_tasks/Task_6.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/collections/list/linkedlist/book_tasks/Task_7.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/collections/list/linkedlist/book_tasks/Task_8.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/collections/list/linkedlist/book_tasks/Task_9.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/collections/map/hashmap/book_tasks/Task_1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/collections/map/hashmap/book_tasks/Task_10.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/collections/map/hashmap/book_tasks/Task_11.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/collections/map/hashmap/book_tasks/Task_12.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/collections/map/hashmap/book_tasks/Task_2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/collections/map/hashmap/book_tasks/Task_3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/collections/map/hashmap/book_tasks/Task_4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/collections/map/hashmap/book_tasks/Task_5.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/collections/map/hashmap/book_tasks/Task_6.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/collections/map/hashmap/book_tasks/Task_7.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/collections/map/hashmap/book_tasks/Task_8.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/collections/map/hashmap/book_tasks/Task_9.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/collections/map/treemap/book_tasks/Task_1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/collections/map/treemap/book_tasks/Task_10.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/collections/map/treemap/book_tasks/Task_2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/collections/map/treemap/book_tasks/Task_3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/collections/map/treemap/book_tasks/Task_4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/collections/map/treemap/book_tasks/Task_5.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/collections/map/treemap/book_tasks/Task_6.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/collections/map/treemap/book_tasks/Task_7.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/collections/map/treemap/book_tasks/Task_8.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/collections/map/treemap/book_tasks/Task_9.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/collections/set/hashset/book_tasks/Task_1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/collections/set/hashset/book_tasks/Task_10.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/collections/set/hashset/book_tasks/Task_11.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/collections/set/hashset/book_tasks/Task_12.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/collections/set/hashset/book_tasks/Task_2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/collections/set/hashset/book_tasks/Task_3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/collections/set/hashset/book_tasks/Task_4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/collections/set/hashset/book_tasks/Task_5.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/collections/set/hashset/book_tasks/Task_6.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/collections/set/hashset/book_tasks/Task_7.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/collections/set/hashset/book_tasks/Task_8.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/collections/set/hashset/book_tasks/Task_9.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/collections/set/treeset/book_tasks/Task_1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/collections/set/treeset/book_tasks/Task_10.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/collections/set/treeset/book_tasks/Task_11.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/collections/set/treeset/book_tasks/Task_15.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/collections/set/treeset/book_tasks/Task_16.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/collections/set/treeset/book_tasks/Task_2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/collections/set/treeset/book_tasks/Task_3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/collections/set/treeset/book_tasks/Task_4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/collections/set/treeset/book_tasks/Task_5.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/collections/set/treeset/book_tasks/Task_6.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/collections/set/treeset/book_tasks/Task_7.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/collections/set/treeset/book_tasks/Task_8.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/collections/set/treeset/book_tasks/Task_9.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/com/company/Controller/Controller.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/com/company/Example.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/com/company/MethodsByReflection.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/com/company/Model/Human.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/com/company/Model/Information.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/com/company/Model/Student.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/com/company/UserPass.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/com/company/View/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/com/java8task/date/LocalDateTime1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/com/java8task/date/LocalTime1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/com/java8task/lambda/Interface1$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/com/java8task/lambda/Interface1$Formula.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/com/java8task/lambda/Interface1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/com/java8task/lambda/Lambda1$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/com/java8task/lambda/Lambda1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/com/java8task/lambda/Lambda2$Converter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/com/java8task/lambda/Lambda2$PersonFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/com/java8task/lambda/Lambda2$Something.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/com/java8task/lambda/Lambda2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/com/java8task/lambda/Lambda3$Fun.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/com/java8task/lambda/Lambda3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/com/java8task/lambda/Lambda4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/com/java8task/lambda/Lambda5.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/com/java8task/lambda/Person.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/com/java8task/stream/Streams1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/com/java8task/stream/Streams10$Person.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/com/java8task/stream/Streams10.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/com/java8task/stream/Streams11$Person.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/com/java8task/stream/Streams11.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/com/java8task/stream/Streams12.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/com/java8task/stream/Streams13.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/com/java8task/stream/Streams2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/com/java8task/stream/Streams3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/com/java8task/stream/Streams4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/com/java8task/stream/Streams5.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/com/java8task/stream/Streams6.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/com/java8task/stream/Streams7$Bar.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/com/java8task/stream/Streams7$Foo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/com/java8task/stream/Streams7.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/com/java8task/stream/Streams8.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/com/java8task/stream/Streams9.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/concurrency/GasStationTest/Car$TypeFuel.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/concurrency/GasStationTest/Car.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/concurrency/GasStationTest/Cashier.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/concurrency/GasStationTest/DBManager.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/concurrency/GasStationTest/Demo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/concurrency/GasStationTest/FuelBoy.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/concurrency/GasStationTest/Gasstation$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/concurrency/GasStationTest/Gasstation$Reporter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/concurrency/GasStationTest/Gasstation.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/concurrency/GasStationTest/Loading.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/concurrency/Library/Book$Genre.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/concurrency/Library/Book.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/concurrency/Library/BookChecker.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/concurrency/Library/Demo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/concurrency/Library/IGroupType.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/concurrency/Library/Library.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/concurrency/Library/Magazine$Category.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/concurrency/Library/Magazine.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/concurrency/Library/Reader.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/concurrency/Library/ReadingObject$TypeReading.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/concurrency/Library/ReadingObject.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/concurrency/Library/Textbook$Theme.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/concurrency/Library/Textbook.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/concurrency/Warehouse/Client.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/concurrency/Warehouse/Demo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/concurrency/Warehouse/Product$TypeProduct.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/concurrency/Warehouse/Product.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/concurrency/Warehouse/Shop.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/concurrency/Warehouse/Supplier.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/concurrency/Warehouse/Warehouse.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/exceptions/ExceptionLoginPass/java/NotUniqueLoginException.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/exceptions/ExceptionLoginPass/java/constants/MessagesConstants.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/exceptions/ExceptionLoginPass/java/constants/RegexConstants.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/exceptions/ExceptionLoginPass/java/controller/Controller.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/exceptions/ExceptionLoginPass/java/entity/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/exceptions/ExceptionLoginPass/java/model/DBRecords.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/exceptions/ExceptionLoginPass/java/model/Model.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/exceptions/ExceptionLoginPass/java/view/View.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/exceptions/ExceptionLoginPass/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/exceptions/ExceptionLoginPass/resources/messages.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/exceptions/ExceptionLoginPass/resources/messages_ru.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/exceptions/ExceptionLoginPass/resources/regex.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/file_io/a.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/generics/arraylist_example/Qartez.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/java8/date/LocalDate1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oca_test/OCA.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/ocp_test/OCP.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/aggregation/Aggregation.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/aggregation/Company.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/aggregation/EmpRole.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/aggregation/Employee.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/association/Association.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/association/Company.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/association/Employee.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/composition/Composition.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/composition/CompositionDate/Date.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/composition/CompositionDate/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/composition/CompositionDate/Medicament.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/composition/Job.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/composition/Person.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/composition/composition_pc/CDRom.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/composition/composition_pc/Hdd.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/composition/composition_pc/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/composition/composition_pc/NoteBook.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/composition/composition_pc/PC.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/composition/composition_pc/Ram.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/composition/composition_room_1/Car.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/composition/composition_room_1/Case.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/composition/composition_room_1/Dimensions.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/composition/composition_room_1/HouseOneRoom.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/composition/composition_room_1/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/composition/composition_room_1/Monitor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/composition/composition_room_1/Motherboard.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/composition/composition_room_1/PC.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/composition/composition_room_1/Resolution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/composition/composition_room_1/Sink.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/composition/composition_room_1/Stove.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/composition/composition_room_1/TV.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/composition/composition_room_1/Vehicle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/composition/composition_room_2/Bed.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/composition/composition_room_2/Light.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/composition/composition_room_2/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/composition/composition_room_2/MyRoom.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/composition/composition_room_2/Window.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/composition/hamburger/DeluxeBurger.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/composition/hamburger/Hamburger.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/composition/hamburger/HamburgerTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/composition/hamburger/HealthyBurger.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/composition/hamburger/Toppings.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/encapsulation/Ex206_235/task206/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/encapsulation/Ex206_235/task206/Student.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/encapsulation/Ex206_235/task207/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/encapsulation/Ex206_235/task207/Student.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/encapsulation/Ex206_235/task208/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/encapsulation/Ex206_235/task208/Student.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/encapsulation/Ex206_235/task209/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/encapsulation/Ex206_235/task209/Student.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/encapsulation/Ex206_235/task210/Employee.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/encapsulation/Ex206_235/task210/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/encapsulation/Ex206_235/task211/Employee.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/encapsulation/Ex206_235/task211/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/encapsulation/Ex206_235/task212/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/encapsulation/Ex206_235/task212/Student.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/encapsulation/Ex206_235/task213/Employee.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/encapsulation/Ex206_235/task213/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/encapsulation/Ex206_235/task214/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/encapsulation/Ex206_235/task214/Student.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/encapsulation/Ex206_235/task215/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/encapsulation/Ex206_235/task215/Student.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/encapsulation/Ex206_235/task216/Employee.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/encapsulation/Ex206_235/task216/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/encapsulation/Ex206_235/task217/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/encapsulation/Ex206_235/task217/Student.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/encapsulation/Ex206_235/task218/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/encapsulation/Ex206_235/task218/Student.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/encapsulation/Ex206_235/task219/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/encapsulation/Ex206_235/task219/Student.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/encapsulation/Ex206_235/task220/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/encapsulation/Ex206_235/task220/Student.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/encapsulation/Ex206_235/task221/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/encapsulation/Ex206_235/task221/Student.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/encapsulation/Ex206_235/task222/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/encapsulation/Ex206_235/task222/Student.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/encapsulation/Ex206_235/task223/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/encapsulation/Ex206_235/task223/Student.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/encapsulation/Ex206_235/task224/Library.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/encapsulation/Ex206_235/task224/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/encapsulation/Ex206_235/task225/Library.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/encapsulation/Ex206_235/task225/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/encapsulation/Ex206_235/task226/Library.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/encapsulation/Ex206_235/task226/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/encapsulation/Ex206_235/task227/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/encapsulation/Ex206_235/task227/Tv.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/encapsulation/Ex206_235/task228/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/encapsulation/Ex206_235/task228/Tv.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/encapsulation/Ex206_235/task229/Cinema.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/encapsulation/Ex206_235/task229/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/encapsulation/Ex206_235/task230/Lesson.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/encapsulation/Ex206_235/task230/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/encapsulation/Ex206_235/task231/Exam.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/encapsulation/Ex206_235/task231/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/encapsulation/Ex206_235/task232/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/encapsulation/Ex206_235/task232/Song.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/encapsulation/Ex206_235/task233/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/encapsulation/Ex206_235/task233/Song.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/encapsulation/Ex206_235/task234/Book.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/encapsulation/Ex206_235/task234/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/encapsulation/Ex206_235/task235/Book.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/encapsulation/Ex206_235/task235/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/inheritance/level_1/task1/Class1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/inheritance/level_1/task1/Class2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/inheritance/level_1/task1/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/inheritance/level_1/task10/Class1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/inheritance/level_1/task10/Class2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/inheritance/level_1/task10/Computer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/inheritance/level_1/task10/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/inheritance/level_1/task11/Car.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/inheritance/level_1/task11/Class1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/inheritance/level_1/task11/Class2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/inheritance/level_1/task11/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/inheritance/level_1/task12/Class1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/inheritance/level_1/task12/Class2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/inheritance/level_1/task12/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/inheritance/level_1/task13/Class1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/inheritance/level_1/task13/Class2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/inheritance/level_1/task13/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/inheritance/level_1/task14/Class1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/inheritance/level_1/task14/Class2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/inheritance/level_1/task14/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/inheritance/level_1/task15/IPhone7.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/inheritance/level_1/task15/IPhone8.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/inheritance/level_1/task15/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/inheritance/level_1/task16/Class2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/inheritance/level_1/task16/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/inheritance/level_1/task16/Phone.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/inheritance/level_1/task2/Class1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/inheritance/level_1/task2/Class2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/inheritance/level_1/task2/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/inheritance/level_1/task3/Class1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/inheritance/level_1/task3/Class2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/inheritance/level_1/task3/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/inheritance/level_1/task4/Class1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/inheritance/level_1/task4/Class2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/inheritance/level_1/task4/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/inheritance/level_1/task5/Class1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/inheritance/level_1/task5/Class2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/inheritance/level_1/task5/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/inheritance/level_1/task6/Class1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/inheritance/level_1/task6/Class2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/inheritance/level_1/task6/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/inheritance/level_1/task7/Class1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/inheritance/level_1/task7/Class2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/inheritance/level_1/task7/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/inheritance/level_1/task8/Class1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/inheritance/level_1/task8/Class2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/inheritance/level_1/task8/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/inheritance/level_1/task9/Class1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/inheritance/level_1/task9/Class2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/inheritance/level_1/task9/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/inheritance/level_2/task1/Date.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/inheritance/level_2/task1/Friend.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/inheritance/level_2/task1/FriendList.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/inheritance/level_2/task1/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/inheritance/level_2/task10/Counter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/inheritance/level_2/task10/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/inheritance/level_2/task10/Numbers.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/inheritance/level_2/task10/X.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/inheritance/level_2/task11/Counter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/inheritance/level_2/task11/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/inheritance/level_2/task11/Product.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/inheritance/level_2/task11/ProductionInfo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/inheritance/level_2/task12/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/inheritance/level_2/task12/ProductionInfo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/inheritance/level_2/task12/SourCream.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/inheritance/level_2/task12/SourCreamList.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/inheritance/level_2/task13/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/inheritance/level_2/task13/RetingWorker.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/inheritance/level_2/task13/Worker.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/inheritance/level_2/task13/WorkerSalary.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/inheritance/level_2/task2/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/inheritance/level_2/task2/MyDate.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/inheritance/level_2/task2/Worker.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/inheritance/level_2/task2/WorkerList.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/inheritance/level_2/task3/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/inheritance/level_2/task3/MyDate.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/inheritance/level_2/task3/Remedy.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/inheritance/level_2/task3/RemedyList.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/inheritance/level_2/task4/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/inheritance/level_2/task4/Time.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/inheritance/level_2/task4/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/inheritance/level_2/task4/UserList.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/inheritance/level_2/task5/Lesson.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/inheritance/level_2/task5/LessonList.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/inheritance/level_2/task5/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/inheritance/level_2/task5/Time.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/inheritance/level_2/task6/Book.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/inheritance/level_2/task6/BookList.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/inheritance/level_2/task6/Library.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/inheritance/level_2/task6/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/inheritance/level_2/task7/Book.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/inheritance/level_2/task7/BookList.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/inheritance/level_2/task7/BookShop.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/inheritance/level_2/task7/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/inheritance/level_2/task8/BirthYear.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/inheritance/level_2/task8/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/inheritance/level_2/task8/Worker.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/inheritance/level_2/task8/WorkerList.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/inheritance/level_2/task9/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/inheritance/level_2/task9/Worker.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/inheritance/level_2/task9/WorkerList.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/inheritance/level_2/task9/WorkerProfession.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/interfacee/loto/Games.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/interfacee/loto/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/interfacee/loto/Random_Number.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/polymorphism/level_1/task1/Computer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/polymorphism/level_1/task1/ComputerInheritor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/oop/polymorphism/level_1/task1/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exceptions/ExceptionLoginPass/java/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exceptions/ExceptionLoginPass/java/NotUniqueLoginException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exceptions/ExceptionLoginPass/java/constants/MessagesConstants.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exceptions/ExceptionLoginPass/java/constants/RegexConstants.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exceptions/ExceptionLoginPass/java/controller/Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exceptions/ExceptionLoginPass/java/entity/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exceptions/ExceptionLoginPass/java/model/DBRecords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exceptions/ExceptionLoginPass/java/model/Model.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exceptions/ExceptionLoginPass/java/view/View.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exceptions/ExceptionLoginPass/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exceptions/ExceptionLoginPass/resources/messages.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exceptions/ExceptionLoginPass/resources/messages_ru.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exceptions/ExceptionLoginPass/resources/regex.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/aggregation/Aggregation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/association/Association.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/composition/Composition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/composition/CompositionDate/Date.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/composition/CompositionDate/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/composition/CompositionDate/Medicament.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/composition/composition_pc/CDRom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/composition/composition_pc/Hdd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/composition/composition_pc/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/composition/composition_pc/NoteBook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/composition/composition_pc/PC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/composition/composition_pc/Ram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/composition/composition_room_1/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/composition/composition_room_1/Case.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/composition/composition_room_1/Dimensions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/composition/composition_room_1/HouseOneRoom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/composition/composition_room_1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/composition/composition_room_1/Monitor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/composition/composition_room_1/Motherboard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/composition/composition_room_1/PC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/composition/composition_room_1/Resolution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/composition/composition_room_1/Sink.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/composition/composition_room_1/Stove.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/composition/composition_room_1/TV.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/composition/composition_room_1/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/composition/composition_room_2/Bed.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/composition/composition_room_2/Light.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/composition/composition_room_2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/composition/composition_room_2/MyRoom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/composition/composition_room_2/Window.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/composition/hamburger/DeluxeBurger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/composition/hamburger/Hamburger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/composition/hamburger/HamburgerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/composition/hamburger/HealthyBurger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/composition/hamburger/Toppings.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/aggregation/Company.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/aggregation/EmpRole.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/aggregation/Employee.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/concurrency/GasStationTest/DBManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/concurrency/GasStationTest/DBManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/concurrency/GasStationTest/FuelBoy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/concurrency/GasStationTest/FuelBoy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/concurrency/GasStationTest/Gasstation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/concurrency/GasStationTest/Gasstation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java8/date/LocalDate1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java8/date/LocalDate1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java8/date/LocalDateTime1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java8/date/LocalDateTime1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java8/date/LocalTime1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java8/date/LocalTime1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java8/lambda/Interface1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java8/lambda/Interface1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java8/lambda/Lambda1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java8/lambda/Lambda1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java8/lambda/Lambda2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java8/lambda/Lambda2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java8/lambda/Lambda3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java8/lambda/Lambda3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java8/lambda/Lambda4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java8/lambda/Lambda4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java8/lambda/Lambda5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java8/lambda/Lambda5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java8/lambda/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java8/lambda/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java8/stream/Streams1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java8/stream/Streams1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java8/stream/Streams10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java8/stream/Streams10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java8/stream/Streams11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java8/stream/Streams11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java8/stream/Streams12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java8/stream/Streams12.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java8/stream/Streams13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java8/stream/Streams13.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java8/stream/Streams2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java8/stream/Streams2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java8/stream/Streams3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java8/stream/Streams3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java8/stream/Streams4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java8/stream/Streams4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java8/stream/Streams5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java8/stream/Streams5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java8/stream/Streams6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java8/stream/Streams6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java8/stream/Streams7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java8/stream/Streams7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java8/stream/Streams8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java8/stream/Streams8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java8/stream/Streams9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java8/stream/Streams9.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/regular_expression/a.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ArmWorkBook/design_patterns/a.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/aggregation/Aggregation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/aggregation/Aggregation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reflection/Controller/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/reflection/Controller/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reflection/Example.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/reflection/Example.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reflection/MethodsByReflection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/reflection/MethodsByReflection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reflection/Model/Human.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/reflection/Model/Human.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reflection/Model/Information.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/reflection/Model/Information.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reflection/Model/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/reflection/Model/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reflection/UserPass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/reflection/UserPass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reflection/View/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/reflection/View/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/regular_expression/a.txt" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -738,29 +70,29 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="309" />
+          <entry key="java" value="348" />
           <entry key="properties" value="6" />
           <entry key="txt" value="10" />
-          <entry key="xml" value="2" />
+          <entry key="xml" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="309" />
+          <entry key="JAVA" value="348" />
           <entry key="PLAIN_TEXT" value="10" />
           <entry key="Properties" value="6" />
-          <entry key="XML" value="2" />
+          <entry key="XML" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="380" />
+          <entry key="java" value="411" />
           <entry key="txt" value="91" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="380" />
+          <entry key="JAVA" value="411" />
           <entry key="PLAIN_TEXT" value="91" />
         </counts>
       </usages-collector>
@@ -769,10 +101,28 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java8/stream/Streams7.java">
+        <entry file="file://$PROJECT_DIR$/src/reflection/Example.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="16">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            <state relative-caret-position="32">
+              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/reflection/Model/Student.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="25" selection-start-column="25" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/reflection/Controller/Controller.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-3270">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -780,11 +130,57 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/reflection/MethodsByReflection.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="368">
+              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/generics/arraylist_example/Qartez.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="656">
+              <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/basic/arrays/Ex68_87/Task_68.java">
+        <entry file="file://$PROJECT_DIR$/src/oop/aggregation/Aggregation.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-183">
+              <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/oop/aggregation/Employee.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/oop/aggregation/EmpRole.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/oop/aggregation/Company.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="64">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+              <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/reflection/UserPass.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="32">
+              <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -804,42 +200,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/oop/interfacee/loto/Games.java" />
-        <option value="$PROJECT_DIR$/src/oop/interfacee/loto/Main.java" />
-        <option value="$PROJECT_DIR$/src/concurrency/GasStationTest/src/gasstation/Car.java" />
-        <option value="$PROJECT_DIR$/src/concurrency/GasStationTest/Car.java" />
-        <option value="$PROJECT_DIR$/src/oop/interfacee/loto/Random_Number.java" />
-        <option value="$PROJECT_DIR$/src/generics/MyArrayListExample.java" />
-        <option value="$PROJECT_DIR$/src/generics/arraylist_example/MyArrayListExample.java" />
-        <option value="$PROJECT_DIR$/src/oop/composition/hamburger/DeluxeBurger.java" />
-        <option value="$PROJECT_DIR$/src/oop/composition/aggregation_assocacion/Composition.java" />
-        <option value="$PROJECT_DIR$/src/oop/composition/aggregation_assocacion/Aggregation.java" />
-        <option value="$PROJECT_DIR$/src/oop/composition/aggregation_assocacion/Association.java" />
-        <option value="$PROJECT_DIR$/src/oop/composition/Association.java" />
-        <option value="$PROJECT_DIR$/src/oop/association/Association.java" />
-        <option value="$PROJECT_DIR$/src/oop/composition/Company.java" />
-        <option value="$PROJECT_DIR$/src/oop/composition/CompositionDate/Date.java" />
-        <option value="$PROJECT_DIR$/src/oop/composition/composition_room_1/PC.java" />
-        <option value="$PROJECT_DIR$/src/oop/composition/composition_room_2/Bed.java" />
-        <option value="$PROJECT_DIR$/src/oop/composition/composition_pc/Kom1Rus/PC.java" />
-        <option value="$PROJECT_DIR$/src/oop/composition/composition_pc/PC.java" />
-        <option value="$PROJECT_DIR$/src/exceptions/ExceptionLoginPass/java/ua/training/view/View.java" />
-        <option value="$PROJECT_DIR$/src/exceptions/ExceptionLoginPass/java/ua/training/App.java" />
-        <option value="$PROJECT_DIR$/src/exceptions/ExceptionLoginPass/java/ua/training/controller/Controller.java" />
-        <option value="$PROJECT_DIR$/src/exceptions/ExceptionLoginPass/java/ua/training/model/Model.java" />
-        <option value="$PROJECT_DIR$/src/concurrency/GasStationTest/FuelBoy.java" />
-        <option value="$PROJECT_DIR$/src/concurrency/GasStationTest/Gasstation.java" />
-        <option value="$PROJECT_DIR$/src/concurrency/GasStationTest/DBManager.java" />
-        <option value="$PROJECT_DIR$/src/oop/composition/composition_room_1/Stove.java" />
-        <option value="$PROJECT_DIR$/src/exceptions/ExceptionLoginPass/java/App.java" />
-        <option value="$PROJECT_DIR$/src/java8/date/LocalDate1.java" />
-        <option value="$PROJECT_DIR$/src/java8/date/LocalDateTime1.java" />
-        <option value="$PROJECT_DIR$/src/java8/date/LocalTime1.java" />
-        <option value="$PROJECT_DIR$/src/java8/lambda/Interface1.java" />
-        <option value="$PROJECT_DIR$/src/java8/lambda/Lambda1.java" />
-        <option value="$PROJECT_DIR$/src/java8/lambda/Lambda4.java" />
-        <option value="$PROJECT_DIR$/src/java8/lambda/Lambda5.java" />
-        <option value="$PROJECT_DIR$/src/java8/lambda/Person.java" />
         <option value="$PROJECT_DIR$/src/java8/lambda/Lambda3.java" />
         <option value="$PROJECT_DIR$/src/java8/lambda/Lambda2.java" />
         <option value="$PROJECT_DIR$/src/java8/stream/Streams1.java" />
@@ -855,6 +215,42 @@
         <option value="$PROJECT_DIR$/src/java8/stream/Streams12.java" />
         <option value="$PROJECT_DIR$/src/java8/stream/Streams13.java" />
         <option value="$PROJECT_DIR$/src/java8/stream/Streams7.java" />
+        <option value="$PROJECT_DIR$/src/exceptions/Exception_Market/Main.java" />
+        <option value="$PROJECT_DIR$/src/exceptions/Exception_Market/entity/Shop.java" />
+        <option value="$PROJECT_DIR$/src/exceptions/Exception_Market/entity/Customer.java" />
+        <option value="$PROJECT_DIR$/src/exceptions/Exception_Market/entity/CashierStrategy.java" />
+        <option value="$PROJECT_DIR$/src/exceptions/Exception_Market/entity/Cashier.java" />
+        <option value="$PROJECT_DIR$/src/exceptions/Exception_Market/entity/strategies/FriendlyStrategy.java" />
+        <option value="$PROJECT_DIR$/src/exceptions/Exception_Market/entity/strategies/CommonStrategy.java" />
+        <option value="$PROJECT_DIR$/src/exceptions/Exception_Market/entity/strategies/AngryStrategy.java" />
+        <option value="$PROJECT_DIR$/src/exceptions/Exception_Market/entity/exceptions/TapeIsEnded.java" />
+        <option value="$PROJECT_DIR$/src/exceptions/Exception_Market/entity/exceptions/RegisterIsBroken.java" />
+        <option value="$PROJECT_DIR$/src/exceptions/Exception_Market/entity/exceptions/RegisterExceptions.java" />
+        <option value="$PROJECT_DIR$/src/exceptions/Exception_Market/entity/exceptions/CashierHasNoChange.java" />
+        <option value="$PROJECT_DIR$/src/exceptions/Exception_Market/entity/errors/FireInTheShop.java" />
+        <option value="$PROJECT_DIR$/src/exceptions/Exception_Market/entity/errors/ShopRobbery.java" />
+        <option value="$PROJECT_DIR$/src/exceptions/Exception_Market/entity/customers/AbstractCustomer.java" />
+        <option value="$PROJECT_DIR$/src/exceptions/Exception_Market/entity/customers/CustomerWithCreditCard.java" />
+        <option value="$PROJECT_DIR$/src/exceptions/Exception_Market/entity/customers/NormalCustomer.java" />
+        <option value="$PROJECT_DIR$/src/exceptions/Exception_Market/entity/customers/SlowlyCustomer.java" />
+        <option value="$PROJECT_DIR$/src/exceptions/Exception_Market/entity/cashiers/StrangeCashier.java" />
+        <option value="$PROJECT_DIR$/src/exceptions/Exception_Market/entity/cashiers/NormalCashier.java" />
+        <option value="$PROJECT_DIR$/src/exceptions/Exception_Market/entity/cashiers/NiceCashier.java" />
+        <option value="$PROJECT_DIR$/src/exceptions/Exception_Market/entity/cashiers/AbstractCashier.java" />
+        <option value="$PROJECT_DIR$/src/exceptions/Exception_Market/Application.java" />
+        <option value="$PROJECT_DIR$/src/exceptions/Exception_Market/entity/Register.java" />
+        <option value="$PROJECT_DIR$/src/reflection/MethodsByReflection.java" />
+        <option value="$PROJECT_DIR$/src/reflection/UserPass.java" />
+        <option value="$PROJECT_DIR$/src/reflection/Example.java" />
+        <option value="$PROJECT_DIR$/src/reflection/View/Main.java" />
+        <option value="$PROJECT_DIR$/src/reflection/Model/Human.java" />
+        <option value="$PROJECT_DIR$/src/reflection/Model/Information.java" />
+        <option value="$PROJECT_DIR$/src/reflection/Model/Student.java" />
+        <option value="$PROJECT_DIR$/src/reflection/Controller/Controller.java" />
+        <option value="$PROJECT_DIR$/src/oop/aggregation/Company.java" />
+        <option value="$PROJECT_DIR$/src/oop/aggregation/EmpRole.java" />
+        <option value="$PROJECT_DIR$/src/oop/aggregation/Employee.java" />
+        <option value="$PROJECT_DIR$/src/oop/aggregation/Aggregation.java" />
       </list>
     </option>
   </component>
@@ -914,40 +310,27 @@
               <item name="_ArmWorkBook_" type="b2602c69:ProjectViewProjectNode" />
               <item name="_ArmWorkBook_" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="basic" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="_ArmWorkBook_" type="b2602c69:ProjectViewProjectNode" />
-              <item name="_ArmWorkBook_" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="basic" type="462c0819:PsiDirectoryNode" />
-              <item name="arrays" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="_ArmWorkBook_" type="b2602c69:ProjectViewProjectNode" />
-              <item name="_ArmWorkBook_" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="basic" type="462c0819:PsiDirectoryNode" />
-              <item name="arrays" type="462c0819:PsiDirectoryNode" />
-              <item name="Ex68_87" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="_ArmWorkBook_" type="b2602c69:ProjectViewProjectNode" />
-              <item name="_ArmWorkBook_" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="collections" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="_ArmWorkBook_" type="b2602c69:ProjectViewProjectNode" />
-              <item name="_ArmWorkBook_" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="exceptions" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="_ArmWorkBook_" type="b2602c69:ProjectViewProjectNode" />
               <item name="_ArmWorkBook_" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="file_io" type="462c0819:PsiDirectoryNode" />
+              <item name="exceptions" type="462c0819:PsiDirectoryNode" />
+              <item name="ExceptionLoginPass" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="_ArmWorkBook_" type="b2602c69:ProjectViewProjectNode" />
+              <item name="_ArmWorkBook_" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="oop" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="_ArmWorkBook_" type="b2602c69:ProjectViewProjectNode" />
+              <item name="_ArmWorkBook_" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="oop" type="462c0819:PsiDirectoryNode" />
+              <item name="aggregation" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="_ArmWorkBook_" type="b2602c69:ProjectViewProjectNode" />
@@ -963,7 +346,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539009539646" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539010404522" />
     <property name="last.edited.regexp" value="&#10;" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
@@ -1091,7 +474,7 @@
       <workItem from="1536747758751" duration="51000" />
       <workItem from="1536747835894" duration="1092000" />
       <workItem from="1536946030869" duration="140000" />
-      <workItem from="1539000764209" duration="8764000" />
+      <workItem from="1539000764209" duration="9950000" />
     </task>
     <task id="LOCAL-00001" summary="added collection part">
       <created>1539002293205</created>
@@ -1184,11 +567,18 @@
       <option name="project" value="LOCAL" />
       <updated>1539007502577</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="//Commit">
+      <created>1539009581916</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1539009581916</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39139000" />
+    <option name="totallyTimeSpent" value="40325000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1213,14 +603,14 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32968238" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49840087" weight="0.4121475" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49840087" weight="0.4162103" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.329718" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.329718" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49946696" visible="true" weight="0.15509762" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49946696" visible="true" weight="0.38286334" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50053304" side_tool="true" weight="0.13774404" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.28741866" />
       <window_info anchor="right" id="Mongo Explorer" />
@@ -1265,284 +655,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="//Commit" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/oop/composition/composition_pc/Ram.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/oop/composition/composition_pc/PC.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/oop/composition/composition_pc/NoteBook.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/oop/composition/composition_pc/Hdd.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/oop/composition/composition_pc/CDRom.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/oop/composition/Composition.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-309">
-          <caret line="40" column="6" selection-start-line="40" selection-start-column="6" selection-end-line="40" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/exceptions/ExceptionLoginPass/java/model/DBRecords.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/exceptions/ExceptionLoginPass/java/view/View.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="11" column="6" lean-forward="true" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/exceptions/ExceptionLoginPass/java/entity/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/exceptions/ExceptionLoginPass/java/controller/Controller.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="283">
-          <caret line="32" column="64" selection-start-line="32" selection-start-column="64" selection-end-line="32" selection-end-column="64" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/exceptions/ExceptionLoginPass/java/constants/RegexConstants.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/exceptions/ExceptionLoginPass/java/constants/MessagesConstants.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/concurrency/GasStationTest/Demo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/concurrency/GasStationTest/Car.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="7" column="4" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/concurrency/GasStationTest/Cashier.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="3" column="47" lean-forward="true" selection-start-line="3" selection-start-column="47" selection-end-line="3" selection-end-column="47" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/concurrency/GasStationTest/Gasstation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1345">
-          <caret line="108" column="13" lean-forward="true" selection-start-line="108" selection-start-column="13" selection-end-line="108" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/concurrency/GasStationTest/FuelBoy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="30" column="52" selection-start-line="30" selection-start-column="52" selection-end-line="30" selection-end-column="52" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/concurrency/GasStationTest/DBManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="283">
-          <caret line="152" column="48" lean-forward="true" selection-start-line="152" selection-start-column="48" selection-end-line="152" selection-end-column="48" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/oop/composition/composition_room_1/Stove.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/exceptions/ExceptionLoginPass/resources/regex.properties">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/exceptions/ExceptionLoginPass/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-54">
-          <caret line="12" column="14" lean-forward="true" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/exceptions/ExceptionLoginPass/java/model/Model.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="164">
-          <caret line="14" column="67" selection-start-line="14" selection-start-column="58" selection-end-line="14" selection-end-column="67" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1283#1284#0" expanded="true" />
-            <element signature="e#1322#1323#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/exceptions/ExceptionLoginPass/resources/messages.properties">
-      <provider editor-type-id="ResourceBundle" />
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/exceptions/ExceptionLoginPass/resources/messages_ru.properties">
-      <provider editor-type-id="ResourceBundle" />
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/exceptions/ExceptionLoginPass/java/NotUniqueLoginException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/exceptions/ExceptionLoginPass/java/App.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-          <folding>
-            <element signature="e#0#460#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/file_io/a.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java8/date/LocalDate1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java8/date/LocalDateTime1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="19" selection-start-column="19" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java8/date/LocalTime1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="19" selection-start-column="19" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java8/lambda/Lambda1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="21" selection-start-column="21" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java8/lambda/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="21" selection-start-column="21" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java8/lambda/Lambda2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="542">
-          <caret line="40" column="10" selection-start-line="40" selection-start-column="10" selection-end-line="40" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java8/lambda/Lambda3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="382">
-          <caret line="61" column="58" lean-forward="true" selection-start-line="61" selection-start-column="58" selection-end-line="61" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java8/lambda/Lambda4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java8/lambda/Lambda5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java8/lambda/Interface1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java8/stream/Streams1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/java8/stream/Streams2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="16">
@@ -1634,6 +746,223 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="64">
           <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/exceptions/Exception_Market/Main.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/exceptions/Exception_Market/entity/Shop.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/exceptions/Exception_Market/entity/Customer.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/exceptions/Exception_Market/entity/CashierStrategy.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/exceptions/Exception_Market/entity/Cashier.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/exceptions/Exception_Market/entity/strategies/FriendlyStrategy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/exceptions/Exception_Market/entity/strategies/CommonStrategy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/exceptions/Exception_Market/entity/strategies/AngryStrategy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/exceptions/Exception_Market/entity/exceptions/TapeIsEnded.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/exceptions/Exception_Market/entity/exceptions/RegisterIsBroken.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/exceptions/Exception_Market/entity/exceptions/RegisterExceptions.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/exceptions/Exception_Market/entity/exceptions/CashierHasNoChange.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/exceptions/Exception_Market/entity/errors/FireInTheShop.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/exceptions/Exception_Market/entity/errors/ShopRobbery.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/exceptions/Exception_Market/entity/customers/AbstractCustomer.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/exceptions/Exception_Market/entity/customers/CustomerWithCreditCard.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/exceptions/Exception_Market/entity/customers/NormalCustomer.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/exceptions/Exception_Market/entity/customers/SlowlyCustomer.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/exceptions/Exception_Market/entity/cashiers/StrangeCashier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/exceptions/Exception_Market/entity/cashiers/NormalCashier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/exceptions/Exception_Market/entity/cashiers/AbstractCashier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="11" column="41" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/exceptions/Exception_Market/entity/cashiers/NiceCashier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/exceptions/Exception_Market/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="433">
+          <caret line="47" column="49" lean-forward="true" selection-start-line="47" selection-start-column="49" selection-end-line="47" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/exceptions/Exception_Market/entity/Register.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="35" column="21" lean-forward="true" selection-start-line="35" selection-start-column="21" selection-end-line="35" selection-end-column="21" />
+          <folding>
+            <element signature="e#345#346#0" expanded="true" />
+            <element signature="e#383#384#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/exceptions/ExceptionLoginPass/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/reflection/View/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="23" selection-start-column="23" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/reflection/Model/Human.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/reflection/Model/Information.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="25" selection-start-column="25" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/reflection/Model/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="25" selection-start-column="25" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/reflection/Controller/Controller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3270">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/reflection/Example.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/reflection/UserPass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/reflection/MethodsByReflection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/generics/arraylist_example/Qartez.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="656">
+          <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oop/aggregation/EmpRole.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oop/aggregation/Employee.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oop/aggregation/Company.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oop/aggregation/Aggregation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-183">
+          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
         </state>
       </provider>
     </entry>

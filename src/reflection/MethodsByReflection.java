@@ -1,4 +1,4 @@
-package com.company;
+package reflection;
 
 public interface MethodsByReflection {
     int getClassConstructorCount(Object o);

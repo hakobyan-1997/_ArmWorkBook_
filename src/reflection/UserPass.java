@@ -1,4 +1,4 @@
-package com.company;
+package reflection;
 
 public enum UserPass {
     USER_PASS("admin");
