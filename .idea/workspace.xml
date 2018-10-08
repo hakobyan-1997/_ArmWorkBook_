@@ -1,17 +1,628 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d023873d-49b2-4858-a16d-16e4f525d4de" name="Default Changelist" comment="">
+    <list default="true" id="d023873d-49b2-4858-a16d-16e4f525d4de" name="Default Changelist" comment="//Commit">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/basic/varargs/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/file_io/lvl_2/controller/Control.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/file_io/lvl_2/model/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/file_io/lvl_2/model/MyAddress.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/file_io/lvl_2/model/MyDate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/file_io/lvl_2/view/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ArmWorkBook.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ArmWorkBook.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exceptions/market/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exceptions/market/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/file_io/a.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oop/interfacee/loto/Games.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/interfacee/loto/Games.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/arrays/Ex108_117/Task_108.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/arrays/Ex108_117/Task_108.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/arrays/Ex108_117/Task_109.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/arrays/Ex108_117/Task_109.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/arrays/Ex108_117/Task_110.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/arrays/Ex108_117/Task_110.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/arrays/Ex108_117/Task_111.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/arrays/Ex108_117/Task_111.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/arrays/Ex108_117/Task_112.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/arrays/Ex108_117/Task_112.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/arrays/Ex108_117/Task_113.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/arrays/Ex108_117/Task_113.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/arrays/Ex108_117/Task_114.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/arrays/Ex108_117/Task_114.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/arrays/Ex108_117/Task_115.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/arrays/Ex108_117/Task_115.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/arrays/Ex108_117/Task_116.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/arrays/Ex108_117/Task_116.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/arrays/Ex108_117/Task_117.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/arrays/Ex108_117/Task_117.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/arrays/Ex118_127/Task_118.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/arrays/Ex118_127/Task_118.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/arrays/Ex118_127/Task_119.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/arrays/Ex118_127/Task_119.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/arrays/Ex118_127/Task_120.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/arrays/Ex118_127/Task_120.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/arrays/Ex118_127/Task_121.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/arrays/Ex118_127/Task_121.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/arrays/Ex118_127/Task_122.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/arrays/Ex118_127/Task_122.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/arrays/Ex118_127/Task_123.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/arrays/Ex118_127/Task_123.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/arrays/Ex118_127/Task_124.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/arrays/Ex118_127/Task_124.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/arrays/Ex118_127/Task_125.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/arrays/Ex118_127/Task_125.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/arrays/Ex118_127/Task_126.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/arrays/Ex118_127/Task_126.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/arrays/Ex118_127/Task_127.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/arrays/Ex118_127/Task_127.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/arrays/Ex128_137/Task_128.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/arrays/Ex128_137/Task_128.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/arrays/Ex128_137/Task_129.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/arrays/Ex128_137/Task_129.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/arrays/Ex128_137/Task_130.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/arrays/Ex128_137/Task_130.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/arrays/Ex128_137/Task_131.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/arrays/Ex128_137/Task_131.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/arrays/Ex128_137/Task_132.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/arrays/Ex128_137/Task_132.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/arrays/Ex128_137/Task_133.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/arrays/Ex128_137/Task_133.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/arrays/Ex128_137/Task_134.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/arrays/Ex128_137/Task_134.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/arrays/Ex128_137/Task_135.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/arrays/Ex128_137/Task_135.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/arrays/Ex128_137/Task_136.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/arrays/Ex128_137/Task_136.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/arrays/Ex128_137/Task_137.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/arrays/Ex128_137/Task_137.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/arrays/Ex68_87/Task_68.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/arrays/Ex68_87/Task_68.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/arrays/Ex68_87/Task_69.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/arrays/Ex68_87/Task_69.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/arrays/Ex68_87/Task_70.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/arrays/Ex68_87/Task_70.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/arrays/Ex68_87/Task_71.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/arrays/Ex68_87/Task_71.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/arrays/Ex68_87/Task_72.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/arrays/Ex68_87/Task_72.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/arrays/Ex68_87/Task_73.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/arrays/Ex68_87/Task_73.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/arrays/Ex68_87/Task_74.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/arrays/Ex68_87/Task_74.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/arrays/Ex68_87/Task_75.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/arrays/Ex68_87/Task_75.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/arrays/Ex68_87/Task_76.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/arrays/Ex68_87/Task_76.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/arrays/Ex68_87/Task_77.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/arrays/Ex68_87/Task_77.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/arrays/Ex68_87/Task_78.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/arrays/Ex68_87/Task_78.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/arrays/Ex68_87/Task_79.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/arrays/Ex68_87/Task_79.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/arrays/Ex68_87/Task_80.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/arrays/Ex68_87/Task_80.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/arrays/Ex68_87/Task_81.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/arrays/Ex68_87/Task_81.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/arrays/Ex68_87/Task_82.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/arrays/Ex68_87/Task_82.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/arrays/Ex68_87/Task_83.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/arrays/Ex68_87/Task_83.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/arrays/Ex68_87/Task_84.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/arrays/Ex68_87/Task_84.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/arrays/Ex68_87/Task_85.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/arrays/Ex68_87/Task_85.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/arrays/Ex68_87/Task_86.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/arrays/Ex68_87/Task_86.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/arrays/Ex68_87/Task_87.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/arrays/Ex68_87/Task_87.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/arrays/Ex88_107/Task_100.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/arrays/Ex88_107/Task_100.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/arrays/Ex88_107/Task_101.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/arrays/Ex88_107/Task_101.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/arrays/Ex88_107/Task_102.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/arrays/Ex88_107/Task_102.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/arrays/Ex88_107/Task_103.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/arrays/Ex88_107/Task_103.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/arrays/Ex88_107/Task_104.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/arrays/Ex88_107/Task_104.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/arrays/Ex88_107/Task_105.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/arrays/Ex88_107/Task_105.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/arrays/Ex88_107/Task_106.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/arrays/Ex88_107/Task_106.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/arrays/Ex88_107/Task_107.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/arrays/Ex88_107/Task_107.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/arrays/Ex88_107/Task_88.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/arrays/Ex88_107/Task_88.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/arrays/Ex88_107/Task_89.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/arrays/Ex88_107/Task_89.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/arrays/Ex88_107/Task_90.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/arrays/Ex88_107/Task_90.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/arrays/Ex88_107/Task_91.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/arrays/Ex88_107/Task_91.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/arrays/Ex88_107/Task_92.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/arrays/Ex88_107/Task_92.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/arrays/Ex88_107/Task_93.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/arrays/Ex88_107/Task_93.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/arrays/Ex88_107/Task_94.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/arrays/Ex88_107/Task_94.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/arrays/Ex88_107/Task_95.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/arrays/Ex88_107/Task_95.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/arrays/Ex88_107/Task_96.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/arrays/Ex88_107/Task_96.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/arrays/Ex88_107/Task_97.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/arrays/Ex88_107/Task_97.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/arrays/Ex88_107/Task_98.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/arrays/Ex88_107/Task_98.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/arrays/Ex88_107/Task_99.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/arrays/Ex88_107/Task_99.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/control_statments/Ex11_20/Task_11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/control_statments/Ex11_20/Task_11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/control_statments/Ex11_20/Task_12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/control_statments/Ex11_20/Task_12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/control_statments/Ex11_20/Task_13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/control_statments/Ex11_20/Task_13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/control_statments/Ex11_20/Task_14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/control_statments/Ex11_20/Task_14.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/control_statments/Ex11_20/Task_15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/control_statments/Ex11_20/Task_15.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/control_statments/Ex11_20/Task_16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/control_statments/Ex11_20/Task_16.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/control_statments/Ex11_20/Task_17.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/control_statments/Ex11_20/Task_17.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/control_statments/Ex11_20/Task_18.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/control_statments/Ex11_20/Task_18.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/control_statments/Ex11_20/Task_19.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/control_statments/Ex11_20/Task_19.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/control_statments/Ex11_20/Task_20.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/control_statments/Ex11_20/Task_20.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/control_statments/Ex1_10/Task_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/control_statments/Ex1_10/Task_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/control_statments/Ex1_10/Task_10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/control_statments/Ex1_10/Task_10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/control_statments/Ex1_10/Task_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/control_statments/Ex1_10/Task_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/control_statments/Ex1_10/Task_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/control_statments/Ex1_10/Task_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/control_statments/Ex1_10/Task_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/control_statments/Ex1_10/Task_4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/control_statments/Ex1_10/Task_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/control_statments/Ex1_10/Task_5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/control_statments/Ex1_10/Task_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/control_statments/Ex1_10/Task_6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/control_statments/Ex1_10/Task_7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/control_statments/Ex1_10/Task_7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/control_statments/Ex1_10/Task_8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/control_statments/Ex1_10/Task_8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/control_statments/Ex1_10/Task_9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/control_statments/Ex1_10/Task_9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/control_statments/Ex21_30/Task_21.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/control_statments/Ex21_30/Task_21.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/control_statments/Ex21_30/Task_22.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/control_statments/Ex21_30/Task_22.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/control_statments/Ex21_30/Task_23.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/control_statments/Ex21_30/Task_23.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/control_statments/Ex21_30/Task_24.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/control_statments/Ex21_30/Task_24.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/control_statments/Ex21_30/Task_25.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/control_statments/Ex21_30/Task_25.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/control_statments/Ex21_30/Task_26.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/control_statments/Ex21_30/Task_26.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/control_statments/Ex21_30/Task_27.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/control_statments/Ex21_30/Task_27.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/control_statments/Ex21_30/Task_28.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/control_statments/Ex21_30/Task_28.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/control_statments/Ex21_30/Task_29.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/control_statments/Ex21_30/Task_29.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/control_statments/Ex21_30/Task_30.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/control_statments/Ex21_30/Task_30.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/control_statments/Ex31_40/Task_31.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/control_statments/Ex31_40/Task_31.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/control_statments/Ex31_40/Task_32.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/control_statments/Ex31_40/Task_32.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/control_statments/Ex31_40/Task_33.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/control_statments/Ex31_40/Task_33.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/control_statments/Ex31_40/Task_34.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/control_statments/Ex31_40/Task_34.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/control_statments/Ex31_40/Task_35.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/control_statments/Ex31_40/Task_35.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/control_statments/Ex31_40/Task_36.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/control_statments/Ex31_40/Task_36.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/control_statments/Ex31_40/Task_37.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/control_statments/Ex31_40/Task_37.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/control_statments/Ex31_40/Task_38.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/control_statments/Ex31_40/Task_38.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/control_statments/Ex31_40/Task_39.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/control_statments/Ex31_40/Task_39.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/control_statments/Ex31_40/Task_40.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/control_statments/Ex31_40/Task_40.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/loops/Ex41_56/Task_41.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/loops/Ex41_56/Task_41.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/loops/Ex41_56/Task_42.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/loops/Ex41_56/Task_42.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/loops/Ex41_56/Task_43.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/loops/Ex41_56/Task_43.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/loops/Ex41_56/Task_44.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/loops/Ex41_56/Task_44.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/loops/Ex41_56/Task_45.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/loops/Ex41_56/Task_45.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/loops/Ex41_56/Task_46.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/loops/Ex41_56/Task_46.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/loops/Ex41_56/Task_47.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/loops/Ex41_56/Task_47.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/loops/Ex41_56/Task_48.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/loops/Ex41_56/Task_48.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/loops/Ex41_56/Task_49.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/loops/Ex41_56/Task_49.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/loops/Ex41_56/Task_50.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/loops/Ex41_56/Task_50.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/loops/Ex41_56/Task_51.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/loops/Ex41_56/Task_51.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/loops/Ex41_56/Task_52.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/loops/Ex41_56/Task_52.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/loops/Ex41_56/Task_53.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/loops/Ex41_56/Task_53.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/loops/Ex41_56/Task_54.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/loops/Ex41_56/Task_54.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/loops/Ex41_56/Task_55.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/loops/Ex41_56/Task_55.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/loops/Ex41_56/Task_56.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/loops/Ex41_56/Task_56.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/loops/Ex57_66/Task_57.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/loops/Ex57_66/Task_57.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/loops/Ex57_66/Task_58.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/loops/Ex57_66/Task_58.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/loops/Ex57_66/Task_59.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/loops/Ex57_66/Task_59.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/loops/Ex57_66/Task_60.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/loops/Ex57_66/Task_60.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/loops/Ex57_66/Task_61.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/loops/Ex57_66/Task_61.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/loops/Ex57_66/Task_62.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/loops/Ex57_66/Task_62.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/loops/Ex57_66/Task_63.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/loops/Ex57_66/Task_63.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/loops/Ex57_66/Task_64.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/loops/Ex57_66/Task_64.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/loops/Ex57_66/Task_65.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/loops/Ex57_66/Task_65.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/loops/Ex57_66/Task_66.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/loops/Ex57_66/Task_66.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/strings/Ex138_155/Task_138.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/strings/Ex138_155/Task_138.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/strings/Ex138_155/Task_139.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/strings/Ex138_155/Task_139.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/strings/Ex138_155/Task_140.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/strings/Ex138_155/Task_140.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/strings/Ex138_155/Task_141.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/strings/Ex138_155/Task_141.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/strings/Ex138_155/Task_142.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/strings/Ex138_155/Task_142.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/strings/Ex138_155/Task_143.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/strings/Ex138_155/Task_143.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/strings/Ex138_155/Task_144.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/strings/Ex138_155/Task_144.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/strings/Ex138_155/Task_145.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/strings/Ex138_155/Task_145.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/strings/Ex138_155/Task_146.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/strings/Ex138_155/Task_146.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/strings/Ex138_155/Task_147.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/strings/Ex138_155/Task_147.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/strings/Ex138_155/Task_148.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/strings/Ex138_155/Task_148.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/strings/Ex138_155/Task_149.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/strings/Ex138_155/Task_149.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/strings/Ex138_155/Task_150.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/strings/Ex138_155/Task_150.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/strings/Ex138_155/Task_151.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/strings/Ex138_155/Task_151.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/strings/Ex138_155/Task_152.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/strings/Ex138_155/Task_152.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/strings/Ex138_155/Task_153.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/strings/Ex138_155/Task_153.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/strings/Ex138_155/Task_154.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/strings/Ex138_155/Task_154.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/strings/Ex138_155/Task_155.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/strings/Ex138_155/Task_155.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/strings/Ex156_183/Task_156.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/strings/Ex156_183/Task_156.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/strings/Ex156_183/Task_157.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/strings/Ex156_183/Task_157.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/strings/Ex156_183/Task_158.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/strings/Ex156_183/Task_158.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/strings/Ex156_183/Task_159.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/strings/Ex156_183/Task_159.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/strings/Ex156_183/Task_160.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/strings/Ex156_183/Task_160.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/strings/Ex156_183/Task_161.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/strings/Ex156_183/Task_161.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/strings/Ex156_183/Task_162.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/strings/Ex156_183/Task_162.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/strings/Ex156_183/Task_163.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/strings/Ex156_183/Task_163.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/strings/Ex156_183/Task_164.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/strings/Ex156_183/Task_164.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/strings/Ex156_183/Task_165.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/strings/Ex156_183/Task_165.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/strings/Ex156_183/Task_166.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/strings/Ex156_183/Task_166.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/strings/Ex156_183/Task_167.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/strings/Ex156_183/Task_167.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/strings/Ex156_183/Task_168.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/strings/Ex156_183/Task_168.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/strings/Ex156_183/Task_169.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/strings/Ex156_183/Task_169.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/strings/Ex156_183/Task_170.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/strings/Ex156_183/Task_170.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/strings/Ex156_183/Task_171.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/strings/Ex156_183/Task_171.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/strings/Ex156_183/Task_172.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/strings/Ex156_183/Task_172.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/strings/Ex156_183/Task_173.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/strings/Ex156_183/Task_173.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/strings/Ex156_183/Task_174.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/strings/Ex156_183/Task_174.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/strings/Ex156_183/Task_175.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/strings/Ex156_183/Task_175.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/strings/Ex156_183/Task_176.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/strings/Ex156_183/Task_176.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/strings/Ex156_183/Task_177.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/strings/Ex156_183/Task_177.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/strings/Ex156_183/Task_178.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/strings/Ex156_183/Task_178.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/strings/Ex156_183/Task_179.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/strings/Ex156_183/Task_179.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/strings/Ex156_183/Task_180.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/strings/Ex156_183/Task_180.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/strings/Ex156_183/Task_181.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/strings/Ex156_183/Task_181.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/strings/Ex156_183/Task_182.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/strings/Ex156_183/Task_182.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/strings/Ex156_183/Task_183.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/strings/Ex156_183/Task_183.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/strings/Ex184_205/Task_184.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/strings/Ex184_205/Task_184.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/strings/Ex184_205/Task_185.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/strings/Ex184_205/Task_185.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/strings/Ex184_205/Task_186.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/strings/Ex184_205/Task_186.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/strings/Ex184_205/Task_187.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/strings/Ex184_205/Task_187.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/strings/Ex184_205/Task_188.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/strings/Ex184_205/Task_188.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/strings/Ex184_205/Task_189.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/strings/Ex184_205/Task_189.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/strings/Ex184_205/Task_190.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/strings/Ex184_205/Task_190.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/strings/Ex184_205/Task_191.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/strings/Ex184_205/Task_191.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/strings/Ex184_205/Task_192.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/strings/Ex184_205/Task_192.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/strings/Ex184_205/Task_193.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/strings/Ex184_205/Task_193.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/strings/Ex184_205/Task_194.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/strings/Ex184_205/Task_194.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/strings/Ex184_205/Task_195.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/strings/Ex184_205/Task_195.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/strings/Ex184_205/Task_196.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/strings/Ex184_205/Task_196.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/strings/Ex184_205/Task_197.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/strings/Ex184_205/Task_197.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/strings/Ex184_205/Task_198.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/strings/Ex184_205/Task_198.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/strings/Ex184_205/Task_199.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/strings/Ex184_205/Task_199.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/strings/Ex184_205/Task_200.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/strings/Ex184_205/Task_200.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/strings/Ex184_205/Task_201.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/strings/Ex184_205/Task_201.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/strings/Ex184_205/Task_202.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/strings/Ex184_205/Task_202.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/strings/Ex184_205/Task_203.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/strings/Ex184_205/Task_203.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/strings/Ex184_205/Task_204.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/strings/Ex184_205/Task_204.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/strings/Ex184_205/Task_205.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/strings/Ex184_205/Task_205.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/list/arraylist/ArrayListJDBC_Crud/OperationOnStudents.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collections/list/arraylist/ArrayListJDBC_Crud/OperationOnStudents.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/list/arraylist/ArrayListJDBC_Crud/ServiceClassUsingArrayLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collections/list/arraylist/ArrayListJDBC_Crud/ServiceClassUsingArrayLists.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/list/arraylist/ArrayListJDBC_Crud/ServiceClassUsingJDBC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collections/list/arraylist/ArrayListJDBC_Crud/ServiceClassUsingJDBC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/list/arraylist/ArrayListJDBC_Crud/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collections/list/arraylist/ArrayListJDBC_Crud/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/list/arraylist/book_tasks/Task_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collections/list/arraylist/book_tasks/Task_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/list/arraylist/book_tasks/Task_10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collections/list/arraylist/book_tasks/Task_10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/list/arraylist/book_tasks/Task_11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collections/list/arraylist/book_tasks/Task_11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/list/arraylist/book_tasks/Task_12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collections/list/arraylist/book_tasks/Task_12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/list/arraylist/book_tasks/Task_13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collections/list/arraylist/book_tasks/Task_13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/list/arraylist/book_tasks/Task_14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collections/list/arraylist/book_tasks/Task_14.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/list/arraylist/book_tasks/Task_15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collections/list/arraylist/book_tasks/Task_15.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/list/arraylist/book_tasks/Task_16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collections/list/arraylist/book_tasks/Task_16.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/list/arraylist/book_tasks/Task_17.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collections/list/arraylist/book_tasks/Task_17.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/list/arraylist/book_tasks/Task_18.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collections/list/arraylist/book_tasks/Task_18.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/list/arraylist/book_tasks/Task_19.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collections/list/arraylist/book_tasks/Task_19.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/list/arraylist/book_tasks/Task_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collections/list/arraylist/book_tasks/Task_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/list/arraylist/book_tasks/Task_20.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collections/list/arraylist/book_tasks/Task_20.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/list/arraylist/book_tasks/Task_21.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collections/list/arraylist/book_tasks/Task_21.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/list/arraylist/book_tasks/Task_22.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collections/list/arraylist/book_tasks/Task_22.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/list/arraylist/book_tasks/Task_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collections/list/arraylist/book_tasks/Task_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/list/arraylist/book_tasks/Task_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collections/list/arraylist/book_tasks/Task_4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/list/arraylist/book_tasks/Task_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collections/list/arraylist/book_tasks/Task_5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/list/arraylist/book_tasks/Task_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collections/list/arraylist/book_tasks/Task_6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/list/arraylist/book_tasks/Task_7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collections/list/arraylist/book_tasks/Task_7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/list/arraylist/book_tasks/Task_8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collections/list/arraylist/book_tasks/Task_8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/list/arraylist/book_tasks/Task_9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collections/list/arraylist/book_tasks/Task_9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/list/linkedlist/book_tasks/Task_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collections/list/linkedlist/book_tasks/Task_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/list/linkedlist/book_tasks/Task_10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collections/list/linkedlist/book_tasks/Task_10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/list/linkedlist/book_tasks/Task_11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collections/list/linkedlist/book_tasks/Task_11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/list/linkedlist/book_tasks/Task_12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collections/list/linkedlist/book_tasks/Task_12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/list/linkedlist/book_tasks/Task_13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collections/list/linkedlist/book_tasks/Task_13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/list/linkedlist/book_tasks/Task_14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collections/list/linkedlist/book_tasks/Task_14.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/list/linkedlist/book_tasks/Task_15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collections/list/linkedlist/book_tasks/Task_15.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/list/linkedlist/book_tasks/Task_16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collections/list/linkedlist/book_tasks/Task_16.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/list/linkedlist/book_tasks/Task_17.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collections/list/linkedlist/book_tasks/Task_17.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/list/linkedlist/book_tasks/Task_18.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collections/list/linkedlist/book_tasks/Task_18.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/list/linkedlist/book_tasks/Task_19.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collections/list/linkedlist/book_tasks/Task_19.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/list/linkedlist/book_tasks/Task_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collections/list/linkedlist/book_tasks/Task_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/list/linkedlist/book_tasks/Task_20.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collections/list/linkedlist/book_tasks/Task_20.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/list/linkedlist/book_tasks/Task_21.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collections/list/linkedlist/book_tasks/Task_21.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/list/linkedlist/book_tasks/Task_22.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collections/list/linkedlist/book_tasks/Task_22.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/list/linkedlist/book_tasks/Task_23.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collections/list/linkedlist/book_tasks/Task_23.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/list/linkedlist/book_tasks/Task_24.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collections/list/linkedlist/book_tasks/Task_24.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/list/linkedlist/book_tasks/Task_25.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collections/list/linkedlist/book_tasks/Task_25.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/list/linkedlist/book_tasks/Task_26.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collections/list/linkedlist/book_tasks/Task_26.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/list/linkedlist/book_tasks/Task_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collections/list/linkedlist/book_tasks/Task_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/list/linkedlist/book_tasks/Task_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collections/list/linkedlist/book_tasks/Task_4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/list/linkedlist/book_tasks/Task_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collections/list/linkedlist/book_tasks/Task_5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/list/linkedlist/book_tasks/Task_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collections/list/linkedlist/book_tasks/Task_6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/list/linkedlist/book_tasks/Task_7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collections/list/linkedlist/book_tasks/Task_7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/list/linkedlist/book_tasks/Task_8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collections/list/linkedlist/book_tasks/Task_8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/list/linkedlist/book_tasks/Task_9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collections/list/linkedlist/book_tasks/Task_9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/map/hashmap/book_tasks/Task_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collections/map/hashmap/book_tasks/Task_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/map/hashmap/book_tasks/Task_10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collections/map/hashmap/book_tasks/Task_10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/map/hashmap/book_tasks/Task_11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collections/map/hashmap/book_tasks/Task_11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/map/hashmap/book_tasks/Task_12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collections/map/hashmap/book_tasks/Task_12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/map/hashmap/book_tasks/Task_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collections/map/hashmap/book_tasks/Task_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/map/hashmap/book_tasks/Task_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collections/map/hashmap/book_tasks/Task_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/map/hashmap/book_tasks/Task_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collections/map/hashmap/book_tasks/Task_4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/map/hashmap/book_tasks/Task_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collections/map/hashmap/book_tasks/Task_5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/map/hashmap/book_tasks/Task_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collections/map/hashmap/book_tasks/Task_6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/map/hashmap/book_tasks/Task_7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collections/map/hashmap/book_tasks/Task_7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/map/hashmap/book_tasks/Task_8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collections/map/hashmap/book_tasks/Task_8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/map/hashmap/book_tasks/Task_9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collections/map/hashmap/book_tasks/Task_9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/map/treemap/book_tasks/Task_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collections/map/treemap/book_tasks/Task_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/map/treemap/book_tasks/Task_10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collections/map/treemap/book_tasks/Task_10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/map/treemap/book_tasks/Task_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collections/map/treemap/book_tasks/Task_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/map/treemap/book_tasks/Task_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collections/map/treemap/book_tasks/Task_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/map/treemap/book_tasks/Task_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collections/map/treemap/book_tasks/Task_4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/map/treemap/book_tasks/Task_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collections/map/treemap/book_tasks/Task_5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/map/treemap/book_tasks/Task_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collections/map/treemap/book_tasks/Task_6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/map/treemap/book_tasks/Task_7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collections/map/treemap/book_tasks/Task_7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/map/treemap/book_tasks/Task_8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collections/map/treemap/book_tasks/Task_8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/map/treemap/book_tasks/Task_9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collections/map/treemap/book_tasks/Task_9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/set/hashset/book_tasks/Task_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collections/set/hashset/book_tasks/Task_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/set/hashset/book_tasks/Task_10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collections/set/hashset/book_tasks/Task_10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/set/hashset/book_tasks/Task_11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collections/set/hashset/book_tasks/Task_11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/set/hashset/book_tasks/Task_12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collections/set/hashset/book_tasks/Task_12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/set/hashset/book_tasks/Task_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collections/set/hashset/book_tasks/Task_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/set/hashset/book_tasks/Task_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collections/set/hashset/book_tasks/Task_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/set/hashset/book_tasks/Task_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collections/set/hashset/book_tasks/Task_4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/set/hashset/book_tasks/Task_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collections/set/hashset/book_tasks/Task_5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/set/hashset/book_tasks/Task_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collections/set/hashset/book_tasks/Task_6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/set/hashset/book_tasks/Task_7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collections/set/hashset/book_tasks/Task_7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/set/hashset/book_tasks/Task_8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collections/set/hashset/book_tasks/Task_8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/set/hashset/book_tasks/Task_9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collections/set/hashset/book_tasks/Task_9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/set/treeset/book_tasks/Task_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collections/set/treeset/book_tasks/Task_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/set/treeset/book_tasks/Task_10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collections/set/treeset/book_tasks/Task_10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/set/treeset/book_tasks/Task_11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collections/set/treeset/book_tasks/Task_11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/set/treeset/book_tasks/Task_15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collections/set/treeset/book_tasks/Task_15.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/set/treeset/book_tasks/Task_16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collections/set/treeset/book_tasks/Task_16.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/set/treeset/book_tasks/Task_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collections/set/treeset/book_tasks/Task_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/set/treeset/book_tasks/Task_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collections/set/treeset/book_tasks/Task_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/set/treeset/book_tasks/Task_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collections/set/treeset/book_tasks/Task_4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/set/treeset/book_tasks/Task_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collections/set/treeset/book_tasks/Task_5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/set/treeset/book_tasks/Task_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collections/set/treeset/book_tasks/Task_6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/set/treeset/book_tasks/Task_7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collections/set/treeset/book_tasks/Task_7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/set/treeset/book_tasks/Task_8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collections/set/treeset/book_tasks/Task_8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/set/treeset/book_tasks/Task_9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collections/set/treeset/book_tasks/Task_9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/concurrency/GasStationTest/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/concurrency/GasStationTest/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/concurrency/GasStationTest/Cashier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/concurrency/GasStationTest/Cashier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/concurrency/GasStationTest/DBManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/concurrency/GasStationTest/DBManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/concurrency/GasStationTest/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/concurrency/GasStationTest/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/concurrency/GasStationTest/FuelBoy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/concurrency/GasStationTest/FuelBoy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/concurrency/GasStationTest/Gasstation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/concurrency/GasStationTest/Gasstation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/concurrency/GasStationTest/Loading.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/concurrency/GasStationTest/Loading.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/concurrency/Library/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/concurrency/Library/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/concurrency/Library/BookChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/concurrency/Library/BookChecker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/concurrency/Library/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/concurrency/Library/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/concurrency/Library/IGroupType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/concurrency/Library/IGroupType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/concurrency/Library/Library.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/concurrency/Library/Library.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/concurrency/Library/Magazine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/concurrency/Library/Magazine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/concurrency/Library/Reader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/concurrency/Library/Reader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/concurrency/Library/ReadingObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/concurrency/Library/ReadingObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/concurrency/Library/Textbook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/concurrency/Library/Textbook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/concurrency/Philosophers/Chopstick.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/concurrency/Philosophers/Chopstick.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/concurrency/Philosophers/Dine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/concurrency/Philosophers/Dine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/concurrency/Philosophers/Log.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/concurrency/Philosophers/Log.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/concurrency/Philosophers/Philosopher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/concurrency/Philosophers/Philosopher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/concurrency/Warehouse/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/concurrency/Warehouse/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/concurrency/Warehouse/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/concurrency/Warehouse/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/concurrency/Warehouse/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/concurrency/Warehouse/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/concurrency/Warehouse/Shop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/concurrency/Warehouse/Shop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/concurrency/Warehouse/Supplier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/concurrency/Warehouse/Supplier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/concurrency/Warehouse/Warehouse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/concurrency/Warehouse/Warehouse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/design_patterns/a.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/design_patterns/a.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exceptions/ExceptionLoginPass/java/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exceptions/ExceptionLoginPass/java/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exceptions/ExceptionLoginPass/java/NotUniqueLoginException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exceptions/ExceptionLoginPass/java/NotUniqueLoginException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exceptions/ExceptionLoginPass/java/constants/MessagesConstants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exceptions/ExceptionLoginPass/java/constants/MessagesConstants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exceptions/ExceptionLoginPass/java/constants/RegexConstants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exceptions/ExceptionLoginPass/java/constants/RegexConstants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exceptions/ExceptionLoginPass/java/controller/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exceptions/ExceptionLoginPass/java/controller/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exceptions/ExceptionLoginPass/java/entity/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exceptions/ExceptionLoginPass/java/entity/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exceptions/ExceptionLoginPass/java/model/DBRecords.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exceptions/ExceptionLoginPass/java/model/DBRecords.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exceptions/ExceptionLoginPass/java/model/Model.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exceptions/ExceptionLoginPass/java/model/Model.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exceptions/ExceptionLoginPass/java/view/View.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exceptions/ExceptionLoginPass/java/view/View.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exceptions/ExceptionLoginPass/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exceptions/ExceptionLoginPass/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exceptions/ExceptionLoginPass/resources/messages.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exceptions/ExceptionLoginPass/resources/messages.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exceptions/ExceptionLoginPass/resources/messages_ru.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exceptions/ExceptionLoginPass/resources/messages_ru.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exceptions/ExceptionLoginPass/resources/regex.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exceptions/ExceptionLoginPass/resources/regex.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exceptions/market/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exceptions/market/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exceptions/market/Cashier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exceptions/market/Cashier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exceptions/market/CashierStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exceptions/market/CashierStrategy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exceptions/market/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exceptions/market/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exceptions/market/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exceptions/market/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exceptions/market/Register.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exceptions/market/Register.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exceptions/market/Shop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exceptions/market/Shop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exceptions/market/cashiers/AbstractCashier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exceptions/market/cashiers/AbstractCashier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exceptions/market/cashiers/NiceCashier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exceptions/market/cashiers/NiceCashier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exceptions/market/cashiers/NormalCashier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exceptions/market/cashiers/NormalCashier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exceptions/market/cashiers/StrangeCashier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exceptions/market/cashiers/StrangeCashier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exceptions/market/customers/AbstractCustomer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exceptions/market/customers/AbstractCustomer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exceptions/market/customers/CustomerWithCreditCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exceptions/market/customers/CustomerWithCreditCard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exceptions/market/customers/NormalCustomer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exceptions/market/customers/NormalCustomer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exceptions/market/customers/SlowlyCustomer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exceptions/market/customers/SlowlyCustomer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exceptions/market/errors/FireInTheShop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exceptions/market/errors/FireInTheShop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exceptions/market/errors/ShopRobbery.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exceptions/market/errors/ShopRobbery.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exceptions/market/exceptions/CashierHasNoChange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exceptions/market/exceptions/CashierHasNoChange.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exceptions/market/exceptions/RegisterExceptions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exceptions/market/exceptions/RegisterExceptions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exceptions/market/exceptions/RegisterIsBroken.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exceptions/market/exceptions/RegisterIsBroken.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exceptions/market/exceptions/TapeIsEnded.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exceptions/market/exceptions/TapeIsEnded.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exceptions/market/strategies/AngryStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exceptions/market/strategies/AngryStrategy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exceptions/market/strategies/CommonStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exceptions/market/strategies/CommonStrategy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exceptions/market/strategies/FriendlyStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exceptions/market/strategies/FriendlyStrategy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generics/arraylist_example/Qartez.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/generics/arraylist_example/Qartez.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java8/date/LocalDate1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java8/date/LocalDate1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java8/date/LocalDateTime1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java8/date/LocalDateTime1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java8/date/LocalTime1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java8/date/LocalTime1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java8/lambda/Interface1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java8/lambda/Interface1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java8/lambda/Lambda1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java8/lambda/Lambda1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java8/lambda/Lambda2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java8/lambda/Lambda2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java8/lambda/Lambda3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java8/lambda/Lambda3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java8/lambda/Lambda4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java8/lambda/Lambda4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java8/lambda/Lambda5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java8/lambda/Lambda5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java8/lambda/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java8/lambda/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java8/stream/Streams1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java8/stream/Streams1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java8/stream/Streams10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java8/stream/Streams10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java8/stream/Streams11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java8/stream/Streams11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java8/stream/Streams12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java8/stream/Streams12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java8/stream/Streams13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java8/stream/Streams13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java8/stream/Streams2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java8/stream/Streams2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java8/stream/Streams3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java8/stream/Streams3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java8/stream/Streams4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java8/stream/Streams4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java8/stream/Streams5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java8/stream/Streams5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java8/stream/Streams6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java8/stream/Streams6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java8/stream/Streams7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java8/stream/Streams7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java8/stream/Streams8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java8/stream/Streams8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java8/stream/Streams9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java8/stream/Streams9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oca_test/OCA.docx" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oca_test/OCA.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ocp_test/OCP.docx" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ocp_test/OCP.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/aggregation/Aggregation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/aggregation/Aggregation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/aggregation/Company.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/aggregation/Company.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/aggregation/EmpRole.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/aggregation/EmpRole.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/aggregation/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/aggregation/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/association/Association.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/association/Association.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/composition/Composition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/composition/Composition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/composition/CompositionDate/Date.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/composition/CompositionDate/Date.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/composition/CompositionDate/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/composition/CompositionDate/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/composition/CompositionDate/Medicament.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/composition/CompositionDate/Medicament.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/composition/composition_pc/CDRom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/composition/composition_pc/CDRom.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/composition/composition_pc/Hdd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/composition/composition_pc/Hdd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/composition/composition_pc/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/composition/composition_pc/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/composition/composition_pc/NoteBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/composition/composition_pc/NoteBook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/composition/composition_pc/PC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/composition/composition_pc/PC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/composition/composition_pc/Ram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/composition/composition_pc/Ram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/composition/composition_room_1/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/composition/composition_room_1/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/composition/composition_room_1/Case.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/composition/composition_room_1/Case.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/composition/composition_room_1/Dimensions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/composition/composition_room_1/Dimensions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/composition/composition_room_1/HouseOneRoom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/composition/composition_room_1/HouseOneRoom.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/composition/composition_room_1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/composition/composition_room_1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/composition/composition_room_1/Monitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/composition/composition_room_1/Monitor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/composition/composition_room_1/Motherboard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/composition/composition_room_1/Motherboard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/composition/composition_room_1/PC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/composition/composition_room_1/PC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/composition/composition_room_1/Resolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/composition/composition_room_1/Resolution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/composition/composition_room_1/Sink.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/composition/composition_room_1/Sink.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/composition/composition_room_1/Stove.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/composition/composition_room_1/Stove.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/composition/composition_room_1/TV.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/composition/composition_room_1/TV.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/composition/composition_room_1/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/composition/composition_room_1/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/composition/composition_room_2/Bed.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/composition/composition_room_2/Bed.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/composition/composition_room_2/Light.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/composition/composition_room_2/Light.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/composition/composition_room_2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/composition/composition_room_2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/composition/composition_room_2/MyRoom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/composition/composition_room_2/MyRoom.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/composition/composition_room_2/Window.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/composition/composition_room_2/Window.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/composition/hamburger/DeluxeBurger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/composition/hamburger/DeluxeBurger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/composition/hamburger/Hamburger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/composition/hamburger/Hamburger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/composition/hamburger/HamburgerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/composition/hamburger/HamburgerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/composition/hamburger/HealthyBurger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/composition/hamburger/HealthyBurger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/composition/hamburger/Toppings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/composition/hamburger/Toppings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/encapsulation/Ex206_235/task206/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/encapsulation/Ex206_235/task206/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/encapsulation/Ex206_235/task206/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/encapsulation/Ex206_235/task206/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/encapsulation/Ex206_235/task207/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/encapsulation/Ex206_235/task207/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/encapsulation/Ex206_235/task207/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/encapsulation/Ex206_235/task207/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/encapsulation/Ex206_235/task208/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/encapsulation/Ex206_235/task208/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/encapsulation/Ex206_235/task208/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/encapsulation/Ex206_235/task208/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/encapsulation/Ex206_235/task209/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/encapsulation/Ex206_235/task209/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/encapsulation/Ex206_235/task209/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/encapsulation/Ex206_235/task209/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/encapsulation/Ex206_235/task210/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/encapsulation/Ex206_235/task210/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/encapsulation/Ex206_235/task210/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/encapsulation/Ex206_235/task210/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/encapsulation/Ex206_235/task211/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/encapsulation/Ex206_235/task211/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/encapsulation/Ex206_235/task211/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/encapsulation/Ex206_235/task211/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/encapsulation/Ex206_235/task212/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/encapsulation/Ex206_235/task212/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/encapsulation/Ex206_235/task212/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/encapsulation/Ex206_235/task212/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/encapsulation/Ex206_235/task213/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/encapsulation/Ex206_235/task213/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/encapsulation/Ex206_235/task213/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/encapsulation/Ex206_235/task213/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/encapsulation/Ex206_235/task214/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/encapsulation/Ex206_235/task214/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/encapsulation/Ex206_235/task214/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/encapsulation/Ex206_235/task214/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/encapsulation/Ex206_235/task215/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/encapsulation/Ex206_235/task215/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/encapsulation/Ex206_235/task215/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/encapsulation/Ex206_235/task215/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/encapsulation/Ex206_235/task216/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/encapsulation/Ex206_235/task216/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/encapsulation/Ex206_235/task216/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/encapsulation/Ex206_235/task216/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/encapsulation/Ex206_235/task217/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/encapsulation/Ex206_235/task217/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/encapsulation/Ex206_235/task217/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/encapsulation/Ex206_235/task217/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/encapsulation/Ex206_235/task218/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/encapsulation/Ex206_235/task218/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/encapsulation/Ex206_235/task218/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/encapsulation/Ex206_235/task218/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/encapsulation/Ex206_235/task219/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/encapsulation/Ex206_235/task219/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/encapsulation/Ex206_235/task219/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/encapsulation/Ex206_235/task219/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/encapsulation/Ex206_235/task220/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/encapsulation/Ex206_235/task220/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/encapsulation/Ex206_235/task220/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/encapsulation/Ex206_235/task220/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/encapsulation/Ex206_235/task221/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/encapsulation/Ex206_235/task221/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/encapsulation/Ex206_235/task221/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/encapsulation/Ex206_235/task221/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/encapsulation/Ex206_235/task222/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/encapsulation/Ex206_235/task222/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/encapsulation/Ex206_235/task222/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/encapsulation/Ex206_235/task222/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/encapsulation/Ex206_235/task223/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/encapsulation/Ex206_235/task223/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/encapsulation/Ex206_235/task223/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/encapsulation/Ex206_235/task223/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/encapsulation/Ex206_235/task224/Library.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/encapsulation/Ex206_235/task224/Library.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/encapsulation/Ex206_235/task224/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/encapsulation/Ex206_235/task224/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/encapsulation/Ex206_235/task225/Library.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/encapsulation/Ex206_235/task225/Library.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/encapsulation/Ex206_235/task225/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/encapsulation/Ex206_235/task225/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/encapsulation/Ex206_235/task226/Library.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/encapsulation/Ex206_235/task226/Library.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/encapsulation/Ex206_235/task226/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/encapsulation/Ex206_235/task226/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/encapsulation/Ex206_235/task227/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/encapsulation/Ex206_235/task227/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/encapsulation/Ex206_235/task227/Tv.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/encapsulation/Ex206_235/task227/Tv.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/encapsulation/Ex206_235/task228/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/encapsulation/Ex206_235/task228/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/encapsulation/Ex206_235/task228/Tv.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/encapsulation/Ex206_235/task228/Tv.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/encapsulation/Ex206_235/task229/Cinema.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/encapsulation/Ex206_235/task229/Cinema.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/encapsulation/Ex206_235/task229/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/encapsulation/Ex206_235/task229/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/encapsulation/Ex206_235/task230/Lesson.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/encapsulation/Ex206_235/task230/Lesson.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/encapsulation/Ex206_235/task230/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/encapsulation/Ex206_235/task230/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/encapsulation/Ex206_235/task231/Exam.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/encapsulation/Ex206_235/task231/Exam.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/encapsulation/Ex206_235/task231/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/encapsulation/Ex206_235/task231/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/encapsulation/Ex206_235/task232/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/encapsulation/Ex206_235/task232/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/encapsulation/Ex206_235/task232/Song.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/encapsulation/Ex206_235/task232/Song.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/encapsulation/Ex206_235/task233/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/encapsulation/Ex206_235/task233/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/encapsulation/Ex206_235/task233/Song.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/encapsulation/Ex206_235/task233/Song.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/encapsulation/Ex206_235/task234/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/encapsulation/Ex206_235/task234/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/encapsulation/Ex206_235/task234/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/encapsulation/Ex206_235/task234/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/encapsulation/Ex206_235/task235/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/encapsulation/Ex206_235/task235/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/encapsulation/Ex206_235/task235/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/encapsulation/Ex206_235/task235/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/level_1/task1/Class1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/inheritance/level_1/task1/Class1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/level_1/task1/Class2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/inheritance/level_1/task1/Class2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/level_1/task1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/inheritance/level_1/task1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/level_1/task10/Class1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/inheritance/level_1/task10/Class1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/level_1/task10/Class2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/inheritance/level_1/task10/Class2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/level_1/task10/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/inheritance/level_1/task10/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/level_1/task11/Class1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/inheritance/level_1/task11/Class1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/level_1/task11/Class2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/inheritance/level_1/task11/Class2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/level_1/task11/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/inheritance/level_1/task11/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/level_1/task12/Class1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/inheritance/level_1/task12/Class1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/level_1/task12/Class2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/inheritance/level_1/task12/Class2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/level_1/task12/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/inheritance/level_1/task12/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/level_1/task13/Class1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/inheritance/level_1/task13/Class1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/level_1/task13/Class2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/inheritance/level_1/task13/Class2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/level_1/task13/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/inheritance/level_1/task13/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/level_1/task14/Class1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/inheritance/level_1/task14/Class1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/level_1/task14/Class2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/inheritance/level_1/task14/Class2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/level_1/task14/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/inheritance/level_1/task14/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/level_1/task15/IPhone7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/inheritance/level_1/task15/IPhone7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/level_1/task15/IPhone8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/inheritance/level_1/task15/IPhone8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/level_1/task15/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/inheritance/level_1/task15/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/level_1/task16/Class2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/inheritance/level_1/task16/Class2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/level_1/task16/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/inheritance/level_1/task16/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/level_1/task16/Phone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/inheritance/level_1/task16/Phone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/level_1/task2/Class1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/inheritance/level_1/task2/Class1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/level_1/task2/Class2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/inheritance/level_1/task2/Class2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/level_1/task2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/inheritance/level_1/task2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/level_1/task3/Class1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/inheritance/level_1/task3/Class1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/level_1/task3/Class2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/inheritance/level_1/task3/Class2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/level_1/task3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/inheritance/level_1/task3/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/level_1/task4/Class1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/inheritance/level_1/task4/Class1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/level_1/task4/Class2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/inheritance/level_1/task4/Class2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/level_1/task4/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/inheritance/level_1/task4/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/level_1/task5/Class1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/inheritance/level_1/task5/Class1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/level_1/task5/Class2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/inheritance/level_1/task5/Class2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/level_1/task5/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/inheritance/level_1/task5/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/level_1/task6/Class1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/inheritance/level_1/task6/Class1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/level_1/task6/Class2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/inheritance/level_1/task6/Class2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/level_1/task6/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/inheritance/level_1/task6/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/level_1/task7/Class1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/inheritance/level_1/task7/Class1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/level_1/task7/Class2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/inheritance/level_1/task7/Class2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/level_1/task7/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/inheritance/level_1/task7/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/level_1/task8/Class1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/inheritance/level_1/task8/Class1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/level_1/task8/Class2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/inheritance/level_1/task8/Class2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/level_1/task8/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/inheritance/level_1/task8/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/level_1/task9/Class1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/inheritance/level_1/task9/Class1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/level_1/task9/Class2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/inheritance/level_1/task9/Class2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/level_1/task9/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/inheritance/level_1/task9/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/level_2/task1/Date.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/inheritance/level_2/task1/Date.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/level_2/task1/Friend.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/inheritance/level_2/task1/Friend.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/level_2/task1/FriendList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/inheritance/level_2/task1/FriendList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/level_2/task1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/inheritance/level_2/task1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/level_2/task10/Counter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/inheritance/level_2/task10/Counter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/level_2/task10/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/inheritance/level_2/task10/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/level_2/task10/Numbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/inheritance/level_2/task10/Numbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/level_2/task10/X.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/inheritance/level_2/task10/X.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/level_2/task11/Counter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/inheritance/level_2/task11/Counter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/level_2/task11/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/inheritance/level_2/task11/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/level_2/task11/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/inheritance/level_2/task11/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/level_2/task11/ProductionInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/inheritance/level_2/task11/ProductionInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/level_2/task12/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/inheritance/level_2/task12/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/level_2/task12/ProductionInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/inheritance/level_2/task12/ProductionInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/level_2/task12/SourCream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/inheritance/level_2/task12/SourCream.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/level_2/task12/SourCreamList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/inheritance/level_2/task12/SourCreamList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/level_2/task13/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/inheritance/level_2/task13/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/level_2/task13/RetingWorker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/inheritance/level_2/task13/RetingWorker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/level_2/task13/Worker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/inheritance/level_2/task13/Worker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/level_2/task13/WorkerSalary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/inheritance/level_2/task13/WorkerSalary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/level_2/task2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/inheritance/level_2/task2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/level_2/task2/MyDate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/inheritance/level_2/task2/MyDate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/level_2/task2/Worker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/inheritance/level_2/task2/Worker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/level_2/task2/WorkerList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/inheritance/level_2/task2/WorkerList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/level_2/task3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/inheritance/level_2/task3/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/level_2/task3/MyDate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/inheritance/level_2/task3/MyDate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/level_2/task3/Remedy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/inheritance/level_2/task3/Remedy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/level_2/task3/RemedyList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/inheritance/level_2/task3/RemedyList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/level_2/task4/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/inheritance/level_2/task4/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/level_2/task4/Time.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/inheritance/level_2/task4/Time.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/level_2/task4/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/inheritance/level_2/task4/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/level_2/task4/UserList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/inheritance/level_2/task4/UserList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/level_2/task5/Lesson.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/inheritance/level_2/task5/Lesson.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/level_2/task5/LessonList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/inheritance/level_2/task5/LessonList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/level_2/task5/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/inheritance/level_2/task5/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/level_2/task5/Time.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/inheritance/level_2/task5/Time.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/level_2/task6/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/inheritance/level_2/task6/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/level_2/task6/BookList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/inheritance/level_2/task6/BookList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/level_2/task6/Library.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/inheritance/level_2/task6/Library.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/level_2/task6/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/inheritance/level_2/task6/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/level_2/task7/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/inheritance/level_2/task7/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/level_2/task7/BookList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/inheritance/level_2/task7/BookList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/level_2/task7/BookShop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/inheritance/level_2/task7/BookShop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/level_2/task7/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/inheritance/level_2/task7/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/level_2/task8/BirthYear.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/inheritance/level_2/task8/BirthYear.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/level_2/task8/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/inheritance/level_2/task8/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/level_2/task8/Worker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/inheritance/level_2/task8/Worker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/level_2/task8/WorkerList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/inheritance/level_2/task8/WorkerList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/level_2/task9/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/inheritance/level_2/task9/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/level_2/task9/Worker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/inheritance/level_2/task9/Worker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/level_2/task9/WorkerList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/inheritance/level_2/task9/WorkerList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/level_2/task9/WorkerProfession.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/inheritance/level_2/task9/WorkerProfession.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/interfacee/loto/Games.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/interfacee/loto/Games.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/interfacee/loto/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/interfacee/loto/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/interfacee/loto/Random_Number.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/interfacee/loto/Random_Number.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/polymorphism/level_1/task1/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/polymorphism/level_1/task1/Computer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/polymorphism/level_1/task1/ComputerInheritor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/polymorphism/level_1/task1/ComputerInheritor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/polymorphism/level_1/task1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/polymorphism/level_1/task1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reflection/Controller/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/reflection/Controller/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reflection/Example.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/reflection/Example.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reflection/MethodsByReflection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/reflection/MethodsByReflection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reflection/Model/Human.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/reflection/Model/Human.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reflection/Model/Information.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/reflection/Model/Information.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reflection/Model/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/reflection/Model/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reflection/UserPass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/reflection/UserPass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reflection/View/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/reflection/View/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/maven/target/" />
+    <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,84 +669,55 @@
     <session id="727072855">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.2" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="433" />
+          <entry key="class" value="2" />
+          <entry key="java" value="446" />
           <entry key="properties" value="6" />
           <entry key="txt" value="10" />
-          <entry key="xml" value="4" />
+          <entry key="xml" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="433" />
+          <entry key="CLASS" value="2" />
+          <entry key="JAVA" value="446" />
           <entry key="PLAIN_TEXT" value="10" />
           <entry key="Properties" value="6" />
-          <entry key="XML" value="4" />
+          <entry key="XML" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="495" />
+          <entry key="java" value="630" />
           <entry key="txt" value="91" />
-          <entry key="xml" value="17" />
+          <entry key="xml" value="19" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="495" />
+          <entry key="JAVA" value="630" />
           <entry key="PLAIN_TEXT" value="91" />
-          <entry key="XML" value="17" />
+          <entry key="XML" value="19" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/exceptions/market/errors/ShopRobbery.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/oop/interfacee/loto/Games.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/file_io/lvl_2/controller/Control.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="448">
-              <caret line="28" column="42" selection-start-line="28" selection-start-column="42" selection-end-line="28" selection-end-column="42" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/oop/interfacee/loto/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="32">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/oop/interfacee/loto/Random_Number.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-6">
-              <caret line="46" column="53" selection-start-line="46" selection-start-column="53" selection-end-line="46" selection-end-column="53" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/file_io/lvl_2/controller/Control.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="241">
-              <caret line="25" selection-start-line="25" selection-end-line="25" />
+            <state relative-caret-position="235">
+              <caret line="73" column="13" selection-start-line="73" selection-start-column="13" selection-end-line="73" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -144,16 +726,79 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/maven/pom.xml">
+        <entry file="file://$PROJECT_DIR$/src/main/java/java8/date/LocalDate1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+            <state relative-caret-position="192">
+              <caret line="12" column="15" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/file_io/lvl_2/model/MyDate.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/java8/stream/Streams4.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="448">
+              <caret line="29" column="28" lean-forward="true" selection-start-line="29" selection-start-column="28" selection-end-line="29" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/collections/list/arraylist/ArrayListJDBC_Crud/Student.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="208">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/collections/list/arraylist/ArrayListJDBC_Crud/ServiceClassUsingArrayLists.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="14" column="12" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/collections/list/arraylist/ArrayListJDBC_Crud/ServiceClassUsingJDBC.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="160">
+              <caret line="10" column="34" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="34" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/collections/list/arraylist/ArrayListJDBC_Crud/OperationOnStudents.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="208">
+              <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://D:/Teacher/•Personal•/ArrayListJDBC_Crud/out/production/ArrayListJDBC_Crud/OperationOnStudents.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="3" column="2" lean-forward="true" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/file_io/lvl_2/model/MyDate.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="64">
               <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
@@ -162,28 +807,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/file_io/lvl_2/view/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/file_io/lvl_2/view/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="144">
               <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/file_io/lvl_2/model/MyAddress.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="64">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/file_io/lvl_2/model/Human.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-384">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -197,19 +824,17 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Entry</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/collections/list/linkedlist/book_tasks/Task_11.java" />
-        <option value="$PROJECT_DIR$/src/collections/list/linkedlist/book_tasks/Task_12.java" />
-        <option value="$PROJECT_DIR$/src/collections/list/linkedlist/book_tasks/Task_13.java" />
-        <option value="$PROJECT_DIR$/src/collections/list/linkedlist/book_tasks/Task_14.java" />
-        <option value="$PROJECT_DIR$/src/collections/list/linkedlist/book_tasks/Task_15.java" />
-        <option value="$PROJECT_DIR$/src/collections/list/linkedlist/book_tasks/Task_16.java" />
-        <option value="$PROJECT_DIR$/src/collections/list/linkedlist/book_tasks/Task_17.java" />
         <option value="$PROJECT_DIR$/src/collections/list/linkedlist/book_tasks/Task_18.java" />
         <option value="$PROJECT_DIR$/src/collections/list/linkedlist/book_tasks/Task_19.java" />
         <option value="$PROJECT_DIR$/src/collections/list/linkedlist/book_tasks/Task_20.java" />
@@ -254,6 +879,13 @@
         <option value="$PROJECT_DIR$/maven/pom.xml" />
         <option value="$PROJECT_DIR$/src/file_io/lvl_2/view/Main.java" />
         <option value="$PROJECT_DIR$/src/file_io/lvl_2/controller/Control.java" />
+        <option value="$PROJECT_DIR$/src/exceptions/market/errors/ShopRobbery.java" />
+        <option value="$PROJECT_DIR$/src/basic/varargs/Main.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/collections/list/arraylist/ArrayListJDBC_Crud/Student.java" />
+        <option value="$PROJECT_DIR$/src/main/java/collections/list/arraylist/ArrayListJDBC_Crud/ServiceClassUsingArrayLists.java" />
+        <option value="$PROJECT_DIR$/src/main/java/collections/list/arraylist/ArrayListJDBC_Crud/ServiceClassUsingJDBC.java" />
+        <option value="$PROJECT_DIR$/src/main/java/collections/list/arraylist/ArrayListJDBC_Crud/OperationOnStudents.java" />
       </list>
     </option>
   </component>
@@ -296,6 +928,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -310,6 +943,112 @@
             </path>
             <path>
               <item name="_ArmWorkBook_" type="b2602c69:ProjectViewProjectNode" />
+              <item name="_ArmWorkBook_" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="_ArmWorkBook_" type="b2602c69:ProjectViewProjectNode" />
+              <item name="_ArmWorkBook_" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="_ArmWorkBook_" type="b2602c69:ProjectViewProjectNode" />
+              <item name="_ArmWorkBook_" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="collections" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="_ArmWorkBook_" type="b2602c69:ProjectViewProjectNode" />
+              <item name="_ArmWorkBook_" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="collections" type="462c0819:PsiDirectoryNode" />
+              <item name="list" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="_ArmWorkBook_" type="b2602c69:ProjectViewProjectNode" />
+              <item name="_ArmWorkBook_" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="collections" type="462c0819:PsiDirectoryNode" />
+              <item name="list" type="462c0819:PsiDirectoryNode" />
+              <item name="arraylist" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="_ArmWorkBook_" type="b2602c69:ProjectViewProjectNode" />
+              <item name="_ArmWorkBook_" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="collections" type="462c0819:PsiDirectoryNode" />
+              <item name="list" type="462c0819:PsiDirectoryNode" />
+              <item name="arraylist" type="462c0819:PsiDirectoryNode" />
+              <item name="ArrayListJDBC_Crud" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="_ArmWorkBook_" type="b2602c69:ProjectViewProjectNode" />
+              <item name="_ArmWorkBook_" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="exceptions" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="_ArmWorkBook_" type="b2602c69:ProjectViewProjectNode" />
+              <item name="_ArmWorkBook_" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="file_io" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="_ArmWorkBook_" type="b2602c69:ProjectViewProjectNode" />
+              <item name="_ArmWorkBook_" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="file_io" type="462c0819:PsiDirectoryNode" />
+              <item name="lvl_2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="_ArmWorkBook_" type="b2602c69:ProjectViewProjectNode" />
+              <item name="_ArmWorkBook_" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="file_io" type="462c0819:PsiDirectoryNode" />
+              <item name="lvl_2" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="_ArmWorkBook_" type="b2602c69:ProjectViewProjectNode" />
+              <item name="_ArmWorkBook_" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="file_io" type="462c0819:PsiDirectoryNode" />
+              <item name="lvl_2" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="_ArmWorkBook_" type="b2602c69:ProjectViewProjectNode" />
+              <item name="_ArmWorkBook_" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="file_io" type="462c0819:PsiDirectoryNode" />
+              <item name="lvl_2" type="462c0819:PsiDirectoryNode" />
+              <item name="view" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="_ArmWorkBook_" type="b2602c69:ProjectViewProjectNode" />
               <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
             </path>
           </expand>
@@ -317,15 +1056,18 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="Map&#9;PSI&#9;JAVA://java.util.Map" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539019434537" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539042172765" />
     <property name="full.screen.before.presentation.mode" value="false" />
     <property name="last.edited.regexp" value="&#10;" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
@@ -357,7 +1099,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
+  <component name="RunManager" selected="Application.OperationOnStudents">
     <configuration name="Dine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="concurrency.Philosophers.Dine" />
       <module name="ArmWorkBook" />
@@ -384,6 +1126,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.varargs.Main" />
+      <module name="ArmWorkBook" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="basic.varargs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="exceptions.market.Main" />
       <module name="ArmWorkBook" />
@@ -397,25 +1152,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collections.set.treeset.book_tasks.Task_10" />
+    <configuration name="OperationOnStudents" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collections.list.arraylist.ArrayListJDBC_Crud.OperationOnStudents" />
       <module name="ArmWorkBook" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collections.set.treeset.book_tasks.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Task_68" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic.arrays.Ex68_87.Task_68" />
-      <module name="ArmWorkBook" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="basic.arrays.Ex68_87.*" />
+          <option name="PATTERN" value="collections.list.arraylist.ArrayListJDBC_Crud.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -424,19 +1166,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Task_68" />
-      <item itemvalue="Application.Task_10" />
       <item itemvalue="Application.Dine" />
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.Main (1)" />
+      <item itemvalue="Application.Main (2)" />
+      <item itemvalue="Application.OperationOnStudents" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OperationOnStudents" />
+        <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Dine" />
-        <item itemvalue="Application.Task_10" />
-        <item itemvalue="Application.Task_68" />
       </list>
     </recent_temporary>
   </component>
@@ -460,7 +1202,8 @@
       <workItem from="1536946030869" duration="140000" />
       <workItem from="1539000764209" duration="10287000" />
       <workItem from="1539012108342" duration="2473000" />
-      <workItem from="1539014814496" duration="3028000" />
+      <workItem from="1539014814496" duration="3083000" />
+      <workItem from="1539036390199" duration="1948000" />
     </task>
     <task id="LOCAL-00001" summary="added collection part">
       <created>1539002293205</created>
@@ -602,11 +1345,18 @@
       <option name="project" value="LOCAL" />
       <updated>1539014310574</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="//Commit">
+      <created>1539019578911</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1539019578911</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46163000" />
+    <option name="totallyTimeSpent" value="48166000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -619,8 +1369,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23347548" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23347548" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -629,8 +1380,8 @@
       <window_info id="Learn" order="6" />
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32968238" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49840087" visible="true" weight="0.2537961" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3286334" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49840087" visible="true" weight="0.2537961" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -714,102 +1465,7 @@
     <option name="LAST_COMMIT_MESSAGE" value="//Commit" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/collections/list/linkedlist/book_tasks/Task_25.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="16" column="89" selection-start-line="16" selection-start-column="89" selection-end-line="16" selection-end-column="89" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/collections/list/linkedlist/book_tasks/Task_26.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/collections/set/hashset/book_tasks/Task_1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="17" column="53" selection-start-line="17" selection-start-column="53" selection-end-line="17" selection-end-column="53" />
-          <folding>
-            <element signature="e#189#197#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/collections/set/hashset/book_tasks/Task_2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="22" column="9" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#189#197#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/collections/set/hashset/book_tasks/Task_3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
-          <folding>
-            <element signature="e#190#198#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/collections/set/hashset/book_tasks/Task_4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="18" column="78" selection-start-line="18" selection-start-column="78" selection-end-line="18" selection-end-column="78" />
-          <folding>
-            <element signature="e#216#224#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/collections/set/hashset/book_tasks/Task_5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="19" column="78" selection-start-line="19" selection-start-column="78" selection-end-line="19" selection-end-column="78" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/collections/set/hashset/book_tasks/Task_6.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
-          <folding>
-            <element signature="e#190#198#0" expanded="true" />
-            <element signature="e#534#542#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/collections/set/hashset/book_tasks/Task_7.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="370">
-          <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
-          <folding>
-            <element signature="e#190#198#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/collections/set/hashset/book_tasks/Task_8.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="370">
-          <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#265#273#0" expanded="true" />
-            <element signature="e#650#658#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/collections/set/hashset/book_tasks/Task_9.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/collections/set/hashset/book_tasks/Task_9.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="370">
           <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
@@ -821,7 +1477,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/collections/set/hashset/book_tasks/Task_12.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/collections/set/hashset/book_tasks/Task_12.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="208">
           <caret line="13" column="32" lean-forward="true" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
@@ -831,7 +1487,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/collections/set/hashset/book_tasks/Task_11.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/collections/set/hashset/book_tasks/Task_11.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="368">
           <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
@@ -842,56 +1498,56 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/collections/set/treeset/book_tasks/Task_1.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/collections/set/treeset/book_tasks/Task_1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="208">
           <caret line="13" column="37" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/collections/set/treeset/book_tasks/Task_2.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/collections/set/treeset/book_tasks/Task_2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/collections/set/treeset/book_tasks/Task_3.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/collections/set/treeset/book_tasks/Task_3.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
           <caret line="18" column="52" selection-start-line="18" selection-start-column="52" selection-end-line="18" selection-end-column="52" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/collections/set/treeset/book_tasks/Task_4.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/collections/set/treeset/book_tasks/Task_4.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
           <caret line="23" column="9" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/collections/set/treeset/book_tasks/Task_5.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/collections/set/treeset/book_tasks/Task_5.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="352">
           <caret line="22" selection-start-line="22" selection-end-line="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/collections/set/treeset/book_tasks/Task_6.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/collections/set/treeset/book_tasks/Task_6.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="17" column="57" selection-start-line="17" selection-start-column="57" selection-end-line="17" selection-end-column="57" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/collections/set/treeset/book_tasks/Task_7.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/collections/set/treeset/book_tasks/Task_7.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="256">
           <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/collections/set/treeset/book_tasks/Task_8.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/collections/set/treeset/book_tasks/Task_8.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="384">
           <caret line="26" column="5" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
@@ -903,14 +1559,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/collections/set/treeset/book_tasks/Task_9.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/collections/set/treeset/book_tasks/Task_9.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="320">
           <caret line="20" column="25" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/reflection/Controller/Controller.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/reflection/Controller/Controller.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1120">
           <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
@@ -920,143 +1576,140 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/reflection/View/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/reflection/View/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
           <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/collections/set/treeset/book_tasks/Task_11.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/collections/set/treeset/book_tasks/Task_11.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="363">
           <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/collections/set/treeset/book_tasks/Task_15.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/collections/set/treeset/book_tasks/Task_15.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
           <caret line="21" column="78" selection-start-line="21" selection-start-column="78" selection-end-line="21" selection-end-column="78" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/collections/set/treeset/book_tasks/Task_16.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/collections/set/treeset/book_tasks/Task_16.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="427">
           <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/concurrency/GasStationTest/Demo.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/concurrency/GasStationTest/Demo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="32">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/concurrency/Philosophers/Chopstick.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/concurrency/Philosophers/Chopstick.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="32">
           <caret line="2" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/concurrency/Philosophers/Log.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/concurrency/Philosophers/Log.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="16">
           <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/concurrency/Philosophers/Philosopher.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/concurrency/Philosophers/Philosopher.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="48">
           <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/concurrency/Philosophers/Dine.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/concurrency/Philosophers/Dine.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="48">
           <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/concurrency/Warehouse/Client.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/concurrency/Warehouse/Client.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="94">
           <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/concurrency/Warehouse/Product.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/concurrency/Warehouse/Product.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="224">
           <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/concurrency/GasStationTest/DBManager.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/concurrency/GasStationTest/DBManager.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1473">
           <caret line="19" column="27" lean-forward="true" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/collections/set/treeset/book_tasks/Task_10.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/collections/set/treeset/book_tasks/Task_10.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="128">
           <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/collections/set/hashset/book_tasks/Task_10.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/collections/set/hashset/book_tasks/Task_10.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="384">
           <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/generics/arraylist_example/Qartez.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/generics/arraylist_example/Qartez.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
           <caret line="22" column="24" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/exceptions/market/Customer.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/exceptions/market/Customer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="32">
           <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/exceptions/market/Register.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/exceptions/market/Register.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="64">
           <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/exceptions/market/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/exceptions/market/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
           <caret line="10" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/exceptions/market/errors/ShopRobbery.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/oop/interfacee/loto/Games.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/oop/interfacee/loto/Games.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="448">
           <caret line="28" column="42" selection-start-line="28" selection-start-column="42" selection-end-line="28" selection-end-column="42" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/oop/interfacee/loto/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/oop/interfacee/loto/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="32">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
@@ -1070,50 +1723,216 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/oop/interfacee/loto/Random_Number.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/oop/interfacee/loto/Random_Number.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-6">
           <caret line="46" column="53" selection-start-line="46" selection-start-column="53" selection-end-line="46" selection-end-column="53" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/file_io/lvl_2/view/Main.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2622">
+          <caret line="359" column="17" selection-start-line="359" selection-start-column="12" selection-end-line="359" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/exceptions/market/errors/ShopRobbery.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+          <folding>
+            <element signature="e#163#164#0" expanded="true" />
+            <element signature="e#201#202#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/basic/varargs/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="29" column="1" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="31" column="19" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/file_io/lvl_2/model/Human.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/file_io/lvl_2/model/MyAddress.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/file_io/lvl_2/model/MyDate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/file_io/lvl_2/view/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
           <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/file_io/lvl_2/model/Human.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/file_io/lvl_2/controller/Control.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-384">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/file_io/lvl_2/model/MyDate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/file_io/lvl_2/model/MyAddress.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/file_io/lvl_2/controller/Control.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="241">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        <state relative-caret-position="235">
+          <caret line="73" column="13" selection-start-line="73" selection-start-column="13" selection-end-line="73" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/java8/date/LocalDate1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="12" column="15" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/java8/stream/Streams4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="29" column="28" lean-forward="true" selection-start-line="29" selection-start-column="28" selection-end-line="29" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/collections/list/arraylist/ArrayListJDBC_Crud/ServiceClassUsingArrayLists.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="14" column="12" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/collections/list/arraylist/ArrayListJDBC_Crud/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/collections/list/arraylist/ArrayListJDBC_Crud/ServiceClassUsingJDBC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="10" column="34" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Teacher/•Personal•/ArrayListJDBC_Crud/out/production/ArrayListJDBC_Crud/OperationOnStudents.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="3" column="2" lean-forward="true" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/collections/list/arraylist/ArrayListJDBC_Crud/OperationOnStudents.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>ArmWorkBook</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.google.code.gson:gson:2.6.2</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
