@@ -1,4 +1,4 @@
-package com.java8task.stream;
+package java8.stream;
 
 import java.util.Arrays;
 

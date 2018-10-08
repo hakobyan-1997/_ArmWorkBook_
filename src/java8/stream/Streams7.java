@@ -1,11 +1,10 @@
-package com.java8task.stream;
+package java8.stream;
 
 import java.util.ArrayList;
 import java.util.List;
 import java.util.stream.IntStream;
 
-import com.java8task.stream.Streams7.Bar;
-import com.java8task.stream.Streams7.Foo;
+
 
 public class Streams7 {
 	 static class Foo {

@@ -1,4 +1,4 @@
-package com.java8task.lambda;
+package java8.lambda;
 
 import java.util.Comparator;
 import java.util.Objects;

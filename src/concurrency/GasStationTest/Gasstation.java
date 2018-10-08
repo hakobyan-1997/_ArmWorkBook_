@@ -11,7 +11,6 @@ import java.util.Random;
 import java.util.concurrent.ArrayBlockingQueue;
 import java.util.concurrent.ConcurrentHashMap;
 
-import gasstation.Car.TypeFuel;
 
 
 public class Gasstation {
@@ -38,7 +37,7 @@ public class Gasstation {
 	//blockingqueue because when the queue is empty, cashier has to wait
 	private ArrayList<ArrayBlockingQueue<Car>> cashDesks;
 	//numCol->typeFuel->date,time
-	private HashMap<Integer, HashMap<TypeFuel, ConcurrentHashMap<LocalDateTime, Integer>>> statistics;
+	private HashMap<Integer, HashMap<Car.TypeFuel, ConcurrentHashMap<LocalDateTime, Integer>>> statistics;
 	
 	
 	public Gasstation() {
@@ -48,9 +47,9 @@ public class Gasstation {
 		for(int i=0; i<5; i++){
 			this.columns.add(new LinkedList<>());
 			this.statistics.put(i+1, new HashMap<>());
-			this.statistics.get(i+1).put(TypeFuel.GAS, new ConcurrentHashMap<>());
-			this.statistics.get(i+1).put(TypeFuel.PETROL, new ConcurrentHashMap<>());
-			this.statistics.get(i+1).put(TypeFuel.DIESEL, new ConcurrentHashMap<>());
+			this.statistics.get(i+1).put(Car.TypeFuel.GAS, new ConcurrentHashMap<>());
+			this.statistics.get(i+1).put(Car.TypeFuel.PETROL, new ConcurrentHashMap<>());
+			this.statistics.get(i+1).put(Car.TypeFuel.DIESEL, new ConcurrentHashMap<>());
 		}
 		
 		for(int i=0; i<2; i++){
@@ -92,7 +91,7 @@ public class Gasstation {
 		}		
 	}
 
-	public void addData(TypeFuel fuel, int amount, int numCol, LocalDateTime date) {
+	public void addData(Car.TypeFuel fuel, int amount, int numCol, LocalDateTime date) {
 		this.statistics.get(numCol).get(fuel).put(date, amount);
 		DBManager.getInstance().insertIntoDB(fuel, amount, numCol, date);
 	}
@@ -101,7 +100,7 @@ public class Gasstation {
 		for(Integer i : this.statistics.keySet()){
 			System.out.println("Column "+ i);
 			
-			for(TypeFuel t: this.statistics.get(i).keySet()){
+			for(Car.TypeFuel t: this.statistics.get(i).keySet()){
 				System.out.println("  "+t.toString()+": ");
 				
 				for(Entry<LocalDateTime, Integer> e: this.statistics.get(i).get(t).entrySet()){

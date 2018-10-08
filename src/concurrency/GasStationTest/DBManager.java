@@ -12,7 +12,7 @@ import java.util.Map.Entry;
 import java.util.TreeMap;
 import java.util.TreeSet;
 
-import gasstation.Car.TypeFuel;
+
 
 
 public class DBManager {
@@ -41,16 +41,7 @@ public class DBManager {
 		}
 	}
 	
-	//db table
-	/*
-	 �station_loadings��
-	 �� kolonka_id���numColumn�
-	  � fuel_type����typeFuel
-	  � fuel_quantity���amount
-	  � loading_time��� date� 
-	 */
-	
-	public void insertIntoDB(TypeFuel fuel, int amount, int numCol, LocalDateTime date) {
+	public void insertIntoDB(Car.TypeFuel fuel, int amount, int numCol, LocalDateTime date) {
 		String sqlStat="INSERT INTO station_loadings (fuel_type, fuel_quantity, kolonka_id, loading_time) VALUES (?,?,?,?)";
 		PreparedStatement statment;
 		try {			
@@ -153,13 +144,13 @@ public class DBManager {
 				String fuelType=res.getString("fuel_type");
 				int total=res.getInt("totalQuantity");
 				double fin=(double)total;
-				if(fuelType.equals(TypeFuel.DIESEL.toString())){
+				if(fuelType.equals(Car.TypeFuel.DIESEL.toString())){
 					map.put(fuelType, fin*2.40);
 				}
-				else if(fuelType.equals(TypeFuel.PETROL.toString())){
+				else if(fuelType.equals(Car.TypeFuel.PETROL.toString())){
 					map.put(fuelType, fin*2.00);
 				}
-				else if(fuelType.equals(TypeFuel.GAS.toString())){
+				else if(fuelType.equals(Car.TypeFuel.GAS.toString())){
 					map.put(fuelType, fin*1.60);
 				}				
 			}

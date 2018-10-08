@@ -1,4 +1,4 @@
-package com.java8task.lambda;
+package java8.lambda;
 
 public class Lambda2 {
 	 @FunctionalInterface
@@ -38,6 +38,6 @@ public class Lambda2 {
 	        // constructor reference
 
 	        PersonFactory<Person> personFactory = Person::new;
-	        Person person = personFactory.create("Peter", "Parker");
+	      Person person = personFactory.create("Peter", "Parker");
 	    }
 }

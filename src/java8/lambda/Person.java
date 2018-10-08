@@ -1,4 +1,4 @@
-package com.java8task.lambda;
+package java8.lambda;
 
 public class Person {
 

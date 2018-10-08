@@ -1,4 +1,4 @@
-package com.java8task.date;
+package java8.date;
 
 import java.time.DayOfWeek;
 import java.time.Instant;

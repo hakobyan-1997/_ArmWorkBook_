@@ -1,4 +1,4 @@
-package com.java8task.stream;
+package java8.stream;
 
 import java.io.IOException;
 import java.math.BigDecimal;

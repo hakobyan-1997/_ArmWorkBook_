@@ -3,7 +3,7 @@ package concurrency.GasStationTest;
 import java.util.Queue;
 import java.util.Random;
 
-import gasstation.Car.TypeFuel;
+
 
 public class FuelBoy extends Thread{
 
@@ -28,7 +28,7 @@ public class FuelBoy extends Thread{
 					System.out.println("Loading was interrupted");
 				}
 				int randAmount=new Random().nextInt(31)+10;
-				TypeFuel randTypeFuel=TypeFuel.values()[new Random().nextInt(3)];
+				Car.TypeFuel randTypeFuel= Car.TypeFuel.values()[new Random().nextInt(3)];
 				car.setAmount(randAmount);
 				car.setFuel(randTypeFuel);
 				car.setNumColumn(i+1);

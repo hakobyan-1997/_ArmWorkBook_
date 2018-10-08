@@ -1,4 +1,4 @@
-package com.java8task.stream;
+package java8.stream;
 
 import java.security.SecureRandom;
 import java.util.Arrays;
