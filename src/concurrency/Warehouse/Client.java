@@ -1,8 +1,8 @@
-package wh;
+package concurrency.Warehouse;
 
 import java.util.Random;
 
-import wh.Product.TypeProduct;
+import concurrency.Warehouse.Product.TypeProduct;
 
 public class Client  extends Thread {
 

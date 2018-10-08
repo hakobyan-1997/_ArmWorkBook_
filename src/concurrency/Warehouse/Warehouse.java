@@ -1,8 +1,8 @@
-package wh;
+package concurrency.Warehouse;
 import java.util.HashMap;
 import java.util.Iterator;
 import java.util.Map.Entry;
-import wh.Product.TypeProduct;
+import concurrency.Warehouse.Product.TypeProduct;
 
 
 public class Warehouse {

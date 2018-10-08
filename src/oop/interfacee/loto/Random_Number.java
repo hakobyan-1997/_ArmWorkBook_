@@ -43,7 +43,7 @@ public class Random_Number {
         print_array(num_array, mutq1, mutq2, num1, num2, count);
     }
 
-    public void winning_info(boolean isnum1, boolean isnum2, int money) {
+    private void winning_info(boolean isnum1, boolean isnum2, int money) {
         if (isnum1 && !isnum2 || !isnum1 && isnum2) {
             client_money = client_money + money;
             letter = "Tveric hamynknel e meky\nDzer gumarn e " + client_money + " AMD";
@@ -57,7 +57,7 @@ public class Random_Number {
         System.out.println(letter);
     }
 
-    public void print_array(int[] num_array, int mutq1, int mutq2, int num1, int num2, int count) {
+    private void print_array(int[] num_array, int mutq1, int mutq2, int num1, int num2, int count) {
         System.out.println("- Patahakan generacvac tvern en -");
         if (count <= 3) {
             System.out.print(" " + mutq1);
@@ -78,12 +78,12 @@ public class Random_Number {
         }
     }
 
-    public int calculate(int money) {
+    private int calculate(int money) {
         money = 10 * money;
         return money;
     }
 
-    public int[] random() {
+    private int[] random() {
         int[] num_array = new int[12];
         Random rand = new Random();
         int number;

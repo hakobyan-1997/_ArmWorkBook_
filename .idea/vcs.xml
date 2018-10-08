@@ -3,8 +3,5 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/src/exceptions/ExceptionLoginPass" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/src/exceptions/ExceptionMarket" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/src/exceptions/TaskExceptionsHeadStackCool" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/src/exceptions/exceptionTaskCalculator" vcs="Git" />
   </component>
 </project>

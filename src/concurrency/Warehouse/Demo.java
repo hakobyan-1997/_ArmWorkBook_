@@ -1,4 +1,4 @@
-package wh;
+package concurrency.Warehouse;
 
 public class Demo {
 	public static void main(String[] args) {
