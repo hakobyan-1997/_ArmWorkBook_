@@ -1,3 +1,5 @@
+package collections.list.arraylist.ArrayListJDBC_Crud;
+
 public class Student {
 
     private int rollNo;

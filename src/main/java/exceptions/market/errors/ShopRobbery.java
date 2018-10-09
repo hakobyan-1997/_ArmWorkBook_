@@ -9,5 +9,6 @@ public class ShopRobbery extends Error { //robbery = koxoput
 
     public void message(){
         System.out.println(message);
+
     }
 }
