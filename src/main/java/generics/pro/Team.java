@@ -2,9 +2,7 @@ package generics.pro;
 
 import java.util.ArrayList;
 
-/**
- * Created by dev on 17/10/2015.
- */
+
 public class Team<T extends Player> implements Comparable<Team<T>> {
     private String name;
     int played = 0;
@@ -41,6 +39,7 @@ public class Team<T extends Player> implements Comparable<Team<T>> {
     public void matchResult(Team<T> opponent, int ourScore, int theirScore) {
 
         String message;
+
 
         if(ourScore > theirScore) {
             won++;

@@ -1,8 +1,6 @@
 package generics.pro;
 
-/**
- * Created by dev on 17/10/2015.
- */
+
 public abstract class Player {
     private String name;
 
