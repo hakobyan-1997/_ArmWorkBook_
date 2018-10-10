@@ -17,6 +17,7 @@ public class Lambda1 {
             }
         });
 
+
         Collections.sort(names, (String a, String b) -> {
             return b.compareTo(a);
         });
