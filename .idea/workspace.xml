@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d023873d-49b2-4858-a16d-16e4f525d4de" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/regular_expression/RegExArm.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="d023873d-49b2-4858-a16d-16e4f525d4de" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/maven/target/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -69,7 +66,7 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="2" />
-          <entry key="java" value="530" />
+          <entry key="java" value="531" />
           <entry key="jsp" value="1" />
           <entry key="properties" value="6" />
           <entry key="txt" value="11" />
@@ -79,7 +76,7 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="2" />
-          <entry key="JAVA" value="530" />
+          <entry key="JAVA" value="531" />
           <entry key="JSP" value="1" />
           <entry key="PLAIN_TEXT" value="11" />
           <entry key="Properties" value="6" />
@@ -113,11 +110,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/regular_expression/RegExArm.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="217">
+            <state relative-caret-position="384">
               <caret line="24" selection-start-line="24" selection-end-line="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/BinarySearch.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="32">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -176,15 +182,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="288">
               <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/generics/pro/FootballPlayer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="32">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
             </state>
           </provider>
         </entry>
@@ -343,65 +340,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="concurrency" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="_ArmWorkBook_" type="b2602c69:ProjectViewProjectNode" />
-              <item name="_ArmWorkBook_" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="concurrency" type="462c0819:PsiDirectoryNode" />
-              <item name="Philosophers" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="_ArmWorkBook_" type="b2602c69:ProjectViewProjectNode" />
-              <item name="_ArmWorkBook_" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="generics" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="_ArmWorkBook_" type="b2602c69:ProjectViewProjectNode" />
-              <item name="_ArmWorkBook_" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="generics" type="462c0819:PsiDirectoryNode" />
-              <item name="pro" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="_ArmWorkBook_" type="b2602c69:ProjectViewProjectNode" />
-              <item name="_ArmWorkBook_" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="java8" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="_ArmWorkBook_" type="b2602c69:ProjectViewProjectNode" />
-              <item name="_ArmWorkBook_" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="oca_test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="_ArmWorkBook_" type="b2602c69:ProjectViewProjectNode" />
-              <item name="_ArmWorkBook_" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="ocp_test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="_ArmWorkBook_" type="b2602c69:ProjectViewProjectNode" />
-              <item name="_ArmWorkBook_" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="regular_expression" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="_ArmWorkBook_" type="b2602c69:ProjectViewProjectNode" />
@@ -418,7 +357,7 @@
     <property name="SearchEverywhereHistoryKey" value="Map&#9;PSI&#9;JAVA://java.util.Map" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539214936239" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539215730248" />
     <property name="full.screen.before.presentation.mode" value="false" />
     <property name="last.edited.regexp" value="&#10;" />
     <property name="project.structure.last.edited" value="Project" />
@@ -482,7 +421,7 @@
       <workItem from="1539115736996" duration="319000" />
       <workItem from="1539120682806" duration="190000" />
       <workItem from="1539186754070" duration="46000" />
-      <workItem from="1539209423440" duration="5292000" />
+      <workItem from="1539209423440" duration="5630000" />
     </task>
     <task id="LOCAL-00001" summary="added collection part">
       <created>1539002293205</created>
@@ -687,11 +626,18 @@
       <option name="project" value="LOCAL" />
       <updated>1539214684249</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="//Commit">
+      <created>1539215395707</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1539215395707</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="57725000" />
+    <option name="totallyTimeSpent" value="58063000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -704,9 +650,10 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Web" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13859275" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13859275" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -724,7 +671,7 @@
       <window_info anchor="bottom" id="TODO" order="6" weight="0.329718" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.329718" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.49840087" visible="true" weight="0.27874187" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49840087" visible="true" weight="0.27874187" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50159913" side_tool="true" weight="0.27874187" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.28416485" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -801,16 +748,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="//Commit" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/collections/map/treemap/book_tasks/Task_9.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="17" column="64" selection-start-line="17" selection-start-column="64" selection-end-line="17" selection-end-column="64" />
-          <folding>
-            <element signature="e#196#211#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/collections/map/treemap/book_tasks/Task_10.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="256">
@@ -1193,8 +1130,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/regular_expression/RegExArm.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
+        <state relative-caret-position="384">
           <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/BinarySearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
