@@ -30,7 +30,7 @@ class Student{
          this.lastName = lastName;
      }
 
-     public int getNumberOfMissing() {
+     int getNumberOfMissing() {
          return numberOfMissing;
      }
 

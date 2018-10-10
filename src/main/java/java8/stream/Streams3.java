@@ -39,7 +39,7 @@ public class Streams3 {
 
 	        long t0 = System.nanoTime();
 
-	        long count = values.parallelStream().sorted().count();
+	        long count = values.parallelStream().count();
 	        System.out.println(count);
 
 	        long t1 = System.nanoTime();
