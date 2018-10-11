@@ -1,6 +1,6 @@
    // You job is to create a simple banking application.
         // There should be a Bank class
-        // It should have an arraylist of Branches
+        // It should have an arraylist of Branches(մասնաճյուղ)
         // Each Branch should have an arraylist of Customers
         // The Customer class should have an arraylist of Doubles (transactions)
         // Customer:
