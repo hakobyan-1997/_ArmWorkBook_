@@ -1,32 +1,60 @@
 package algorithms;
 
+import java.util.Arrays;
+import java.util.Random;
+
 public class BinarySearch {
+
+    private static int[] data = new int[10]; // create space for array
+
     public static void main(String[] args){
+        Random generator = new Random();
 
-        int arr[] = {1,2,3,4,5,6,7,8,9};
+        for (int i = 0; i < 10; i++)
+            data[i] = 10 + generator.nextInt(90);
 
-        int  answer  =runBinarySearchRecursively(arr,2,0,arr.length-1);
-        System.out.println(answer);
+        Arrays.sort(data);
 
+        System.out.println(binarySearch(3));
     }
-    private static int runBinarySearchRecursively(
-            int[] sortedArray, int key, int low, int high) {
-        int middle = (low + high) / 2;
 
-        if (high < low) {
-            return -1;
-        }
+    public static int binarySearch(int searchElement){
+        int low = 0;
+        int high = data.length - 1;
+        int middle = (low + high + 1) / 2;
+        int location = -1;
 
-        if (key == sortedArray[middle]) {
-            return middle;
-        } else if (key < sortedArray[middle]) {
-            return runBinarySearchRecursively(
-                    sortedArray, key, low, middle - 1);
-        } else {
-            return runBinarySearchRecursively(
-                    sortedArray, key, middle + 1, high);
-        }
+        do {
+            System.out.print(remainingElements(low, high));
+
+            for (int i = 0; i < middle; i++)
+                System.out.print("   ");
+            System.out.println(" * ");
+
+            if (searchElement == data[middle])
+                location = middle;
+            else if (searchElement < data[middle])
+                high = middle - 1;
+            else
+                low = middle + 1;
+
+            middle = (low + high + 1) / 2;
+        } while ((low <= high) && (location == -1));
+
+        return location;
+    }
+
+    public static String remainingElements(int low, int high){
+        StringBuffer temporary = new StringBuffer();
+
+        for (int i = 0; i < low; i++)
+            temporary.append("   ");
+
+        for (int i = low; i <= high; i++)
+            temporary.append(data[i] + " ");
+
+        temporary.append("\n");
+        return temporary.toString();
     }
 }
-
 
