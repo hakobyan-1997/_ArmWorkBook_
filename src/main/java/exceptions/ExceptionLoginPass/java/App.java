@@ -1,4 +1,3 @@
-/*
 package exceptions.ExceptionLoginPass.java;
 
 
@@ -14,4 +13,3 @@ public class App {
         controller.processUser();
     }
 }
-*/
