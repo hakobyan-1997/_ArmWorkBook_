@@ -2,9 +2,7 @@ package autoboxing_unboxing;
 
 import java.util.ArrayList;
 
-/**
- * Created by dev on 4/09/15.
- */
+
 public class Bank {
     private String name;
     private ArrayList<Branch> branches;
