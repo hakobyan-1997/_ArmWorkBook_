@@ -64,13 +64,14 @@
           <entry key="project.open.time.17" value="2" />
           <entry key="project.open.time.2" value="2" />
           <entry key="project.open.time.6" value="1" />
-          <entry key="project.opened" value="13" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="2" />
-          <entry key="java" value="551" />
+          <entry key="java" value="555" />
           <entry key="jsp" value="1" />
           <entry key="properties" value="6" />
           <entry key="txt" value="12" />
@@ -80,7 +81,7 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="2" />
-          <entry key="JAVA" value="551" />
+          <entry key="JAVA" value="555" />
           <entry key="JSP" value="1" />
           <entry key="PLAIN_TEXT" value="12" />
           <entry key="Properties" value="6" />
@@ -89,14 +90,14 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="1042" />
+          <entry key="java" value="1067" />
           <entry key="txt" value="104" />
           <entry key="xml" value="20" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1042" />
+          <entry key="JAVA" value="1067" />
           <entry key="PLAIN_TEXT" value="104" />
           <entry key="XML" value="20" />
         </counts>
@@ -106,19 +107,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/BubbleSort.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
-              <caret line="20" column="54" selection-start-line="20" selection-start-column="54" selection-end-line="20" selection-end-column="54" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/MergeSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-198">
-              <caret line="4" column="53" lean-forward="true" selection-start-line="4" selection-start-column="53" selection-end-line="4" selection-end-column="53" />
+            <state relative-caret-position="64">
+              <caret line="4" column="53" selection-start-line="4" selection-start-column="53" selection-end-line="4" selection-end-column="53" />
             </state>
           </provider>
         </entry>
@@ -153,8 +145,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/file_io/lvl_2/model/Human.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="25" column="31" lean-forward="true" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
+            <state relative-caret-position="384">
+              <caret line="25" column="31" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -162,11 +154,39 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/file_io/lvl_2/controller/Control.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="26">
-              <caret line="58" column="32" lean-forward="true" selection-start-line="58" selection-start-column="32" selection-end-line="58" selection-end-column="32" />
+              <caret line="58" column="32" selection-start-line="58" selection-start-column="32" selection-end-line="58" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/oop/asbtraction/task_1_hradziqner/Norek.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/oop/asbtraction/task_1_hradziqner/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="336">
+              <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/oop/asbtraction/task_2_barevner/Himar.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/oop/asbtraction/task_2_barevner/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="32">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -191,9 +211,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/java8/stream/Streams1.java" />
-        <option value="$PROJECT_DIR$/src/main/java/java8/stream/Streams3.java" />
-        <option value="$PROJECT_DIR$/src/main/java/collections/map/hashmap/book_tasks/Task_1.java" />
         <option value="$PROJECT_DIR$/src/main/java/collections/map/hashmap/book_tasks/Task_2.java" />
         <option value="$PROJECT_DIR$/src/main/java/collections/map/hashmap/book_tasks/Task_3.java" />
         <option value="$PROJECT_DIR$/src/main/java/collections/map/hashmap/book_tasks/Task_4.java" />
@@ -242,6 +259,9 @@
         <option value="$PROJECT_DIR$/src/main/java/algorithms/BubbleSortExample.java" />
         <option value="$PROJECT_DIR$/src/main/java/algorithms/BubbleSort.java" />
         <option value="$PROJECT_DIR$/src/main/java/algorithms/MyMergeSort.java" />
+        <option value="$PROJECT_DIR$/src/main/java/oop/asbtraction/task_1_hradziqner/Norek.java" />
+        <option value="$PROJECT_DIR$/src/main/java/oop/asbtraction/task_1_hradziqner/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/oop/asbtraction/task_2_barevner/Himar.java" />
       </list>
     </option>
   </component>
@@ -284,8 +304,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -319,13 +337,15 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="Map&#9;PSI&#9;JAVA://java.util.Map" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539998646193" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539998938454" />
     <property name="full.screen.before.presentation.mode" value="false" />
     <property name="last.edited.regexp" value="&#10;" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -335,20 +355,20 @@
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\root\Desktop\_ArmWorkBook_\src\exceptions\ExceptionLoginPass" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\root\Desktop\_ArmWorkBook_\src\main\java\collections\list\arraylist\bank" />
+      <recent name="C:\Users\root\Desktop\_ArmWorkBook_\src\main\java\oop\asbtraction\task_2_barevner" />
+      <recent name="C:\Users\root\Desktop\_ArmWorkBook_\src\main\java\oop\asbtraction\task_1_hradziqner" />
+      <recent name="C:\Users\root\Desktop\_ArmWorkBook_\src\main\java\autoboxing_unboxing" />
+      <recent name="C:\Users\root\Desktop\_ArmWorkBook_\src\main\java\generics\pro" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="collections.set.hashset" />
       <recent name="collections.list.linkedlist" />
       <recent name="collections.list.arraylist" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\root\Desktop\_ArmWorkBook_\src\main\java\autoboxing_unboxing" />
-      <recent name="C:\Users\root\Desktop\_ArmWorkBook_\src\main\java\generics\pro" />
-      <recent name="C:\Users\root\Desktop\_ArmWorkBook_\src\main\java\generics" />
-      <recent name="C:\Users\root\Desktop\_ArmWorkBook_\src\file_io\lvl_2" />
-      <recent name="C:\Users\root\Desktop\_ArmWorkBook_\src\exceptions" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\root\Desktop\_ArmWorkBook_\src\exceptions\ExceptionLoginPass" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -362,44 +382,6 @@
         </RuleState>
       </list>
     </option>
-  </component>
-  <component name="RunManager" selected="Application.Main (1)">
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oop.asbtraction.task_2_barevner.Main" />
-      <module name="ArmWorkBook" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="oop.asbtraction.task_2_barevner.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oop.asbtraction.task_1_hradziqner.Main" />
-      <module name="ArmWorkBook" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="oop.asbtraction.task_1_hradziqner.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <list>
-      <item itemvalue="Application.Main" />
-      <item itemvalue="Application.Main (1)" />
-    </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -432,6 +414,7 @@
       <workItem from="1539221583503" duration="1488000" />
       <workItem from="1539250503536" duration="1616000" />
       <workItem from="1539293036246" duration="1230000" />
+      <workItem from="1539998471657" duration="237000" />
     </task>
     <task id="LOCAL-00001" summary="added collection part">
       <created>1539002293205</created>
@@ -685,11 +668,18 @@
       <option name="project" value="LOCAL" />
       <updated>1539252450107</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="//Commit">
+      <created>1539998691552</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1539998691552</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="65623000" />
+    <option name="totallyTimeSpent" value="65860000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -714,14 +704,14 @@
       <window_info id="Web" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3286334" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49840087" weight="0.2537961" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49840087" weight="0.3991323" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.329718" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.329718" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49840087" weight="0.27874187" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49840087" visible="true" weight="0.27874187" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50159913" side_tool="true" weight="0.27874187" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.28416485" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" />
@@ -799,34 +789,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="//Commit" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/java8/date/LocalDateTime1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/java8/date/LocalTime1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/java8/lambda/Interface1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="624">
-          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/java8/lambda/Lambda1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/java8/lambda/Lambda2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
@@ -1042,9 +1004,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="592">
           <caret line="37" selection-start-line="37" selection-end-line="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1052,9 +1011,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="400">
           <caret line="26" column="12" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1083,14 +1039,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="80">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding>
-            <element signature="e#419#420#0" expanded="true" />
-            <element signature="e#464#465#0" expanded="true" />
-            <element signature="e#495#496#0" expanded="true" />
-            <element signature="e#522#523#0" expanded="true" />
-            <element signature="e#572#573#0" expanded="true" />
-            <element signature="e#607#608#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1124,8 +1072,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/MergeSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-198">
-          <caret line="4" column="53" lean-forward="true" selection-start-line="4" selection-start-column="53" selection-end-line="4" selection-end-column="53" />
+        <state relative-caret-position="64">
+          <caret line="4" column="53" selection-start-line="4" selection-start-column="53" selection-end-line="4" selection-end-column="53" />
         </state>
       </provider>
     </entry>
@@ -1152,8 +1100,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/file_io/lvl_2/model/Human.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="25" column="31" lean-forward="true" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
+        <state relative-caret-position="384">
+          <caret line="25" column="31" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1163,7 +1111,27 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/file_io/lvl_2/controller/Control.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="26">
-          <caret line="58" column="32" lean-forward="true" selection-start-line="58" selection-start-column="32" selection-end-line="58" selection-end-column="32" />
+          <caret line="58" column="32" selection-start-line="58" selection-start-column="32" selection-end-line="58" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/oop/asbtraction/task_1_hradziqner/Norek.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/oop/asbtraction/task_1_hradziqner/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/oop/asbtraction/task_2_barevner/Himar.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/oop/asbtraction/task_2_barevner/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
