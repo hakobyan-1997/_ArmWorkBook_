@@ -17,7 +17,7 @@ public class Account {
 		this.uuid = theBank.getNewAccontUUID();
 
 		/**initialize transaction**/
-		this.transaction = new ArrayList<Transaction>();
+		this.transaction = new ArrayList<>();
 
 	}
 
